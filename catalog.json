@@ -5,7 +5,7 @@
         "description": "",
         "theme": "streamer",
         "type": "character",
-        "cost": 0,
+        "cost": 0
     },
     {
         "id": "jimmy",
@@ -13,7 +13,7 @@
         "description": "",
         "theme": "Streamer",
         "type": "character",
-        "cost": 0,
+        "cost": 0
     },
     {
         "id": "instafluff",
@@ -21,7 +21,7 @@
         "description": "",
         "theme": "Streamer",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "maaya",
@@ -29,7 +29,7 @@
         "description": "",
         "theme": "Streamer",
         "type": "character",
-        "cost": 0,
+        "cost": 0
     },
     {
         "id": "sammie",
@@ -37,7 +37,7 @@
         "description": "",
         "theme": "Streamer",
         "type": "character",
-        "cost": 0,
+        "cost": 0
     },
     {
         "id": "boy",
@@ -45,7 +45,7 @@
         "description": "",
         "theme": "Base",
         "type": "character",
-        "cost": 0,
+        "cost": 0
     },
     {
         "id": "girl",
@@ -53,7 +53,7 @@
         "description": "",
         "theme": "Base",
         "type": "character",
-        "cost": 0,
+        "cost": 0
     },
     {
         "id": "boybear",
@@ -61,7 +61,7 @@
         "description": "",
         "theme": "Valentine",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "girlbear",
@@ -69,7 +69,7 @@
         "description": "",
         "theme": "Valentine",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "evilbear",
@@ -77,7 +77,7 @@
         "description": "",
         "theme": "Valentine",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "boyhunter",
@@ -85,7 +85,7 @@
         "description": "",
         "theme": "Adventure",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "girlhunter",
@@ -93,7 +93,7 @@
         "description": "",
         "theme": "Adventure",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "harry",
@@ -101,7 +101,7 @@
         "description": "",
         "theme": "Magic",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "hermione",
@@ -109,7 +109,7 @@
         "description": "",
         "theme": "Magic",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "ron",
@@ -117,7 +117,7 @@
         "description": "",
         "theme": "Magic",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "dobby",
@@ -125,7 +125,7 @@
         "description": "",
         "theme": "Magic",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "voldemort",
@@ -133,7 +133,7 @@
         "description": "",
         "theme": "Magic",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "monster",
@@ -141,7 +141,7 @@
         "description": "",
         "theme": "Halloween",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "vampire",
@@ -149,7 +149,7 @@
         "description": "",
         "theme": "Halloween",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "witch",
@@ -157,7 +157,7 @@
         "description": "",
         "theme": "Halloween",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "zombie",
@@ -165,7 +165,7 @@
         "description": "",
         "theme": "Halloween",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "claus",
@@ -173,7 +173,7 @@
         "description": "",
         "theme": "Christmas",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "elf",
@@ -181,7 +181,7 @@
         "description": "",
         "theme": "Christmas",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "elfgirl",
@@ -189,7 +189,7 @@
         "description": "",
         "theme": "Christmas",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "grinch",
@@ -197,7 +197,7 @@
         "description": "",
         "theme": "Christmas",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "santa",
@@ -205,7 +205,7 @@
         "description": "",
         "theme": "Christmas",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "snowman",
@@ -213,7 +213,7 @@
         "description": "",
         "theme": "Winter",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "chick",
@@ -221,7 +221,7 @@
         "description": "",
         "theme": "Easter",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "rabbit",
@@ -229,7 +229,7 @@
         "description": "",
         "theme": "Easter",
         "type": "character",
-        "cost": 30,
+        "cost": 30
     },
     {
         "id": "pet_chick",
@@ -237,6 +237,6 @@
         "description": "",
         "theme": "Easter",
         "type": "pet",
-        "cost": 60,
+        "cost": 60
     }
 ]

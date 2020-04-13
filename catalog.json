@@ -261,7 +261,7 @@
         "cost": 30
     },
     {
-        "id": "chick",
+        "id": "pet_chick",
         "name": "Tiny Chick",
         "description": "",
         "theme": "Easter",

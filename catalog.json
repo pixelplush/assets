@@ -1,212 +1,242 @@
-{
-    "avellana": {
+[
+    {
+        "id": "avellana",
         "name": "Avellana",
         "description": "",
         "theme": "streamer",
         "type": "character",
         "cost": 0,
     },
-    "jimmy": {
+    {
+        "id": "jimmy",
         "name": "Jimmy",
         "description": "",
         "theme": "Streamer",
         "type": "character",
         "cost": 0,
     },
-    "instafluff": {
+    {
+        "id": "instafluff",
         "name": "Instafluff",
         "description": "",
         "theme": "Streamer",
         "type": "character",
         "cost": 30,
     },
-    "maaya": {
+    {
+        "id": "maaya",
         "name": "Maaya",
         "description": "",
         "theme": "Streamer",
         "type": "character",
         "cost": 0,
     },
-    "sammie": {
+    {
+        "id": "sammie",
         "name": "Sammie",
         "description": "",
         "theme": "Streamer",
         "type": "character",
         "cost": 0,
     },
-    "boy": {
+    {
+        "id": "boy",
         "name": "Boy",
         "description": "",
         "theme": "Base",
         "type": "character",
         "cost": 0,
     },
-    "girl": {
+    {
+        "id": "girl",
         "name": "Girl",
         "description": "",
         "theme": "Base",
         "type": "character",
         "cost": 0,
     },
-    "boybear": {
+    {
+        "id": "boybear",
         "name": "Bear (Boy)",
         "description": "",
         "theme": "Valentine",
         "type": "character",
         "cost": 30,
     },
-    "girlbear": {
+    {
+        "id": "girlbear",
         "name": "Bear (Girl)",
         "description": "",
         "theme": "Valentine",
         "type": "character",
         "cost": 30,
     },
-    "evilbear": {
+    {
+        "id": "evilbear",
         "name": "Evil Bear",
         "description": "",
         "theme": "Valentine",
         "type": "character",
         "cost": 30,
     },
-    "boyhunter": {
+    {
+        "id": "boyhunter",
         "name": "Hunter (Boy)",
         "description": "",
         "theme": "Adventure",
         "type": "character",
         "cost": 30,
     },
-    "girlhunter": {
+    {
+        "id": "girlhunter",
         "name": "Hunter (Girl)",
         "description": "",
         "theme": "Adventure",
         "type": "character",
         "cost": 30,
     },
-    "harry": {
+    {
+        "id": "harry",
         "name": "Geeky Wizard",
         "description": "",
         "theme": "Magic",
         "type": "character",
         "cost": 30,
     },
-    "hermione": {
+    {
+        "id": "hermione",
         "name": "Smart Girl Wizard",
         "description": "",
         "theme": "Magic",
         "type": "character",
         "cost": 30,
     },
-    "ron": {
+    {
+        "id": "ron",
         "name": "Red-Hair Wizard",
         "description": "",
         "theme": "Magic",
         "type": "character",
         "cost": 30,
     },
-    "dobby": {
+    {
+        "id": "dobby",
         "name": "Magical Elf",
         "description": "",
         "theme": "Magic",
         "type": "character",
         "cost": 30,
     },
-    "voldemort": {
+    {
+        "id": "voldemort",
         "name": "Evil Wizard",
         "description": "",
         "theme": "Magic",
         "type": "character",
         "cost": 30,
     },
-    "monster": {
+    {
+        "id": "monster",
         "name": "Monster",
         "description": "",
         "theme": "Halloween",
         "type": "character",
         "cost": 30,
     },
-    "vampire": {
+    {
+        "id": "vampire",
         "name": "Vampire",
         "description": "",
         "theme": "Halloween",
         "type": "character",
         "cost": 30,
     },
-    "witch": {
+    {
+        "id": "witch",
         "name": "Witch",
         "description": "",
         "theme": "Halloween",
         "type": "character",
         "cost": 30,
     },
-    "zombie": {
+    {
+        "id": "zombie",
         "name": "Zombie",
         "description": "",
         "theme": "Halloween",
         "type": "character",
         "cost": 30,
     },
-    "claus": {
+    {
+        "id": "claus",
         "name": "Mrs. Claus",
         "description": "",
         "theme": "Christmas",
         "type": "character",
         "cost": 30,
     },
-    "elf": {
+    {
+        "id": "elf",
         "name": "Christmas Helper (Boy)",
         "description": "",
         "theme": "Christmas",
         "type": "character",
         "cost": 30,
     },
-    "elfgirl": {
+    {
+        "id": "elfgirl",
         "name": "Christmas Helper (Girl)",
         "description": "",
         "theme": "Christmas",
         "type": "character",
         "cost": 30,
     },
-    "grinch": {
+    {
+        "id": "grinch",
         "name": "Grump",
         "description": "",
         "theme": "Christmas",
         "type": "character",
         "cost": 30,
     },
-    "santa": {
+    {
+        "id": "santa",
         "name": "Santa Claus",
         "description": "",
         "theme": "Christmas",
         "type": "character",
         "cost": 30,
     },
-    "snowman": {
+    {
+        "id": "snowman",
         "name": "Snowman",
         "description": "",
         "theme": "Winter",
         "type": "character",
         "cost": 30,
     },
-    "chick": {
+    {
+        "id": "chick",
         "name": "Chick",
         "description": "",
         "theme": "Easter",
         "type": "character",
         "cost": 30,
     },
-    "rabbit": {
+    {
+        "id": "rabbit",
         "name": "Rabbit Outfit",
         "description": "",
         "theme": "Easter",
         "type": "character",
         "cost": 30,
     },
-    "pet_chick": {
+    {
+        "id": "pet_chick",
         "name": "Tiny Chick",
         "description": "",
         "theme": "Easter",
         "type": "pet",
         "cost": 60,
-    },
-}
+    }
+]

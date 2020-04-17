@@ -3,7 +3,7 @@
         "id": "avellana",
         "name": "Avellana",
         "description": "",
-        "theme": "streamer",
+        "theme": "Streamer",
         "type": "character",
         "path": "avelana",
         "cost": 0
@@ -268,5 +268,43 @@
         "type": "pet",
         "path": "chick",
         "cost": 60
+    },
+    {
+        "id": "pet_fluffington",
+        "name": "Fluffington",
+        "description": "",
+        "theme": "Streamer",
+        "type": "pet",
+        "path": "fluffington",
+        "cost": 0,
+        "subscription": "instafluff"
+    },
+    {
+        "id": "pet_fly",
+        "name": "Fly",
+        "description": "",
+        "theme": "Cute",
+        "type": "pet",
+        "path": "fly",
+        "cost": 60
+    },
+    {
+        "id": "pet_rabbit",
+        "name": "Rabbit",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "rabbit",
+        "cost": 60
+    },
+    {
+        "id": "pet_rainbee",
+        "name": "Rainbee",
+        "description": "",
+        "theme": "Streamer",
+        "type": "pet",
+        "path": "rainbee",
+        "cost": 0,
+        "subscription": "maayainsane"
     }
 ]

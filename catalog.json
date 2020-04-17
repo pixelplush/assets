@@ -294,7 +294,7 @@
         "description": "",
         "theme": "Easter",
         "type": "pet",
-        "path": "rabbit/rabbit1",
+        "path": "rabbit1",
         "cost": 60
     },
     {
@@ -303,7 +303,7 @@
         "description": "",
         "theme": "Easter",
         "type": "pet",
-        "path": "rabbit/rabbit2",
+        "path": "rabbit2",
         "cost": 60
     },
     {

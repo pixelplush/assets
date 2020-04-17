@@ -7,7 +7,8 @@
         "type": "pet",
         "path": "fluffington",
         "cost": 10000,
-        "subscription": "instafluff"
+        "subscription": "instafluff",
+        "hidden": true
     },
     {
         "id": "pet_rainbee",
@@ -17,7 +18,8 @@
         "type": "pet",
         "path": "rainbee",
         "cost": 10000,
-        "subscription": "maayainsane"
+        "subscription": "maayainsane",
+        "hidden": true
     },
     {
         "id": "pet_chick",
@@ -53,7 +55,8 @@
         "theme": "Easter",
         "type": "pet",
         "path": "rabbit2",
-        "cost": 60
+        "cost": 60,
+        "hidden": true
     },
     {
         "id": "instafluff",
@@ -148,7 +151,8 @@
         "theme": "Valentine",
         "type": "character",
         "path": "evil_bear",
-        "cost": 30
+        "cost": 30,
+        "hidden": true
     },
     {
         "id": "boyhunter",
@@ -157,7 +161,8 @@
         "theme": "Adventure",
         "type": "character",
         "path": "boyhunter",
-        "cost": 30
+        "cost": 30,
+        "hidden": true
     },
     {
         "id": "girlhunter",
@@ -166,7 +171,8 @@
         "theme": "Adventure",
         "type": "character",
         "path": "girlhunter",
-        "cost": 30
+        "cost": 30,
+        "hidden": true
     },
     {
         "id": "harry",
@@ -184,7 +190,8 @@
         "theme": "Magic",
         "type": "character",
         "path": "hermione",
-        "cost": 30
+        "cost": 30,
+        "hidden": true
     },
     {
         "id": "ron",
@@ -193,7 +200,8 @@
         "theme": "Magic",
         "type": "character",
         "path": "ron",
-        "cost": 30
+        "cost": 30,
+        "hidden": true
     },
     {
         "id": "dobby",
@@ -202,7 +210,8 @@
         "theme": "Magic",
         "type": "character",
         "path": "dobby",
-        "cost": 30
+        "cost": 30,
+        "hidden": true
     },
     {
         "id": "voldemort",
@@ -211,7 +220,8 @@
         "theme": "Magic",
         "type": "character",
         "path": "voldemort",
-        "cost": 30
+        "cost": 30,
+        "hidden": true
     },
     {
         "id": "monster",
@@ -220,7 +230,8 @@
         "theme": "Halloween",
         "type": "character",
         "path": "monster",
-        "cost": 30
+        "cost": 30,
+        "hidden": true
     },
     {
         "id": "vampire",
@@ -229,7 +240,8 @@
         "theme": "Halloween",
         "type": "character",
         "path": "vampire",
-        "cost": 30
+        "cost": 30,
+        "hidden": true
     },
     {
         "id": "witch",
@@ -238,7 +250,8 @@
         "theme": "Halloween",
         "type": "character",
         "path": "witch",
-        "cost": 30
+        "cost": 30,
+        "hidden": true
     },
     {
         "id": "zombie",
@@ -247,43 +260,8 @@
         "theme": "Halloween",
         "type": "character",
         "path": "zombie",
-        "cost": 30
-    },
-    {
-        "id": "claus",
-        "name": "Mrs. Claus",
-        "description": "",
-        "theme": "Christmas",
-        "type": "character",
-        "path": "claus",
-        "cost": 30
-    },
-    {
-        "id": "elf",
-        "name": "Christmas Helper (Boy)",
-        "description": "",
-        "theme": "Christmas",
-        "type": "character",
-        "path": "elf",
-        "cost": 30
-    },
-    {
-        "id": "elfgirl",
-        "name": "Christmas Helper (Girl)",
-        "description": "",
-        "theme": "Christmas",
-        "type": "character",
-        "path": "elfgirl",
-        "cost": 30
-    },
-    {
-        "id": "grinch",
-        "name": "Grump",
-        "description": "",
-        "theme": "Christmas",
-        "type": "character",
-        "path": "grinch",
-        "cost": 30
+        "cost": 30,
+        "hidden": true
     },
     {
         "id": "santa",
@@ -292,7 +270,48 @@
         "theme": "Christmas",
         "type": "character",
         "path": "santa",
-        "cost": 30
+        "cost": 30,
+        "hidden": true
+    },
+    {
+        "id": "claus",
+        "name": "Mrs. Claus",
+        "description": "",
+        "theme": "Christmas",
+        "type": "character",
+        "path": "claus",
+        "cost": 30,
+        "hidden": true
+    },
+    {
+        "id": "elf",
+        "name": "Christmas Helper (Boy)",
+        "description": "",
+        "theme": "Christmas",
+        "type": "character",
+        "path": "elf",
+        "cost": 30,
+        "hidden": true
+    },
+    {
+        "id": "elfgirl",
+        "name": "Christmas Helper (Girl)",
+        "description": "",
+        "theme": "Christmas",
+        "type": "character",
+        "path": "elfgirl",
+        "cost": 30,
+        "hidden": true
+    },
+    {
+        "id": "grinch",
+        "name": "Grump",
+        "description": "",
+        "theme": "Christmas",
+        "type": "character",
+        "path": "grinch",
+        "cost": 30,
+        "hidden": true
     },
     {
         "id": "snowman",
@@ -301,7 +320,8 @@
         "theme": "Winter",
         "type": "character",
         "path": "snowman",
-        "cost": 30
+        "cost": 30,
+        "hidden": true
     },
     {
         "id": "chick",

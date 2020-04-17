@@ -1,21 +1,59 @@
 [
     {
-        "id": "avellana",
-        "name": "Avellana",
+        "id": "pet_fluffington",
+        "name": "Fluffington",
         "description": "",
         "theme": "Streamer",
-        "type": "character",
-        "path": "avelana",
-        "cost": 0
+        "type": "pet",
+        "path": "fluffington",
+        "cost": 10000,
+        "subscription": "instafluff"
     },
     {
-        "id": "jimmy",
-        "name": "Jimmy",
+        "id": "pet_rainbee",
+        "name": "Rainbee",
         "description": "",
         "theme": "Streamer",
-        "type": "character",
-        "path": "jimmy",
-        "cost": 0
+        "type": "pet",
+        "path": "rainbee",
+        "cost": 10000,
+        "subscription": "maayainsane"
+    },
+    {
+        "id": "pet_chick",
+        "name": "Tiny Chick",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "chick",
+        "cost": 60
+    },
+    {
+        "id": "pet_fly",
+        "name": "Fly",
+        "description": "",
+        "theme": "Cute",
+        "type": "pet",
+        "path": "fly",
+        "cost": 60
+    },
+    {
+        "id": "pet_rabbit1",
+        "name": "Rabbit (Brown)",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "rabbit1",
+        "cost": 60
+    },
+    {
+        "id": "pet_rabbit2",
+        "name": "Rabbit (Spotted)",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "rabbit2",
+        "cost": 60
     },
     {
         "id": "instafluff",
@@ -24,7 +62,8 @@
         "theme": "Streamer",
         "type": "character",
         "path": "insta",
-        "cost": 0
+        "cost": 0,
+        "hidden": true
     },
     {
         "id": "maaya",
@@ -33,7 +72,28 @@
         "theme": "Streamer",
         "type": "character",
         "path": "maaya",
-        "cost": 0
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "avellana",
+        "name": "Avellana",
+        "description": "",
+        "theme": "Streamer",
+        "type": "character",
+        "path": "avelana",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "jimmy",
+        "name": "Jimmy",
+        "description": "",
+        "theme": "Streamer",
+        "type": "character",
+        "path": "jimmy",
+        "cost": 0,
+        "hidden": true
     },
     {
         "id": "sammie",
@@ -42,7 +102,8 @@
         "theme": "Streamer",
         "type": "character",
         "path": "sammie",
-        "cost": 0
+        "cost": 0,
+        "hidden": true
     },
     {
         "id": "boy",
@@ -259,61 +320,5 @@
         "type": "character",
         "path": "rabbit",
         "cost": 30
-    },
-    {
-        "id": "pet_chick",
-        "name": "Tiny Chick",
-        "description": "",
-        "theme": "Easter",
-        "type": "pet",
-        "path": "chick",
-        "cost": 60
-    },
-    {
-        "id": "pet_fluffington",
-        "name": "Fluffington",
-        "description": "",
-        "theme": "Streamer",
-        "type": "pet",
-        "path": "fluffington",
-        "cost": 0,
-        "subscription": "instafluff"
-    },
-    {
-        "id": "pet_fly",
-        "name": "Fly",
-        "description": "",
-        "theme": "Cute",
-        "type": "pet",
-        "path": "fly",
-        "cost": 60
-    },
-    {
-        "id": "pet_rabbit1",
-        "name": "Rabbit (Brown)",
-        "description": "",
-        "theme": "Easter",
-        "type": "pet",
-        "path": "rabbit1",
-        "cost": 60
-    },
-    {
-        "id": "pet_rabbit2",
-        "name": "Rabbit (Spotted)",
-        "description": "",
-        "theme": "Easter",
-        "type": "pet",
-        "path": "rabbit2",
-        "cost": 60
-    },
-    {
-        "id": "pet_rainbee",
-        "name": "Rainbee",
-        "description": "",
-        "theme": "Streamer",
-        "type": "pet",
-        "path": "rainbee",
-        "cost": 0,
-        "subscription": "maayainsane"
     }
 ]

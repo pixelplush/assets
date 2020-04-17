@@ -1,5 +1,15 @@
 [
     {
+        "id": "pet_none",
+        "name": "None",
+        "description": "",
+        "theme": "None",
+        "type": "pet",
+        "path": "",
+        "cost": 0,
+        "hidden": true
+    },
+    {
         "id": "pet_fluffington",
         "name": "Fluffington",
         "description": "",

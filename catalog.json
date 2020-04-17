@@ -289,12 +289,21 @@
         "cost": 60
     },
     {
-        "id": "pet_rabbit",
-        "name": "Rabbit",
+        "id": "pet_rabbit1",
+        "name": "Rabbit (Brown)",
         "description": "",
         "theme": "Easter",
         "type": "pet",
-        "path": "rabbit",
+        "path": "rabbit/rabbit1",
+        "cost": 60
+    },
+    {
+        "id": "pet_rabbit2",
+        "name": "Rabbit (Spotted)",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "rabbit/rabbit2",
         "cost": 60
     },
     {

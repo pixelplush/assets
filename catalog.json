@@ -75,8 +75,7 @@
         "theme": "Streamer",
         "type": "character",
         "path": "insta",
-        "cost": 0,
-        "hidden": true
+        "cost": 0
     },
     {
         "id": "maaya",
@@ -85,8 +84,7 @@
         "theme": "Streamer",
         "type": "character",
         "path": "maaya",
-        "cost": 0,
-        "hidden": true
+        "cost": 0
     },
     {
         "id": "avellana",

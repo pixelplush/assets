@@ -38,6 +38,177 @@
         "hidden": true
     },
     {
+        "id": "bellflower",
+        "name": "Bellflower",
+        "description": "",
+        "theme": "Spring",
+        "type": "character",
+        "path": "bellflower",
+        "cost": 30
+    },
+    {
+        "id": "calendula",
+        "name": "Calendula",
+        "description": "",
+        "theme": "Spring",
+        "type": "character",
+        "path": "calendula",
+        "cost": 30
+    },
+    {
+        "id": "poppy",
+        "name": "Poppy",
+        "description": "",
+        "theme": "Spring",
+        "type": "character",
+        "path": "poppy",
+        "cost": 30
+    },
+    {
+        "id": "pet_balloon_blue",
+        "name": "Blue Balloon",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "pet",
+        "path": "balloon_blue",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": false
+    },
+    {
+        "id": "pet_balloon_blue_light",
+        "name": "Sky Balloon",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "pet",
+        "path": "balloon_blue_light",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": false
+    },
+    {
+        "id": "pet_balloon_gold",
+        "name": "Golden Balloon",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "pet",
+        "path": "balloon_gold",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": false
+    },
+    {
+        "id": "pet_balloon_green",
+        "name": "Green Balloon",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "pet",
+        "path": "balloon_green",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": false
+    },
+    {
+        "id": "pet_balloon_orange",
+        "name": "Orange Balloon",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "pet",
+        "path": "balloon_orange",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": false
+    },
+    {
+        "id": "pet_balloon_pink",
+        "name": "Hot Pink Balloon",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "pet",
+        "path": "balloon_pink",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": false
+    },
+    {
+        "id": "pet_balloon_pink_light",
+        "name": "Pink Balloon",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "pet",
+        "path": "balloon_pink_light",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": false
+    },
+    {
+        "id": "pet_balloon_purple",
+        "name": "Purple Balloon",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "pet",
+        "path": "balloon_purple",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": false
+    },
+    {
+        "id": "pet_balloon_rainbow",
+        "name": "Rainbow Balloon",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "pet",
+        "path": "balloon_rainbow",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": false
+    },
+    {
+        "id": "pet_balloon_red",
+        "name": "Red Balloon",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "pet",
+        "path": "balloon_red",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": false
+    },
+    {
+        "id": "pet_balloon_silver",
+        "name": "Silver Balloon",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "pet",
+        "path": "balloon_silver",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": false
+    },
+    {
+        "id": "pet_balloon_yellow",
+        "name": "Yellow Balloon",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "pet",
+        "path": "balloon_yellow",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": false
+    },
+    {
         "id": "pet_chick",
         "name": "Tiny Chick",
         "description": "",
@@ -61,7 +232,7 @@
     },
     {
         "id": "pet_rabbit1",
-        "name": "Rabbit (Brown)",
+        "name": "Brown Rabbit",
         "description": "",
         "theme": "Easter",
         "type": "pet",
@@ -72,15 +243,14 @@
     },
     {
         "id": "pet_rabbit2",
-        "name": "Rabbit (Spotted)",
+        "name": "Spotted Rabbit",
         "description": "",
         "theme": "Easter",
         "type": "pet",
         "path": "rabbit2",
         "cost": 60,
         "minIdle": 200,
-        "maxIdle": 800,
-        "hidden": true
+        "maxIdle": 800
     },
     {
         "id": "instafluff",
@@ -150,23 +320,21 @@
     },
     {
         "id": "boybear",
-        "name": "Bear (Boy)",
+        "name": "Bear (M)",
         "description": "",
         "theme": "Valentine",
         "type": "character",
         "path": "bear",
-        "cost": 30,
-        "hidden": true
+        "cost": 30
     },
     {
         "id": "girlbear",
-        "name": "Bear (Girl)",
+        "name": "Bear (F)",
         "description": "",
         "theme": "Valentine",
         "type": "character",
         "path": "beargirl",
-        "cost": 30,
-        "hidden": true
+        "cost": 30
     },
     {
         "id": "evilbear",
@@ -175,28 +343,25 @@
         "theme": "Valentine",
         "type": "character",
         "path": "evil_bear",
-        "cost": 30,
-        "hidden": true
+        "cost": 30
     },
     {
         "id": "boyhunter",
-        "name": "Hunter (Boy)",
+        "name": "Hunter (M)",
         "description": "",
         "theme": "Adventure",
         "type": "character",
         "path": "boyhunter",
-        "cost": 30,
-        "hidden": true
+        "cost": 30
     },
     {
         "id": "girlhunter",
-        "name": "Hunter (Girl)",
+        "name": "Hunter (F)",
         "description": "",
         "theme": "Adventure",
         "type": "character",
         "path": "girlhunter",
-        "cost": 30,
-        "hidden": true
+        "cost": 30
     },
     {
         "id": "harry",
@@ -214,8 +379,7 @@
         "theme": "Magic",
         "type": "character",
         "path": "hermione",
-        "cost": 30,
-        "hidden": true
+        "cost": 30
     },
     {
         "id": "ron",
@@ -224,8 +388,7 @@
         "theme": "Magic",
         "type": "character",
         "path": "ron",
-        "cost": 30,
-        "hidden": true
+        "cost": 30
     },
     {
         "id": "dobby",
@@ -234,8 +397,7 @@
         "theme": "Magic",
         "type": "character",
         "path": "dobby",
-        "cost": 30,
-        "hidden": true
+        "cost": 30
     },
     {
         "id": "voldemort",
@@ -244,8 +406,7 @@
         "theme": "Magic",
         "type": "character",
         "path": "voldemort",
-        "cost": 30,
-        "hidden": true
+        "cost": 30
     },
     {
         "id": "monster",
@@ -254,8 +415,7 @@
         "theme": "Halloween",
         "type": "character",
         "path": "monster",
-        "cost": 30,
-        "hidden": true
+        "cost": 30
     },
     {
         "id": "vampire",
@@ -264,8 +424,7 @@
         "theme": "Halloween",
         "type": "character",
         "path": "vampire",
-        "cost": 30,
-        "hidden": true
+        "cost": 30
     },
     {
         "id": "witch",
@@ -274,8 +433,7 @@
         "theme": "Halloween",
         "type": "character",
         "path": "witch",
-        "cost": 30,
-        "hidden": true
+        "cost": 30
     },
     {
         "id": "zombie",
@@ -284,8 +442,7 @@
         "theme": "Halloween",
         "type": "character",
         "path": "zombie",
-        "cost": 30,
-        "hidden": true
+        "cost": 30
     },
     {
         "id": "santa",
@@ -294,8 +451,7 @@
         "theme": "Christmas",
         "type": "character",
         "path": "santa",
-        "cost": 30,
-        "hidden": true
+        "cost": 30
     },
     {
         "id": "claus",
@@ -304,28 +460,25 @@
         "theme": "Christmas",
         "type": "character",
         "path": "claus",
-        "cost": 30,
-        "hidden": true
+        "cost": 30
     },
     {
         "id": "elf",
-        "name": "Christmas Helper (Boy)",
+        "name": "Christmas Helper (M)",
         "description": "",
         "theme": "Christmas",
         "type": "character",
         "path": "elf",
-        "cost": 30,
-        "hidden": true
+        "cost": 30
     },
     {
         "id": "elfgirl",
-        "name": "Christmas Helper (Girl)",
+        "name": "Christmas Helper (F)",
         "description": "",
         "theme": "Christmas",
         "type": "character",
         "path": "elfgirl",
-        "cost": 30,
-        "hidden": true
+        "cost": 30
     },
     {
         "id": "grinch",
@@ -334,8 +487,7 @@
         "theme": "Christmas",
         "type": "character",
         "path": "grinch",
-        "cost": 30,
-        "hidden": true
+        "cost": 30
     },
     {
         "id": "snowman",
@@ -344,8 +496,7 @@
         "theme": "Winter",
         "type": "character",
         "path": "snowman",
-        "cost": 30,
-        "hidden": true
+        "cost": 30
     },
     {
         "id": "chick",

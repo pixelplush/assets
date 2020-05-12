@@ -72,8 +72,8 @@
         "type": "pet",
         "path": "balloon_blue",
         "cost": 60,
-        "minIdle": 200,
-        "maxIdle": 800,
+        "minIdle": 0,
+        "maxIdle": 200,
         "hidden": true
     },
     {
@@ -84,8 +84,8 @@
         "type": "pet",
         "path": "balloon_blue_light",
         "cost": 60,
-        "minIdle": 200,
-        "maxIdle": 800,
+        "minIdle": 0,
+        "maxIdle": 200,
         "hidden": true
     },
     {
@@ -96,8 +96,8 @@
         "type": "pet",
         "path": "balloon_gold",
         "cost": 60,
-        "minIdle": 200,
-        "maxIdle": 800,
+        "minIdle": 0,
+        "maxIdle": 200,
         "hidden": true
     },
     {
@@ -108,8 +108,8 @@
         "type": "pet",
         "path": "balloon_green",
         "cost": 60,
-        "minIdle": 200,
-        "maxIdle": 800,
+        "minIdle": 0,
+        "maxIdle": 200,
         "hidden": true
     },
     {
@@ -120,8 +120,8 @@
         "type": "pet",
         "path": "balloon_orange",
         "cost": 60,
-        "minIdle": 200,
-        "maxIdle": 800,
+        "minIdle": 0,
+        "maxIdle": 200,
         "hidden": true
     },
     {
@@ -132,8 +132,8 @@
         "type": "pet",
         "path": "balloon_pink",
         "cost": 60,
-        "minIdle": 200,
-        "maxIdle": 800,
+        "minIdle": 0,
+        "maxIdle": 200,
         "hidden": true
     },
     {
@@ -144,8 +144,8 @@
         "type": "pet",
         "path": "balloon_pink_light",
         "cost": 60,
-        "minIdle": 200,
-        "maxIdle": 800,
+        "minIdle": 0,
+        "maxIdle": 200,
         "hidden": true
     },
     {
@@ -156,8 +156,8 @@
         "type": "pet",
         "path": "balloon_purple",
         "cost": 60,
-        "minIdle": 200,
-        "maxIdle": 800,
+        "minIdle": 0,
+        "maxIdle": 200,
         "hidden": true
     },
     {
@@ -168,8 +168,8 @@
         "type": "pet",
         "path": "balloon_rainbow",
         "cost": 60,
-        "minIdle": 200,
-        "maxIdle": 800,
+        "minIdle": 0,
+        "maxIdle": 200,
         "hidden": true
     },
     {
@@ -180,8 +180,8 @@
         "type": "pet",
         "path": "balloon_red",
         "cost": 60,
-        "minIdle": 200,
-        "maxIdle": 800,
+        "minIdle": 0,
+        "maxIdle": 200,
         "hidden": true
     },
     {
@@ -192,8 +192,8 @@
         "type": "pet",
         "path": "balloon_silver",
         "cost": 60,
-        "minIdle": 200,
-        "maxIdle": 800,
+        "minIdle": 0,
+        "maxIdle": 200,
         "hidden": true
     },
     {
@@ -204,8 +204,8 @@
         "type": "pet",
         "path": "balloon_yellow",
         "cost": 60,
-        "minIdle": 200,
-        "maxIdle": 800,
+        "minIdle": 0,
+        "maxIdle": 200,
         "hidden": true
     },
     {

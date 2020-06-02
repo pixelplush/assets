@@ -71,10 +71,9 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_blue",
-        "cost": 60,
+        "cost": 30,
         "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_blue_light",
@@ -83,10 +82,9 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_blue_light",
-        "cost": 60,
+        "cost": 30,
         "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_gold",
@@ -97,8 +95,7 @@
         "path": "balloon_gold",
         "cost": 60,
         "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_green",
@@ -107,10 +104,9 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_green",
-        "cost": 60,
+        "cost": 30,
         "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_orange",
@@ -119,10 +115,9 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_orange",
-        "cost": 60,
+        "cost": 30,
         "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_pink",
@@ -131,10 +126,9 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_pink",
-        "cost": 60,
+        "cost": 30,
         "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_pink_light",
@@ -143,10 +137,9 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_pink_light",
-        "cost": 60,
+        "cost": 30,
         "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_purple",
@@ -169,8 +162,7 @@
         "path": "balloon_rainbow",
         "cost": 60,
         "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_red",
@@ -179,10 +171,9 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_red",
-        "cost": 60,
+        "cost": 30,
         "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_silver",
@@ -193,8 +184,7 @@
         "path": "balloon_silver",
         "cost": 60,
         "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_yellow",
@@ -203,10 +193,9 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_yellow",
-        "cost": 60,
+        "cost": 30,
         "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
+        "maxIdle": 200
     },
     {
         "id": "pet_chick",

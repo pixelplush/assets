@@ -38,8 +38,19 @@
         "hidden": true
     },
     {
+        "id": "pet_tortoise2",
+        "name": "Merlin",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "pet",
+        "path": "tortoise2",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
         "id": "pet_tortoise",
-        "name": "Tortoise",
+        "name": "Morgan",
         "description": "",
         "theme": "PixelPlush",
         "type": "pet",

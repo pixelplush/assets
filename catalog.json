@@ -38,6 +38,28 @@
         "hidden": true
     },
     {
+        "id": "pet_tortoise",
+        "name": "Tortoise",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "pet",
+        "path": "tortoise",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_snowball",
+        "name": "Snowball",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "pet",
+        "path": "snowball",
+        "cost": 60,
+        "minIdle": 0,
+        "maxIdle": 200
+    },
+    {
         "id": "bellflower",
         "name": "Bellflower",
         "description": "",

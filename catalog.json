@@ -374,7 +374,8 @@
         "theme": "Adventure",
         "type": "character",
         "path": "boyhunter",
-        "cost": 30
+        "cost": 30,
+        "hidden": true
     },
     {
         "id": "girlhunter",
@@ -383,7 +384,8 @@
         "theme": "Adventure",
         "type": "character",
         "path": "girlhunter",
-        "cost": 30
+        "cost": 30,
+        "hidden": true
     },
     {
         "id": "harry",

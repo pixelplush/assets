@@ -19,7 +19,7 @@
         "type": "pet",
         "path": "fluffington",
         "cost": 10000,
-        "subscription": "instafluff",
+        "subscription": "Instafluff",
         "minIdle": 200,
         "maxIdle": 800,
         "hidden": true
@@ -32,7 +32,7 @@
         "type": "pet",
         "path": "rainbee",
         "cost": 10000,
-        "subscription": "maayainsane",
+        "subscription": "MaayaInsane",
         "minIdle": 200,
         "maxIdle": 800,
         "hidden": true

@@ -38,6 +38,94 @@
         "hidden": true
     },
     {
+        "id": "pet_kodo",
+        "name": "Kodo",
+        "description": "",
+        "theme": "Fairy",
+        "type": "pet",
+        "path": "kodo",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_paco",
+        "name": "Paco",
+        "description": "",
+        "theme": "Fairy",
+        "type": "pet",
+        "path": "paco",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_firefly_green",
+        "name": "Firefly (Green)",
+        "description": "",
+        "theme": "Fairy",
+        "type": "pet",
+        "path": "firefly_green",
+        "cost": 60,
+        "minIdle": 0,
+        "maxIdle": 0
+    },
+    {
+        "id": "pet_firefly_pink",
+        "name": "Firefly (Pink)",
+        "description": "",
+        "theme": "Fairy",
+        "type": "pet",
+        "path": "firefly_pink",
+        "cost": 60,
+        "minIdle": 0,
+        "maxIdle": 0
+    },
+    {
+        "id": "pet_firefly_purple",
+        "name": "Firefly (Purple)",
+        "description": "",
+        "theme": "Fairy",
+        "type": "pet",
+        "path": "firefly_purple",
+        "cost": 60,
+        "minIdle": 0,
+        "maxIdle": 0
+    },
+    {
+        "id": "pet_mushroom_green",
+        "name": "Green Mushroom",
+        "description": "",
+        "theme": "Fairy",
+        "type": "pet",
+        "path": "mushroom_green",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_mushroom_pink",
+        "name": "Pink Mushroom",
+        "description": "",
+        "theme": "Fairy",
+        "type": "pet",
+        "path": "mushroom_pink",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_mushroom_purple",
+        "name": "Purple Mushroom",
+        "description": "",
+        "theme": "Fairy",
+        "type": "pet",
+        "path": "mushroom_purple",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
         "id": "pet_hedgehog2",
         "name": "Squish",
         "description": "",

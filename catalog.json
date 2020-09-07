@@ -419,7 +419,7 @@
     },
     {
         "id": "pet_chick",
-        "name": "Tiny Chick",
+        "name": "Chicklet",
         "description": "",
         "theme": "Easter",
         "type": "pet",
@@ -431,7 +431,7 @@
     },
     {
         "id": "pet_fly",
-        "name": "Fly",
+        "name": "Tico",
         "description": "",
         "theme": "Cute",
         "type": "pet",
@@ -443,7 +443,7 @@
     },
     {
         "id": "pet_rabbit1",
-        "name": "Brown Rabbit",
+        "name": "Caramel",
         "description": "",
         "theme": "Easter",
         "type": "pet",
@@ -455,7 +455,7 @@
     },
     {
         "id": "pet_rabbit2",
-        "name": "Spotted Rabbit",
+        "name": "Cotton",
         "description": "",
         "theme": "Easter",
         "type": "pet",

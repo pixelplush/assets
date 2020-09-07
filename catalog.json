@@ -430,6 +430,18 @@
         "sale": true
     },
     {
+        "id": "pet_chocklet",
+        "name": "Chocklet",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "chocklet",
+        "cost": 30,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
         "id": "pet_fly",
         "name": "Tico",
         "description": "",

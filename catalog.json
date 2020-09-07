@@ -38,6 +38,24 @@
         "hidden": true
     },
     {
+        "id": "lotus",
+        "name": "Lotus",
+        "description": "",
+        "theme": "Fairy",
+        "type": "character",
+        "path": "mushroom_man_pink",
+        "cost": 30
+    },
+    {
+        "id": "tori",
+        "name": "Tori",
+        "description": "",
+        "theme": "Fairy",
+        "type": "character",
+        "path": "mushroom_man_green",
+        "cost": 30
+    },
+    {
         "id": "koral",
         "name": "Koral",
         "description": "",
@@ -62,24 +80,6 @@
         "theme": "Fairy",
         "type": "character",
         "path": "mushroom_man_purple",
-        "cost": 30
-    },
-    {
-        "id": "lotus",
-        "name": "Lotus",
-        "description": "",
-        "theme": "Fairy",
-        "type": "character",
-        "path": "mushroom_man_pink",
-        "cost": 30
-    },
-    {
-        "id": "tori",
-        "name": "Tori",
-        "description": "",
-        "theme": "Fairy",
-        "type": "character",
-        "path": "mushroom_man_green",
         "cost": 30
     },
     {

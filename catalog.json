@@ -38,6 +38,46 @@
         "hidden": true
     },
     {
+        "id": "amanita",
+        "name": "Amanita",
+        "description": "",
+        "theme": "Autumn",
+        "type": "character",
+        "path": "amanita",
+        "cost": 30
+    },
+    {
+        "id": "pet_ammy",
+        "name": "Ammy",
+        "description": "",
+        "theme": "Autumn",
+        "type": "pet",
+        "path": "ammy",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
+        "id": "twiglet",
+        "name": "Twiglet",
+        "description": "",
+        "theme": "Autumn",
+        "type": "character",
+        "path": "twiglet",
+        "cost": 30
+    },
+    {
+        "id": "pet_twiggy",
+        "name": "Twiggy",
+        "description": "",
+        "theme": "Autumn",
+        "type": "pet",
+        "path": "twiggy",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
         "id": "lotus",
         "name": "Lotus",
         "description": "",

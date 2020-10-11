@@ -217,10 +217,9 @@
         "theme": "Cute",
         "type": "pet",
         "path": "hedgehog2",
-        "cost": 30,
+        "cost": 60,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_hedgehog1",
@@ -229,10 +228,9 @@
         "theme": "Cute",
         "type": "pet",
         "path": "hedgehog1",
-        "cost": 30,
+        "cost": 60,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_bee",
@@ -241,10 +239,9 @@
         "theme": "Cute",
         "type": "pet",
         "path": "bee",
-        "cost": 30,
+        "cost": 60,
         "minIdle": 0,
-        "maxIdle": 0,
-        "sale": true
+        "maxIdle": 0
     },
     {
         "id": "pet_tortoise2",
@@ -253,10 +250,9 @@
         "theme": "Cute",
         "type": "pet",
         "path": "tortoise2",
-        "cost": 30,
+        "cost": 60,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_tortoise",
@@ -265,10 +261,9 @@
         "theme": "Cute",
         "type": "pet",
         "path": "tortoise",
-        "cost": 30,
+        "cost": 60,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_snowball",
@@ -277,10 +272,9 @@
         "theme": "Cute",
         "type": "pet",
         "path": "snowball",
-        "cost": 30,
+        "cost": 60,
         "minIdle": 0,
-        "maxIdle": 200,
-        "sale": true
+        "maxIdle": 200
     },
     {
         "id": "bellflower",
@@ -289,8 +283,7 @@
         "theme": "Spring",
         "type": "character",
         "path": "bellflower",
-        "cost": 15,
-        "sale": true
+        "cost": 30
     },
     {
         "id": "calendula",
@@ -299,8 +292,7 @@
         "theme": "Spring",
         "type": "character",
         "path": "calendula",
-        "cost": 15,
-        "sale": true
+        "cost": 30
     },
     {
         "id": "poppy",
@@ -309,8 +301,7 @@
         "theme": "Spring",
         "type": "character",
         "path": "poppy",
-        "cost": 15,
-        "sale": true
+        "cost": 30
     },
     {
         "id": "pet_balloon_blue",
@@ -319,10 +310,9 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_blue",
-        "cost": 15,
+        "cost": 30,
         "minIdle": 0,
-        "maxIdle": 200,
-        "sale": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_blue_light",
@@ -331,10 +321,9 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_blue_light",
-        "cost": 15,
+        "cost": 30,
         "minIdle": 0,
-        "maxIdle": 200,
-        "sale": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_gold",
@@ -343,10 +332,9 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_gold",
-        "cost": 30,
+        "cost": 60,
         "minIdle": 0,
-        "maxIdle": 200,
-        "sale": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_green",
@@ -355,10 +343,9 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_green",
-        "cost": 15,
+        "cost": 30,
         "minIdle": 0,
-        "maxIdle": 200,
-        "sale": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_orange",
@@ -367,10 +354,9 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_orange",
-        "cost": 15,
+        "cost": 30,
         "minIdle": 0,
-        "maxIdle": 200,
-        "sale": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_pink",
@@ -379,10 +365,9 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_pink",
-        "cost": 15,
+        "cost": 30,
         "minIdle": 0,
-        "maxIdle": 200,
-        "sale": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_pink_light",
@@ -391,10 +376,9 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_pink_light",
-        "cost": 15,
+        "cost": 30,
         "minIdle": 0,
-        "maxIdle": 200,
-        "sale": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_purple",
@@ -403,11 +387,10 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_purple",
-        "cost": 30,
+        "cost": 60,
         "minIdle": 0,
         "maxIdle": 200,
-        "hidden": true,
-        "sale": true
+        "hidden": true
     },
     {
         "id": "pet_balloon_rainbow",
@@ -416,10 +399,9 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_rainbow",
-        "cost": 30,
+        "cost": 60,
         "minIdle": 0,
-        "maxIdle": 200,
-        "sale": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_red",
@@ -428,10 +410,9 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_red",
-        "cost": 15,
+        "cost": 30,
         "minIdle": 0,
-        "maxIdle": 200,
-        "sale": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_silver",
@@ -440,10 +421,9 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_silver",
-        "cost": 30,
+        "cost": 60,
         "minIdle": 0,
-        "maxIdle": 200,
-        "sale": true
+        "maxIdle": 200
     },
     {
         "id": "pet_balloon_yellow",
@@ -452,10 +432,9 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_yellow",
-        "cost": 15,
+        "cost": 30,
         "minIdle": 0,
-        "maxIdle": 200,
-        "sale": true
+        "maxIdle": 200
     },
     {
         "id": "pet_chick",
@@ -464,10 +443,9 @@
         "theme": "Easter",
         "type": "pet",
         "path": "chick",
-        "cost": 30,
+        "cost": 60,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_chocklet",
@@ -476,10 +454,9 @@
         "theme": "Easter",
         "type": "pet",
         "path": "chocklet",
-        "cost": 30,
+        "cost": 60,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_fly",
@@ -488,10 +465,9 @@
         "theme": "Cute",
         "type": "pet",
         "path": "fly",
-        "cost": 30,
+        "cost": 60,
         "minIdle": 0,
-        "maxIdle": 0,
-        "sale": true
+        "maxIdle": 0
     },
     {
         "id": "pet_rabbit1",
@@ -500,10 +476,9 @@
         "theme": "Easter",
         "type": "pet",
         "path": "rabbit1",
-        "cost": 30,
+        "cost": 60,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_rabbit2",
@@ -512,10 +487,9 @@
         "theme": "Easter",
         "type": "pet",
         "path": "rabbit2",
-        "cost": 30,
+        "cost": 60,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "instafluff",
@@ -590,8 +564,7 @@
         "theme": "Valentine",
         "type": "character",
         "path": "bear",
-        "cost": 15,
-        "sale": true
+        "cost": 30
     },
     {
         "id": "girlbear",
@@ -600,8 +573,7 @@
         "theme": "Valentine",
         "type": "character",
         "path": "beargirl",
-        "cost": 15,
-        "sale": true
+        "cost": 30
     },
     {
         "id": "evilbear",
@@ -610,8 +582,7 @@
         "theme": "Valentine",
         "type": "character",
         "path": "evil_bear",
-        "cost": 15,
-        "sale": true
+        "cost": 30
     },
     {
         "id": "boyhunter",
@@ -640,8 +611,7 @@
         "theme": "Magic",
         "type": "character",
         "path": "harry",
-        "cost": 15,
-        "sale": true
+        "cost": 30
     },
     {
         "id": "hermione",
@@ -650,8 +620,7 @@
         "theme": "Magic",
         "type": "character",
         "path": "hermione",
-        "cost": 15,
-        "sale": true
+        "cost": 30
     },
     {
         "id": "ron",
@@ -660,8 +629,7 @@
         "theme": "Magic",
         "type": "character",
         "path": "ron",
-        "cost": 15,
-        "sale": true
+        "cost": 30
     },
     {
         "id": "dobby",
@@ -670,8 +638,7 @@
         "theme": "Magic",
         "type": "character",
         "path": "dobby",
-        "cost": 15,
-        "sale": true
+        "cost": 30
     },
     {
         "id": "voldemort",
@@ -680,8 +647,7 @@
         "theme": "Magic",
         "type": "character",
         "path": "voldemort",
-        "cost": 15,
-        "sale": true
+        "cost": 30
     },
     {
         "id": "monster",
@@ -690,8 +656,7 @@
         "theme": "Halloween",
         "type": "character",
         "path": "monster",
-        "cost": 15,
-        "sale": true
+        "cost": 30
     },
     {
         "id": "vampire",
@@ -700,8 +665,7 @@
         "theme": "Halloween",
         "type": "character",
         "path": "vampire",
-        "cost": 15,
-        "sale": true
+        "cost": 30
     },
     {
         "id": "witch",
@@ -710,8 +674,7 @@
         "theme": "Halloween",
         "type": "character",
         "path": "witch",
-        "cost": 15,
-        "sale": true
+        "cost": 30
     },
     {
         "id": "zombie",
@@ -720,8 +683,7 @@
         "theme": "Halloween",
         "type": "character",
         "path": "zombie",
-        "cost": 15,
-        "sale": true
+        "cost": 30
     },
     {
         "id": "santa",
@@ -770,8 +732,7 @@
         "theme": "Christmas",
         "type": "character",
         "path": "grinch",
-        "cost": 15,
-        "sale": true
+        "cost": 30
     },
     {
         "id": "snowman",

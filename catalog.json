@@ -38,6 +38,17 @@
         "hidden": true
     },
     {
+        "id": "pet_firefly_halloween",
+        "name": "Firefly (Halloween)",
+        "description": "",
+        "theme": "Halloween",
+        "type": "pet",
+        "path": "firefly_halloween",
+        "cost": 60,
+        "minIdle": 0,
+        "maxIdle": 0
+    },
+    {
         "id": "amanita",
         "name": "Amanita",
         "description": "",

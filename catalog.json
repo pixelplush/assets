@@ -38,6 +38,86 @@
         "hidden": true
     },
     {
+        "id": "yeti_blue",
+        "name": "The Blue Yeti",
+        "description": "",
+        "theme": "Winter",
+        "type": "character",
+        "path": "yeti_blue",
+        "cost": 30
+    },
+    {
+        "id": "yeti_green",
+        "name": "The Green Yeti",
+        "description": "",
+        "theme": "Winter",
+        "type": "character",
+        "path": "yeti_green",
+        "cost": 30
+    },
+    {
+        "id": "yeti_orange",
+        "name": "The Orange Yeti",
+        "description": "",
+        "theme": "Winter",
+        "type": "character",
+        "path": "yeti_orange",
+        "cost": 30
+    },
+    {
+        "id": "yeti_pink",
+        "name": "The Pink Yeti",
+        "description": "",
+        "theme": "Winter",
+        "type": "character",
+        "path": "yeti_pink",
+        "cost": 30
+    },
+    {
+        "id": "pet_yetchi_blue",
+        "name": "Little Blue Yetchi",
+        "description": "",
+        "theme": "Winter",
+        "type": "pet",
+        "path": "yetchi_blue",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_yetchi_green",
+        "name": "Little Green Yetchi",
+        "description": "",
+        "theme": "Winter",
+        "type": "pet",
+        "path": "yetchi_green",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_yetchi_orange",
+        "name": "Little Orange Yetchi",
+        "description": "",
+        "theme": "Winter",
+        "type": "pet",
+        "path": "yetchi_orange",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_yetchi_pink",
+        "name": "Little Pink Yetchi",
+        "description": "",
+        "theme": "Winter",
+        "type": "pet",
+        "path": "yetchi_pink",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
         "id": "pet_firefly_halloween",
         "name": "Firefly (Halloween)",
         "description": "",

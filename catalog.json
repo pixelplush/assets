@@ -44,7 +44,8 @@
         "theme": "Winter",
         "type": "character",
         "path": "yeti_blue",
-        "cost": 30
+        "cost": 30,
+        "hidden": true
     },
     {
         "id": "yeti_green",
@@ -53,7 +54,8 @@
         "theme": "Winter",
         "type": "character",
         "path": "yeti_green",
-        "cost": 30
+        "cost": 30,
+        "hidden": true
     },
     {
         "id": "yeti_orange",
@@ -62,7 +64,8 @@
         "theme": "Winter",
         "type": "character",
         "path": "yeti_orange",
-        "cost": 30
+        "cost": 30,
+        "hidden": true
     },
     {
         "id": "yeti_pink",
@@ -71,7 +74,8 @@
         "theme": "Winter",
         "type": "character",
         "path": "yeti_pink",
-        "cost": 30
+        "cost": 30,
+        "hidden": true
     },
     {
         "id": "pet_yetchi_blue",
@@ -82,7 +86,8 @@
         "path": "yetchi_blue",
         "cost": 60,
         "minIdle": 200,
-        "maxIdle": 800
+        "maxIdle": 800,
+        "hidden": true
     },
     {
         "id": "pet_yetchi_green",
@@ -93,7 +98,8 @@
         "path": "yetchi_green",
         "cost": 60,
         "minIdle": 200,
-        "maxIdle": 800
+        "maxIdle": 800,
+        "hidden": true
     },
     {
         "id": "pet_yetchi_orange",
@@ -104,7 +110,8 @@
         "path": "yetchi_orange",
         "cost": 60,
         "minIdle": 200,
-        "maxIdle": 800
+        "maxIdle": 800,
+        "hidden": true
     },
     {
         "id": "pet_yetchi_pink",
@@ -115,7 +122,8 @@
         "path": "yetchi_pink",
         "cost": 60,
         "minIdle": 200,
-        "maxIdle": 800
+        "maxIdle": 800,
+        "hidden": true
     },
     {
         "id": "pet_firefly_halloween",

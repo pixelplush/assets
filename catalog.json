@@ -38,6 +38,18 @@
         "hidden": true
     },
     {
+        "id": "pet_penguin",
+        "name": "Petguin the Penguin",
+        "description": "",
+        "theme": "Winter",
+        "type": "pet",
+        "path": "penguin",
+        "cost": 60,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": true
+    },
+    {
         "id": "yeti_blue",
         "name": "The Blue Yeti",
         "description": "",

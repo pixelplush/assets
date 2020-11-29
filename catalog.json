@@ -44,7 +44,7 @@
         "theme": "Winter",
         "type": "pet",
         "path": "penguin",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800,
         "hidden": true
@@ -56,7 +56,7 @@
         "theme": "Winter",
         "type": "character",
         "path": "yeti_blue",
-        "cost": 30,
+        "cost": 20,
         "hidden": true
     },
     {
@@ -66,7 +66,7 @@
         "theme": "Winter",
         "type": "character",
         "path": "yeti_green",
-        "cost": 30,
+        "cost": 20,
         "hidden": true
     },
     {
@@ -76,7 +76,7 @@
         "theme": "Winter",
         "type": "character",
         "path": "yeti_orange",
-        "cost": 30,
+        "cost": 20,
         "hidden": true
     },
     {
@@ -86,7 +86,7 @@
         "theme": "Winter",
         "type": "character",
         "path": "yeti_pink",
-        "cost": 30,
+        "cost": 20,
         "hidden": true
     },
     {
@@ -96,7 +96,7 @@
         "theme": "Winter",
         "type": "pet",
         "path": "yetchi_blue",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800,
         "hidden": true
@@ -108,7 +108,7 @@
         "theme": "Winter",
         "type": "pet",
         "path": "yetchi_green",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800,
         "hidden": true
@@ -120,7 +120,7 @@
         "theme": "Winter",
         "type": "pet",
         "path": "yetchi_orange",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800,
         "hidden": true
@@ -132,9 +132,21 @@
         "theme": "Winter",
         "type": "pet",
         "path": "yetchi_pink",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800,
+        "hidden": true
+    },
+    {
+        "id": "pet_candycane_rainbow",
+        "name": "Rainbow Christmas Candy",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "candycane_rainbow",
+        "cost": 40,
+        "minIdle": 0,
+        "maxIdle": 200,
         "hidden": true
     },
     {
@@ -144,7 +156,7 @@
         "theme": "Christmas",
         "type": "pet",
         "path": "candycane_blue",
-        "cost": 30,
+        "cost": 20,
         "minIdle": 0,
         "maxIdle": 200,
         "hidden": true
@@ -156,7 +168,7 @@
         "theme": "Christmas",
         "type": "pet",
         "path": "candycane_green",
-        "cost": 30,
+        "cost": 20,
         "minIdle": 0,
         "maxIdle": 200,
         "hidden": true
@@ -168,7 +180,7 @@
         "theme": "Christmas",
         "type": "pet",
         "path": "candycane_orange",
-        "cost": 30,
+        "cost": 20,
         "minIdle": 0,
         "maxIdle": 200,
         "hidden": true
@@ -180,7 +192,7 @@
         "theme": "Christmas",
         "type": "pet",
         "path": "candycane_pink",
-        "cost": 30,
+        "cost": 20,
         "minIdle": 0,
         "maxIdle": 200,
         "hidden": true
@@ -192,19 +204,7 @@
         "theme": "Christmas",
         "type": "pet",
         "path": "candycane_purple",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_candycane_rainbow",
-        "name": "Rainbow Christmas Candy",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "candycane_rainbow",
-        "cost": 30,
+        "cost": 20,
         "minIdle": 0,
         "maxIdle": 200,
         "hidden": true
@@ -216,7 +216,7 @@
         "theme": "Christmas",
         "type": "pet",
         "path": "candycane_red",
-        "cost": 30,
+        "cost": 20,
         "minIdle": 0,
         "maxIdle": 200,
         "hidden": true
@@ -228,7 +228,7 @@
         "theme": "Christmas",
         "type": "pet",
         "path": "candycane_turqoise",
-        "cost": 30,
+        "cost": 20,
         "minIdle": 0,
         "maxIdle": 200,
         "hidden": true
@@ -240,307 +240,331 @@
         "theme": "Christmas",
         "type": "pet",
         "path": "candycane_yellow",
-        "cost": 30,
+        "cost": 20,
         "minIdle": 0,
         "maxIdle": 200,
         "hidden": true
     },
     {
-        "id": "pet_gift_black_gold",
-        "name": "Giftbox",
+        "id": "pet_gift_pink_yellow",
+        "name": "Maaya's Box",
         "description": "",
         "theme": "Christmas",
         "type": "pet",
-        "path": "gift_black_gold",
-        "cost": 30,
+        "path": "gift_pink_yellow",
+        "cost": 40,
         "minIdle": 0,
         "maxIdle": 200,
         "hidden": true
     },
     {
-        "id": "pet_gift_black_silver",
-        "name": "Giftbox",
+        "id": "pet_gift_yellow_orange",
+        "name": "Instafluff's Box",
         "description": "",
         "theme": "Christmas",
         "type": "pet",
-        "path": "gift_black_silver",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_gift_blue_pink",
-        "name": "Giftbox",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "gift_blue_pink",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_gift_blue_silver",
-        "name": "Giftbox",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "gift_blue_silver",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_gift_blue_yellow",
-        "name": "Giftbox",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "gift_blue_yellow",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_gift_brown_red",
-        "name": "Giftbox",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "gift_brown_red",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_gift_dark_blue_green",
-        "name": "Giftbox",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "gift_dark_blue_green",
-        "cost": 30,
+        "path": "gift_yellow_orange",
+        "cost": 40,
         "minIdle": 0,
         "maxIdle": 200,
         "hidden": true
     },
     {
         "id": "pet_gift_gold",
-        "name": "Giftbox",
+        "name": "The Golden Giftbox",
         "description": "",
         "theme": "Christmas",
         "type": "pet",
         "path": "gift_gold",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_gift_green_blue_yellow",
-        "name": "Giftbox",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "gift_green_blue_yellow",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_gift_green_green",
-        "name": "Giftbox",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "gift_green_green",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_gift_green_purple",
-        "name": "Giftbox",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "gift_green_purple",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_gift_lightbrown_red",
-        "name": "Giftbox",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "gift_lightbrown_red",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_gift_pink_silver",
-        "name": "Giftbox",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "gift_pink_silver",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_gift_purple_pink_teal",
-        "name": "Giftbox",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "gift_purple_pink_teal",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_gift_purple_red",
-        "name": "Giftbox",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "gift_purple_red",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_gift_purple_silver",
-        "name": "Giftbox",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "gift_purple_silver",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_gift_purple_teal",
-        "name": "Giftbox",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "gift_purple_teal",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_gift_purple_white",
-        "name": "Giftbox",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "gift_purple_white",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_gift_purple_yellow",
-        "name": "Giftbox",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "gift_purple_yellow",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_gift_rainbow",
-        "name": "Giftbox",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "gift_rainbow",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_gift_red_white",
-        "name": "Giftbox",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "gift_red_white",
-        "cost": 30,
-        "minIdle": 0,
-        "maxIdle": 200,
-        "hidden": true
-    },
-    {
-        "id": "pet_gift_red_yellow",
-        "name": "Giftbox",
-        "description": "",
-        "theme": "Christmas",
-        "type": "pet",
-        "path": "gift_red_yellow",
-        "cost": 30,
+        "cost": 40,
         "minIdle": 0,
         "maxIdle": 200,
         "hidden": true
     },
     {
         "id": "pet_gift_silver",
-        "name": "Giftbox",
+        "name": "The Silver Giftbox",
         "description": "",
         "theme": "Christmas",
         "type": "pet",
         "path": "gift_silver",
-        "cost": 30,
+        "cost": 40,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_rainbow",
+        "name": "The Rainbow Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_rainbow",
+        "cost": 40,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_black_gold",
+        "name": "Black & Gold Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_black_gold",
+        "cost": 20,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_black_silver",
+        "name": "Black & Silver Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_black_silver",
+        "cost": 20,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_blue_pink",
+        "name": "Blue & Pink Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_blue_pink",
+        "cost": 20,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_blue_silver",
+        "name": "Blue & Silver Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_blue_silver",
+        "cost": 20,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_blue_yellow",
+        "name": "Blue & Yellow Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_blue_yellow",
+        "cost": 20,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_brown_red",
+        "name": "Brown & Red Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_brown_red",
+        "cost": 20,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_dark_blue_green",
+        "name": "Dark Blue & Green Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_dark_blue_green",
+        "cost": 20,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_green_blue_yellow",
+        "name": "Green Blue Yellow Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_green_blue_yellow",
+        "cost": 20,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_green_green",
+        "name": "Green Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_green_green",
+        "cost": 20,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_green_purple",
+        "name": "Green & Purple Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_green_purple",
+        "cost": 20,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_lightbrown_red",
+        "name": "Brown & Red Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_lightbrown_red",
+        "cost": 20,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_pink_silver",
+        "name": "Pink & Silver Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_pink_silver",
+        "cost": 20,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_purple_pink_teal",
+        "name": "Pink & Teal Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_purple_pink_teal",
+        "cost": 20,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_purple_red",
+        "name": "Purple & Red Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_purple_red",
+        "cost": 20,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_purple_silver",
+        "name": "Purple & Silver Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_purple_silver",
+        "cost": 20,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_purple_teal",
+        "name": "Purple & Teal Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_purple_teal",
+        "cost": 20,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_purple_white",
+        "name": "Purple & White Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_purple_white",
+        "cost": 20,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_purple_yellow",
+        "name": "Purple & Yellow Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_purple_yellow",
+        "cost": 20,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_red_white",
+        "name": "Red & White Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_red_white",
+        "cost": 20,
+        "minIdle": 0,
+        "maxIdle": 200,
+        "hidden": true
+    },
+    {
+        "id": "pet_gift_red_yellow",
+        "name": "Red & Yellow Giftbox",
+        "description": "",
+        "theme": "Christmas",
+        "type": "pet",
+        "path": "gift_red_yellow",
+        "cost": 20,
         "minIdle": 0,
         "maxIdle": 200,
         "hidden": true
     },
     {
         "id": "pet_gift_teal_pink",
-        "name": "Giftbox",
+        "name": "Teal & Pink Giftbox",
         "description": "",
         "theme": "Christmas",
         "type": "pet",
         "path": "gift_teal_pink",
-        "cost": 30,
+        "cost": 20,
         "minIdle": 0,
         "maxIdle": 200,
         "hidden": true
     },
     {
         "id": "pet_gift_white_black",
-        "name": "Giftbox",
+        "name": "White & Black Giftbox",
         "description": "",
         "theme": "Christmas",
         "type": "pet",
         "path": "gift_white_black",
-        "cost": 30,
+        "cost": 20,
         "minIdle": 0,
         "maxIdle": 200,
         "hidden": true
@@ -552,7 +576,7 @@
         "theme": "Halloween",
         "type": "pet",
         "path": "firefly_halloween",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 0,
         "maxIdle": 0
     },
@@ -563,7 +587,7 @@
         "theme": "Autumn",
         "type": "character",
         "path": "amanita",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "pet_ammy",
@@ -572,7 +596,7 @@
         "theme": "Autumn",
         "type": "pet",
         "path": "ammy",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -583,7 +607,7 @@
         "theme": "Autumn",
         "type": "character",
         "path": "twiglet",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "pet_twiggy",
@@ -592,7 +616,7 @@
         "theme": "Autumn",
         "type": "pet",
         "path": "twiggy",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -603,7 +627,7 @@
         "theme": "Fairy",
         "type": "character",
         "path": "mushroom_man_pink",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "tori",
@@ -612,7 +636,7 @@
         "theme": "Fairy",
         "type": "character",
         "path": "mushroom_man_green",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "koral",
@@ -621,7 +645,7 @@
         "theme": "Fairy",
         "type": "character",
         "path": "fairy_girl",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "kiro",
@@ -630,7 +654,7 @@
         "theme": "Fairy",
         "type": "character",
         "path": "fairy_boy",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "nova",
@@ -639,7 +663,7 @@
         "theme": "Fairy",
         "type": "character",
         "path": "mushroom_man_purple",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "pet_kodo",
@@ -648,7 +672,7 @@
         "theme": "Fairy",
         "type": "pet",
         "path": "kodo",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -659,7 +683,7 @@
         "theme": "Fairy",
         "type": "pet",
         "path": "paco",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -670,7 +694,7 @@
         "theme": "Fairy",
         "type": "pet",
         "path": "firefly_green",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 0,
         "maxIdle": 0
     },
@@ -681,7 +705,7 @@
         "theme": "Fairy",
         "type": "pet",
         "path": "firefly_pink",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 0,
         "maxIdle": 0
     },
@@ -692,7 +716,7 @@
         "theme": "Fairy",
         "type": "pet",
         "path": "firefly_purple",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 0,
         "maxIdle": 0
     },
@@ -703,7 +727,7 @@
         "theme": "Fairy",
         "type": "pet",
         "path": "mushroom_green",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -714,7 +738,7 @@
         "theme": "Fairy",
         "type": "pet",
         "path": "mushroom_pink",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -725,7 +749,7 @@
         "theme": "Fairy",
         "type": "pet",
         "path": "mushroom_purple",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -736,7 +760,7 @@
         "theme": "Cute",
         "type": "pet",
         "path": "hedgehog2",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -747,7 +771,7 @@
         "theme": "Cute",
         "type": "pet",
         "path": "hedgehog1",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -758,7 +782,7 @@
         "theme": "Cute",
         "type": "pet",
         "path": "bee",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 0,
         "maxIdle": 0
     },
@@ -769,7 +793,7 @@
         "theme": "Cute",
         "type": "pet",
         "path": "tortoise2",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -780,7 +804,7 @@
         "theme": "Cute",
         "type": "pet",
         "path": "tortoise",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -791,7 +815,7 @@
         "theme": "Cute",
         "type": "pet",
         "path": "snowball",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 0,
         "maxIdle": 200
     },
@@ -802,7 +826,7 @@
         "theme": "Spring",
         "type": "character",
         "path": "bellflower",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "calendula",
@@ -811,7 +835,7 @@
         "theme": "Spring",
         "type": "character",
         "path": "calendula",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "poppy",
@@ -820,7 +844,7 @@
         "theme": "Spring",
         "type": "character",
         "path": "poppy",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "pet_balloon_blue",
@@ -829,7 +853,7 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_blue",
-        "cost": 30,
+        "cost": 20,
         "minIdle": 0,
         "maxIdle": 200
     },
@@ -840,7 +864,7 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_blue_light",
-        "cost": 30,
+        "cost": 20,
         "minIdle": 0,
         "maxIdle": 200
     },
@@ -851,7 +875,7 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_gold",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 0,
         "maxIdle": 200
     },
@@ -862,7 +886,7 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_green",
-        "cost": 30,
+        "cost": 20,
         "minIdle": 0,
         "maxIdle": 200
     },
@@ -873,7 +897,7 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_orange",
-        "cost": 30,
+        "cost": 20,
         "minIdle": 0,
         "maxIdle": 200
     },
@@ -884,7 +908,7 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_pink",
-        "cost": 30,
+        "cost": 20,
         "minIdle": 0,
         "maxIdle": 200
     },
@@ -895,7 +919,7 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_pink_light",
-        "cost": 30,
+        "cost": 20,
         "minIdle": 0,
         "maxIdle": 200
     },
@@ -906,7 +930,7 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_purple",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 0,
         "maxIdle": 200,
         "hidden": true
@@ -918,7 +942,7 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_rainbow",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 0,
         "maxIdle": 200
     },
@@ -929,7 +953,7 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_red",
-        "cost": 30,
+        "cost": 20,
         "minIdle": 0,
         "maxIdle": 200
     },
@@ -940,7 +964,7 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_silver",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 0,
         "maxIdle": 200
     },
@@ -951,7 +975,7 @@
         "theme": "PixelPlush",
         "type": "pet",
         "path": "balloon_yellow",
-        "cost": 30,
+        "cost": 20,
         "minIdle": 0,
         "maxIdle": 200
     },
@@ -962,7 +986,7 @@
         "theme": "Easter",
         "type": "pet",
         "path": "chick",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -973,7 +997,7 @@
         "theme": "Easter",
         "type": "pet",
         "path": "chocklet",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -984,7 +1008,7 @@
         "theme": "Cute",
         "type": "pet",
         "path": "fly",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 0,
         "maxIdle": 0
     },
@@ -995,7 +1019,7 @@
         "theme": "Easter",
         "type": "pet",
         "path": "rabbit1",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -1006,7 +1030,7 @@
         "theme": "Easter",
         "type": "pet",
         "path": "rabbit2",
-        "cost": 60,
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -1083,7 +1107,7 @@
         "theme": "Valentine",
         "type": "character",
         "path": "bear",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "girlbear",
@@ -1092,7 +1116,7 @@
         "theme": "Valentine",
         "type": "character",
         "path": "beargirl",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "evilbear",
@@ -1101,7 +1125,7 @@
         "theme": "Valentine",
         "type": "character",
         "path": "evil_bear",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "boyhunter",
@@ -1110,7 +1134,7 @@
         "theme": "Adventure",
         "type": "character",
         "path": "boyhunter",
-        "cost": 30,
+        "cost": 20,
         "hidden": true
     },
     {
@@ -1120,7 +1144,7 @@
         "theme": "Adventure",
         "type": "character",
         "path": "girlhunter",
-        "cost": 30,
+        "cost": 20,
         "hidden": true
     },
     {
@@ -1130,7 +1154,7 @@
         "theme": "Magic",
         "type": "character",
         "path": "harry",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "hermione",
@@ -1139,7 +1163,7 @@
         "theme": "Magic",
         "type": "character",
         "path": "hermione",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "ron",
@@ -1148,7 +1172,7 @@
         "theme": "Magic",
         "type": "character",
         "path": "ron",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "dobby",
@@ -1157,7 +1181,7 @@
         "theme": "Magic",
         "type": "character",
         "path": "dobby",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "voldemort",
@@ -1166,7 +1190,7 @@
         "theme": "Magic",
         "type": "character",
         "path": "voldemort",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "monster",
@@ -1175,7 +1199,7 @@
         "theme": "Halloween",
         "type": "character",
         "path": "monster",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "vampire",
@@ -1184,7 +1208,7 @@
         "theme": "Halloween",
         "type": "character",
         "path": "vampire",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "witch",
@@ -1193,7 +1217,7 @@
         "theme": "Halloween",
         "type": "character",
         "path": "witch",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "zombie",
@@ -1202,7 +1226,7 @@
         "theme": "Halloween",
         "type": "character",
         "path": "zombie",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "santa",
@@ -1211,7 +1235,7 @@
         "theme": "Christmas",
         "type": "character",
         "path": "santa",
-        "cost": 30,
+        "cost": 20,
         "hidden": true
     },
     {
@@ -1221,7 +1245,7 @@
         "theme": "Christmas",
         "type": "character",
         "path": "claus",
-        "cost": 30,
+        "cost": 20,
         "hidden": true
     },
     {
@@ -1231,7 +1255,7 @@
         "theme": "Christmas",
         "type": "character",
         "path": "elf",
-        "cost": 30,
+        "cost": 20,
         "hidden": true
     },
     {
@@ -1241,7 +1265,7 @@
         "theme": "Christmas",
         "type": "character",
         "path": "elfgirl",
-        "cost": 30,
+        "cost": 20,
         "hidden": true
     },
     {
@@ -1251,7 +1275,7 @@
         "theme": "Christmas",
         "type": "character",
         "path": "grinch",
-        "cost": 30
+        "cost": 20
     },
     {
         "id": "snowman",
@@ -1260,7 +1284,7 @@
         "theme": "Winter",
         "type": "character",
         "path": "snowman",
-        "cost": 30,
+        "cost": 20,
         "hidden": true
     },
     {
@@ -1270,7 +1294,7 @@
         "theme": "Easter",
         "type": "character",
         "path": "chick",
-        "cost": 30,
+        "cost": 20,
         "hidden": true
     },
     {
@@ -1280,7 +1304,7 @@
         "theme": "Easter",
         "type": "character",
         "path": "rabbit",
-        "cost": 30,
+        "cost": 20,
         "hidden": true
     }
 ]

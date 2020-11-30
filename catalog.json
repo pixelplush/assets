@@ -50,6 +50,18 @@
         "hidden": true
     },
     {
+        "id": "pet_marble",
+        "name": "Marble",
+        "description": "",
+        "theme": "Winter",
+        "type": "pet",
+        "path": "marble",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": true
+    },
+    {
         "id": "yeti_blue",
         "name": "The Blue Yeti",
         "description": "",

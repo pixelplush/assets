@@ -218,11 +218,11 @@
     },
     {
         "id": "pet_candycane_turquoise",
-        "name": "Turqoise Christmas Candy",
+        "name": "Turquoise Christmas Candy",
         "description": "",
         "theme": "Christmas",
         "type": "pet",
-        "path": "candycane_turqoise",
+        "path": "candycane_turquoise",
         "cost": 20,
         "minIdle": 0,
         "maxIdle": 200

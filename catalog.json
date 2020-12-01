@@ -1247,8 +1247,7 @@
         "theme": "Christmas",
         "type": "character",
         "path": "santa",
-        "cost": 20,
-        "hidden": true
+        "cost": 20
     },
     {
         "id": "claus",
@@ -1257,8 +1256,7 @@
         "theme": "Christmas",
         "type": "character",
         "path": "claus",
-        "cost": 20,
-        "hidden": true
+        "cost": 20
     },
     {
         "id": "elf",
@@ -1267,8 +1265,7 @@
         "theme": "Christmas",
         "type": "character",
         "path": "elf",
-        "cost": 20,
-        "hidden": true
+        "cost": 20
     },
     {
         "id": "elfgirl",
@@ -1277,8 +1274,7 @@
         "theme": "Christmas",
         "type": "character",
         "path": "elfgirl",
-        "cost": 20,
-        "hidden": true
+        "cost": 20
     },
     {
         "id": "grinch",
@@ -1296,8 +1292,7 @@
         "theme": "Winter",
         "type": "character",
         "path": "snowman",
-        "cost": 20,
-        "hidden": true
+        "cost": 20
     },
     {
         "id": "chick",

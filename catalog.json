@@ -38,6 +38,33 @@
         "hidden": true
     },
     {
+        "id": "boybear",
+        "name": "Bear (M)",
+        "description": "",
+        "theme": "Valentine",
+        "type": "character",
+        "path": "bear",
+        "cost": 20
+    },
+    {
+        "id": "girlbear",
+        "name": "Bear (F)",
+        "description": "",
+        "theme": "Valentine",
+        "type": "character",
+        "path": "beargirl",
+        "cost": 20
+    },
+    {
+        "id": "evilbear",
+        "name": "Evil Bear",
+        "description": "",
+        "theme": "Valentine",
+        "type": "character",
+        "path": "evil_bear",
+        "cost": 20
+    },
+    {
         "id": "pet_penguin",
         "name": "Flipper the Penguin",
         "description": "",
@@ -1078,33 +1105,6 @@
         "type": "character",
         "path": "girl",
         "cost": 0
-    },
-    {
-        "id": "boybear",
-        "name": "Bear (M)",
-        "description": "",
-        "theme": "Valentine",
-        "type": "character",
-        "path": "bear",
-        "cost": 20
-    },
-    {
-        "id": "girlbear",
-        "name": "Bear (F)",
-        "description": "",
-        "theme": "Valentine",
-        "type": "character",
-        "path": "beargirl",
-        "cost": 20
-    },
-    {
-        "id": "evilbear",
-        "name": "Evil Bear",
-        "description": "",
-        "theme": "Valentine",
-        "type": "character",
-        "path": "evil_bear",
-        "cost": 20
     },
     {
         "id": "boyhunter",

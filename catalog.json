@@ -38,13 +38,109 @@
         "hidden": true
     },
     {
+        "id": "bellflower",
+        "name": "Bellflower",
+        "description": "",
+        "theme": "Spring",
+        "type": "character",
+        "path": "bellflower",
+        "cost": 20
+    },
+    {
+        "id": "calendula",
+        "name": "Calendula",
+        "description": "",
+        "theme": "Spring",
+        "type": "character",
+        "path": "calendula",
+        "cost": 20
+    },
+    {
+        "id": "poppy",
+        "name": "Poppy",
+        "description": "",
+        "theme": "Spring",
+        "type": "character",
+        "path": "poppy",
+        "cost": 20
+    },
+    {
+        "id": "pet_chick",
+        "name": "Chicklet",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "chick",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": true
+    },
+    {
+        "id": "pet_chocklet",
+        "name": "Chocklet",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "chocklet",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": true
+    },
+    {
+        "id": "pet_rabbit1",
+        "name": "Caramel",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "rabbit1",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": true
+    },
+    {
+        "id": "pet_rabbit2",
+        "name": "Cotton",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "rabbit2",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": true
+    },
+    {
+        "id": "chick",
+        "name": "Chick Outfit",
+        "description": "",
+        "theme": "Easter",
+        "type": "character",
+        "path": "chick",
+        "cost": 20,
+        "hidden": true
+    },
+    {
+        "id": "rabbit",
+        "name": "Rabbit Outfit",
+        "description": "",
+        "theme": "Easter",
+        "type": "character",
+        "path": "rabbit",
+        "cost": 20,
+        "hidden": true
+    },
+    {
         "id": "boybear",
         "name": "Bear (M)",
         "description": "",
         "theme": "Valentine",
         "type": "character",
         "path": "bear",
-        "cost": 20
+        "cost": 20,
+        "hidden": true
     },
     {
         "id": "girlbear",
@@ -53,7 +149,8 @@
         "theme": "Valentine",
         "type": "character",
         "path": "beargirl",
-        "cost": 20
+        "cost": 20,
+        "hidden": true
     },
     {
         "id": "evilbear",
@@ -62,7 +159,8 @@
         "theme": "Valentine",
         "type": "character",
         "path": "evil_bear",
-        "cost": 20
+        "cost": 20,
+        "hidden": true
     },
     {
         "id": "pet_penguin",
@@ -73,7 +171,8 @@
         "path": "penguin",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800
+        "maxIdle": 800,
+        "hidden": true
     },
     {
         "id": "pet_marble",
@@ -84,7 +183,8 @@
         "path": "marble",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800
+        "maxIdle": 800,
+        "hidden": true
     },
     {
         "id": "yeti_blue",
@@ -93,7 +193,8 @@
         "theme": "Winter",
         "type": "character",
         "path": "yeti_blue",
-        "cost": 20
+        "cost": 20,
+        "hidden": true
     },
     {
         "id": "yeti_green",
@@ -102,7 +203,8 @@
         "theme": "Winter",
         "type": "character",
         "path": "yeti_green",
-        "cost": 20
+        "cost": 20,
+        "hidden": true
     },
     {
         "id": "yeti_orange",
@@ -111,7 +213,8 @@
         "theme": "Winter",
         "type": "character",
         "path": "yeti_orange",
-        "cost": 20
+        "cost": 20,
+        "hidden": true
     },
     {
         "id": "yeti_pink",
@@ -120,7 +223,8 @@
         "theme": "Winter",
         "type": "character",
         "path": "yeti_pink",
-        "cost": 20
+        "cost": 20,
+        "hidden": true
     },
     {
         "id": "pet_yetchi_blue",
@@ -131,7 +235,8 @@
         "path": "yetchi_blue",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800
+        "maxIdle": 800,
+        "hidden": true
     },
     {
         "id": "pet_yetchi_green",
@@ -142,7 +247,8 @@
         "path": "yetchi_green",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800
+        "maxIdle": 800,
+        "hidden": true
     },
     {
         "id": "pet_yetchi_orange",
@@ -153,7 +259,8 @@
         "path": "yetchi_orange",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800
+        "maxIdle": 800,
+        "hidden": true
     },
     {
         "id": "pet_yetchi_pink",
@@ -164,7 +271,8 @@
         "path": "yetchi_pink",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800
+        "maxIdle": 800,
+        "hidden": true
     },
     {
         "id": "pet_candycane_rainbow",
@@ -175,7 +283,8 @@
         "path": "candycane_rainbow",
         "cost": 40,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_candycane_blue",
@@ -186,7 +295,8 @@
         "path": "candycane_blue",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_candycane_green",
@@ -197,7 +307,8 @@
         "path": "candycane_green",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_candycane_orange",
@@ -208,7 +319,8 @@
         "path": "candycane_orange",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_candycane_pink",
@@ -219,7 +331,8 @@
         "path": "candycane_pink",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_candycane_purple",
@@ -230,7 +343,8 @@
         "path": "candycane_purple",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_candycane_red",
@@ -241,7 +355,8 @@
         "path": "candycane_red",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_candycane_turquoise",
@@ -252,7 +367,8 @@
         "path": "candycane_turquoise",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_candycane_yellow",
@@ -263,7 +379,8 @@
         "path": "candycane_yellow",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_pink_yellow",
@@ -274,7 +391,8 @@
         "path": "gift_pink_yellow",
         "cost": 40,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_yellow_orange",
@@ -285,7 +403,8 @@
         "path": "gift_yellow_orange",
         "cost": 40,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_gold",
@@ -296,7 +415,8 @@
         "path": "gift_gold",
         "cost": 40,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_silver",
@@ -307,7 +427,8 @@
         "path": "gift_silver",
         "cost": 40,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_rainbow",
@@ -318,7 +439,8 @@
         "path": "gift_rainbow",
         "cost": 40,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_black_gold",
@@ -329,7 +451,8 @@
         "path": "gift_black_gold",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_black_silver",
@@ -340,7 +463,8 @@
         "path": "gift_black_silver",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_blue_pink",
@@ -351,7 +475,8 @@
         "path": "gift_blue_pink",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_blue_silver",
@@ -362,7 +487,8 @@
         "path": "gift_blue_silver",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_blue_yellow",
@@ -373,7 +499,8 @@
         "path": "gift_blue_yellow",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_brown_red",
@@ -384,7 +511,8 @@
         "path": "gift_brown_red",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_dark_blue_green",
@@ -395,7 +523,8 @@
         "path": "gift_dark_blue_green",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_green_blue_yellow",
@@ -406,7 +535,8 @@
         "path": "gift_green_blue_yellow",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_green_green",
@@ -417,7 +547,8 @@
         "path": "gift_green_green",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_green_purple",
@@ -428,7 +559,8 @@
         "path": "gift_green_purple",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_lightbrown_red",
@@ -439,7 +571,8 @@
         "path": "gift_lightbrown_red",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_pink_silver",
@@ -450,7 +583,8 @@
         "path": "gift_pink_silver",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_purple_pink_teal",
@@ -461,7 +595,8 @@
         "path": "gift_purple_pink_teal",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_purple_red",
@@ -472,7 +607,8 @@
         "path": "gift_purple_red",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_purple_silver",
@@ -484,6 +620,7 @@
         "cost": 20,
         "minIdle": 0,
         "maxIdle": 200,
+        "hidden": true,
         "hidden": true
     },
     {
@@ -495,7 +632,8 @@
         "path": "gift_purple_teal",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_purple_white",
@@ -506,7 +644,8 @@
         "path": "gift_purple_white",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_purple_yellow",
@@ -517,7 +656,8 @@
         "path": "gift_purple_yellow",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_red_white",
@@ -528,7 +668,8 @@
         "path": "gift_red_white",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_red_yellow",
@@ -539,7 +680,8 @@
         "path": "gift_red_yellow",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_teal_pink",
@@ -550,7 +692,8 @@
         "path": "gift_teal_pink",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_gift_white_black",
@@ -561,7 +704,8 @@
         "path": "gift_white_black",
         "cost": 20,
         "minIdle": 0,
-        "maxIdle": 200
+        "maxIdle": 200,
+        "hidden": true
     },
     {
         "id": "pet_firefly_halloween",
@@ -819,36 +963,6 @@
         "maxIdle": 200
     },
     {
-        "id": "bellflower",
-        "name": "Bellflower",
-        "description": "",
-        "theme": "Spring",
-        "type": "character",
-        "path": "bellflower",
-        "cost": 20,
-        "hidden": true
-    },
-    {
-        "id": "calendula",
-        "name": "Calendula",
-        "description": "",
-        "theme": "Spring",
-        "type": "character",
-        "path": "calendula",
-        "cost": 20,
-        "hidden": true
-    },
-    {
-        "id": "poppy",
-        "name": "Poppy",
-        "description": "",
-        "theme": "Spring",
-        "type": "character",
-        "path": "poppy",
-        "cost": 20,
-        "hidden": true
-    },
-    {
         "id": "pet_balloon_blue",
         "name": "Blue Balloon",
         "description": "",
@@ -982,30 +1096,6 @@
         "maxIdle": 200
     },
     {
-        "id": "pet_chick",
-        "name": "Chicklet",
-        "description": "",
-        "theme": "Easter",
-        "type": "pet",
-        "path": "chick",
-        "cost": 40,
-        "minIdle": 200,
-        "maxIdle": 800,
-        "hidden": true
-    },
-    {
-        "id": "pet_chocklet",
-        "name": "Chocklet",
-        "description": "",
-        "theme": "Easter",
-        "type": "pet",
-        "path": "chocklet",
-        "cost": 40,
-        "minIdle": 200,
-        "maxIdle": 800,
-        "hidden": true
-    },
-    {
         "id": "pet_fly",
         "name": "Tico",
         "description": "",
@@ -1015,30 +1105,6 @@
         "cost": 40,
         "minIdle": 0,
         "maxIdle": 0
-    },
-    {
-        "id": "pet_rabbit1",
-        "name": "Caramel",
-        "description": "",
-        "theme": "Easter",
-        "type": "pet",
-        "path": "rabbit1",
-        "cost": 40,
-        "minIdle": 200,
-        "maxIdle": 800,
-        "hidden": true
-    },
-    {
-        "id": "pet_rabbit2",
-        "name": "Cotton",
-        "description": "",
-        "theme": "Easter",
-        "type": "pet",
-        "path": "rabbit2",
-        "cost": 40,
-        "minIdle": 200,
-        "maxIdle": 800,
-        "hidden": true
     },
     {
         "id": "instafluff",
@@ -1223,7 +1289,8 @@
         "theme": "Christmas",
         "type": "character",
         "path": "santa",
-        "cost": 20
+        "cost": 20,
+        "hidden": true
     },
     {
         "id": "claus",
@@ -1232,7 +1299,8 @@
         "theme": "Christmas",
         "type": "character",
         "path": "claus",
-        "cost": 20
+        "cost": 20,
+        "hidden": true
     },
     {
         "id": "elf",
@@ -1241,7 +1309,8 @@
         "theme": "Christmas",
         "type": "character",
         "path": "elf",
-        "cost": 20
+        "cost": 20,
+        "hidden": true
     },
     {
         "id": "elfgirl",
@@ -1250,7 +1319,8 @@
         "theme": "Christmas",
         "type": "character",
         "path": "elfgirl",
-        "cost": 20
+        "cost": 20,
+        "hidden": true
     },
     {
         "id": "grinch",
@@ -1259,7 +1329,8 @@
         "theme": "Christmas",
         "type": "character",
         "path": "grinch",
-        "cost": 20
+        "cost": 20,
+        "hidden": true
     },
     {
         "id": "snowman",
@@ -1268,25 +1339,6 @@
         "theme": "Winter",
         "type": "character",
         "path": "snowman",
-        "cost": 20
-    },
-    {
-        "id": "chick",
-        "name": "Chick Outfit",
-        "description": "",
-        "theme": "Easter",
-        "type": "character",
-        "path": "chick",
-        "cost": 20,
-        "hidden": true
-    },
-    {
-        "id": "rabbit",
-        "name": "Rabbit Outfit",
-        "description": "",
-        "theme": "Easter",
-        "type": "character",
-        "path": "rabbit",
         "cost": 20,
         "hidden": true
     }

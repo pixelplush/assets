@@ -170,6 +170,50 @@
         "maxIdle": 800
     },
     {
+        "id": "pet_poop_yellow",
+        "name": "Golden Poo",
+        "description": "",
+        "theme": "Fun",
+        "type": "pet",
+        "path": "poop_yellow",
+        "cost": 40,
+        "minIdle": 400,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_poop_rainbow",
+        "name": "Unicorn Poop",
+        "description": "",
+        "theme": "Fun",
+        "type": "pet",
+        "path": "poop_rainbow",
+        "cost": 40,
+        "minIdle": 400,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_poop_pink",
+        "name": "Princess Poop",
+        "description": "",
+        "theme": "Fun",
+        "type": "pet",
+        "path": "poop_pink",
+        "cost": 40,
+        "minIdle": 400,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_poop_blue",
+        "name": "Frozen Poop",
+        "description": "",
+        "theme": "Fun",
+        "type": "pet",
+        "path": "poop_blue",
+        "cost": 40,
+        "minIdle": 400,
+        "maxIdle": 800
+    },
+    {
         "id": "bellflower",
         "name": "Bellflower",
         "description": "",

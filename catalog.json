@@ -38,6 +38,138 @@
         "hidden": true
     },
     {
+        "id": "pet_butterfly_vanessa",
+        "name": "Vanessa Butterfy",
+        "description": "",
+        "theme": "Spring",
+        "type": "pet",
+        "path": "butterfly_vanessa",
+        "cost": 40,
+        "minIdle": 0,
+        "maxIdle": 0
+    },
+    {
+        "id": "pet_butterfly_tiger",
+        "name": "Tiger Butterfly",
+        "description": "",
+        "theme": "Spring",
+        "type": "pet",
+        "path": "butterfly_tiger",
+        "cost": 40,
+        "minIdle": 0,
+        "maxIdle": 0
+    },
+    {
+        "id": "pet_butterfly_purple",
+        "name": "Purple Butterfly",
+        "description": "",
+        "theme": "Spring",
+        "type": "pet",
+        "path": "butterfly_purple",
+        "cost": 40,
+        "minIdle": 0,
+        "maxIdle": 0
+    },
+    {
+        "id": "pet_butterfly_pink",
+        "name": "Pink Butterfly",
+        "description": "",
+        "theme": "Spring",
+        "type": "pet",
+        "path": "butterfly_pink",
+        "cost": 40,
+        "minIdle": 0,
+        "maxIdle": 0
+    },
+    {
+        "id": "pet_butterfly_orange",
+        "name": "Orange Butterfly",
+        "description": "",
+        "theme": "Spring",
+        "type": "pet",
+        "path": "butterfly_orange",
+        "cost": 40,
+        "minIdle": 0,
+        "maxIdle": 0
+    },
+    {
+        "id": "pet_butterfly_morpho",
+        "name": "Morpho Butterfly",
+        "description": "",
+        "theme": "Spring",
+        "type": "pet",
+        "path": "butterfly_morpho",
+        "cost": 40,
+        "minIdle": 0,
+        "maxIdle": 0
+    },
+    {
+        "id": "pet_butterfly_marble",
+        "name": "Marble Butterfly",
+        "description": "",
+        "theme": "Spring",
+        "type": "pet",
+        "path": "butterfly_marble",
+        "cost": 40,
+        "minIdle": 0,
+        "maxIdle": 0
+    },
+    {
+        "id": "pet_butterfly_green",
+        "name": "Green Butterfly",
+        "description": "",
+        "theme": "Spring",
+        "type": "pet",
+        "path": "butterfly_green",
+        "cost": 40,
+        "minIdle": 0,
+        "maxIdle": 0
+    },
+    {
+        "id": "pet_butterfly_blue",
+        "name": "Blue Butterfly",
+        "description": "",
+        "theme": "Spring",
+        "type": "pet",
+        "path": "butterfly_blue",
+        "cost": 40,
+        "minIdle": 0,
+        "maxIdle": 0
+    },
+    {
+        "id": "pet_poop_brown",
+        "name": "Poop",
+        "description": "",
+        "theme": "Fun",
+        "type": "pet",
+        "path": "poop_brown",
+        "cost": 40,
+        "minIdle": 400,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_poop_green",
+        "name": "Green Poo",
+        "description": "",
+        "theme": "Fun",
+        "type": "pet",
+        "path": "poop_green",
+        "cost": 40,
+        "minIdle": 400,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_poop_purple",
+        "name": "Poople",
+        "description": "",
+        "theme": "Fun",
+        "type": "pet",
+        "path": "poop_purple",
+        "cost": 40,
+        "minIdle": 400,
+        "maxIdle": 800
+    },
+    {
         "id": "bellflower",
         "name": "Bellflower",
         "description": "",

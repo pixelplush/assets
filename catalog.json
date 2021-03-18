@@ -1,6 +1,7 @@
 [
     {
         "id": "pet_none",
+        "group": "none",
         "name": "None",
         "description": "",
         "theme": "None",
@@ -13,6 +14,7 @@
     },
     {
         "id": "pet_fluffington",
+        "group": "Fluffington",
         "name": "Fluffington",
         "description": "",
         "theme": "PixelPlush",
@@ -26,6 +28,7 @@
     },
     {
         "id": "pet_rainbee",
+        "group": "Rainbee",
         "name": "Rainbee",
         "description": "",
         "theme": "PixelPlush",
@@ -39,6 +42,7 @@
     },
     {
         "id": "pet_butterfly_vanessa",
+        "group": "Butterfly",
         "name": "Vanessa Butterfly",
         "description": "",
         "theme": "Spring",
@@ -50,6 +54,7 @@
     },
     {
         "id": "pet_butterfly_tiger",
+        "group": "Butterfly",
         "name": "Tiger Butterfly",
         "description": "",
         "theme": "Spring",
@@ -61,6 +66,7 @@
     },
     {
         "id": "pet_butterfly_purple",
+        "group": "Butterfly",
         "name": "Purple Butterfly",
         "description": "",
         "theme": "Spring",
@@ -72,6 +78,7 @@
     },
     {
         "id": "pet_butterfly_pink",
+        "group": "Butterfly",
         "name": "Pink Butterfly",
         "description": "",
         "theme": "Spring",
@@ -83,6 +90,7 @@
     },
     {
         "id": "pet_butterfly_orange",
+        "group": "Butterfly",
         "name": "Orange Butterfly",
         "description": "",
         "theme": "Spring",
@@ -94,6 +102,7 @@
     },
     {
         "id": "pet_butterfly_morpho",
+        "group": "Butterfly",
         "name": "Morpho Butterfly",
         "description": "",
         "theme": "Spring",
@@ -105,6 +114,7 @@
     },
     {
         "id": "pet_butterfly_marble",
+        "group": "Butterfly",
         "name": "Marble Butterfly",
         "description": "",
         "theme": "Spring",
@@ -116,6 +126,7 @@
     },
     {
         "id": "pet_butterfly_green",
+        "group": "Butterfly",
         "name": "Green Butterfly",
         "description": "",
         "theme": "Spring",
@@ -127,6 +138,7 @@
     },
     {
         "id": "pet_butterfly_blue",
+        "group": "Butterfly",
         "name": "Blue Butterfly",
         "description": "",
         "theme": "Spring",
@@ -138,6 +150,7 @@
     },
     {
         "id": "pet_poop_brown",
+        "group": "Poop",
         "name": "Poop",
         "description": "",
         "theme": "Fun",
@@ -149,6 +162,7 @@
     },
     {
         "id": "pet_poop_green",
+        "group": "Poop",
         "name": "Green Poo",
         "description": "",
         "theme": "Fun",
@@ -160,6 +174,7 @@
     },
     {
         "id": "pet_poop_purple",
+        "group": "Poop",
         "name": "Poople",
         "description": "",
         "theme": "Fun",
@@ -171,6 +186,7 @@
     },
     {
         "id": "pet_poop_yellow",
+        "group": "Poop",
         "name": "Golden Poo",
         "description": "",
         "theme": "Fun",
@@ -182,6 +198,7 @@
     },
     {
         "id": "pet_poop_rainbow",
+        "group": "Poop",
         "name": "Unicorn Poop",
         "description": "",
         "theme": "Fun",
@@ -193,6 +210,7 @@
     },
     {
         "id": "pet_poop_pink",
+        "group": "Poop",
         "name": "Princess Poop",
         "description": "",
         "theme": "Fun",
@@ -204,6 +222,7 @@
     },
     {
         "id": "pet_poop_blue",
+        "group": "Poop",
         "name": "Frozen Poop",
         "description": "",
         "theme": "Fun",
@@ -215,6 +234,7 @@
     },
     {
         "id": "bellflower",
+        "group": "Flower",
         "name": "Bellflower",
         "description": "",
         "theme": "Spring",
@@ -224,6 +244,7 @@
     },
     {
         "id": "calendula",
+        "group": "Flower",
         "name": "Calendula",
         "description": "",
         "theme": "Spring",
@@ -233,6 +254,7 @@
     },
     {
         "id": "poppy",
+        "group": "Flower",
         "name": "Poppy",
         "description": "",
         "theme": "Spring",
@@ -242,6 +264,7 @@
     },
     {
         "id": "pet_chick",
+        "group": "Chick",
         "name": "Chicklet",
         "description": "",
         "theme": "Easter",
@@ -253,6 +276,7 @@
     },
     {
         "id": "pet_chocklet",
+        "group": "Chick",
         "name": "Chocklet",
         "description": "",
         "theme": "Easter",
@@ -264,6 +288,7 @@
     },
     {
         "id": "pet_rabbit1",
+        "group": "Rabbit",
         "name": "Caramel",
         "description": "",
         "theme": "Easter",
@@ -275,6 +300,7 @@
     },
     {
         "id": "pet_rabbit2",
+        "group": "Rabbit",
         "name": "Cotton",
         "description": "",
         "theme": "Easter",
@@ -286,6 +312,7 @@
     },
     {
         "id": "chick",
+        "group": "Chick",
         "name": "Chick Outfit",
         "description": "",
         "theme": "Easter",
@@ -295,6 +322,7 @@
     },
     {
         "id": "rabbit",
+        "group": "Rabbit",
         "name": "Rabbit Outfit",
         "description": "",
         "theme": "Easter",
@@ -304,6 +332,7 @@
     },
     {
         "id": "boybear",
+        "group": "Bear",
         "name": "Bear (M)",
         "description": "",
         "theme": "Valentine",
@@ -314,6 +343,7 @@
     },
     {
         "id": "girlbear",
+        "group": "Bear",
         "name": "Bear (F)",
         "description": "",
         "theme": "Valentine",
@@ -324,6 +354,7 @@
     },
     {
         "id": "evilbear",
+        "group": "Bear",
         "name": "Evil Bear",
         "description": "",
         "theme": "Valentine",
@@ -334,6 +365,7 @@
     },
     {
         "id": "pet_penguin",
+        "group": "Penguin",
         "name": "Flipper the Penguin",
         "description": "",
         "theme": "Winter",
@@ -346,6 +378,7 @@
     },
     {
         "id": "pet_marble",
+        "group": "Rabbit",
         "name": "Marble",
         "description": "",
         "theme": "Winter",
@@ -358,6 +391,7 @@
     },
     {
         "id": "yeti_blue",
+        "group": "Yeti",
         "name": "The Blue Yeti",
         "description": "",
         "theme": "Winter",
@@ -368,6 +402,7 @@
     },
     {
         "id": "yeti_green",
+        "group": "Yeti",
         "name": "The Green Yeti",
         "description": "",
         "theme": "Winter",
@@ -378,6 +413,7 @@
     },
     {
         "id": "yeti_orange",
+        "group": "Yeti",
         "name": "The Orange Yeti",
         "description": "",
         "theme": "Winter",
@@ -388,6 +424,7 @@
     },
     {
         "id": "yeti_pink",
+        "group": "Yeti",
         "name": "The Pink Yeti",
         "description": "",
         "theme": "Winter",
@@ -398,6 +435,7 @@
     },
     {
         "id": "pet_yetchi_blue",
+        "group": "Yetchi",
         "name": "Little Blue Yetchi",
         "description": "",
         "theme": "Winter",
@@ -410,6 +448,7 @@
     },
     {
         "id": "pet_yetchi_green",
+        "group": "Yetchi",
         "name": "Little Green Yetchi",
         "description": "",
         "theme": "Winter",
@@ -422,6 +461,7 @@
     },
     {
         "id": "pet_yetchi_orange",
+        "group": "Yetchi",
         "name": "Little Orange Yetchi",
         "description": "",
         "theme": "Winter",
@@ -434,6 +474,7 @@
     },
     {
         "id": "pet_yetchi_pink",
+        "group": "Yetchi",
         "name": "Little Pink Yetchi",
         "description": "",
         "theme": "Winter",
@@ -446,6 +487,7 @@
     },
     {
         "id": "pet_candycane_rainbow",
+        "group": "Christmas Candy",
         "name": "Rainbow Christmas Candy",
         "description": "",
         "theme": "Christmas",
@@ -458,6 +500,7 @@
     },
     {
         "id": "pet_candycane_blue",
+        "group": "Christmas Candy",
         "name": "Blue Christmas Candy",
         "description": "",
         "theme": "Christmas",
@@ -470,6 +513,7 @@
     },
     {
         "id": "pet_candycane_green",
+        "group": "Christmas Candy",
         "name": "Green Christmas Candy",
         "description": "",
         "theme": "Christmas",
@@ -482,6 +526,7 @@
     },
     {
         "id": "pet_candycane_orange",
+        "group": "Christmas Candy",
         "name": "Orange Christmas Candy",
         "description": "",
         "theme": "Christmas",
@@ -494,6 +539,7 @@
     },
     {
         "id": "pet_candycane_pink",
+        "group": "Christmas Candy",
         "name": "Pink Christmas Candy",
         "description": "",
         "theme": "Christmas",
@@ -506,6 +552,7 @@
     },
     {
         "id": "pet_candycane_purple",
+        "group": "Christmas Candy",
         "name": "Purple Christmas Candy",
         "description": "",
         "theme": "Christmas",
@@ -518,6 +565,7 @@
     },
     {
         "id": "pet_candycane_red",
+        "group": "Christmas Candy",
         "name": "Red Christmas Candy",
         "description": "",
         "theme": "Christmas",
@@ -530,6 +578,7 @@
     },
     {
         "id": "pet_candycane_turquoise",
+        "group": "Christmas Candy",
         "name": "Turquoise Christmas Candy",
         "description": "",
         "theme": "Christmas",
@@ -542,6 +591,7 @@
     },
     {
         "id": "pet_candycane_yellow",
+        "group": "Christmas Candy",
         "name": "Yellow Christmas Candy",
         "description": "",
         "theme": "Christmas",
@@ -554,6 +604,7 @@
     },
     {
         "id": "pet_gift_pink_yellow",
+        "group": "Gift",
         "name": "Maaya's Box",
         "description": "",
         "theme": "Christmas",
@@ -566,6 +617,7 @@
     },
     {
         "id": "pet_gift_yellow_orange",
+        "group": "Gift",
         "name": "Instafluff's Box",
         "description": "",
         "theme": "Christmas",
@@ -578,6 +630,7 @@
     },
     {
         "id": "pet_gift_gold",
+        "group": "Gift",
         "name": "The Golden Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -590,6 +643,7 @@
     },
     {
         "id": "pet_gift_silver",
+        "group": "Gift",
         "name": "The Silver Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -602,6 +656,7 @@
     },
     {
         "id": "pet_gift_rainbow",
+        "group": "Gift",
         "name": "The Rainbow Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -614,6 +669,7 @@
     },
     {
         "id": "pet_gift_black_gold",
+        "group": "Gift",
         "name": "Black & Gold Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -626,6 +682,7 @@
     },
     {
         "id": "pet_gift_black_silver",
+        "group": "Gift",
         "name": "Black & Silver Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -638,6 +695,7 @@
     },
     {
         "id": "pet_gift_blue_pink",
+        "group": "Gift",
         "name": "Blue & Pink Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -650,6 +708,7 @@
     },
     {
         "id": "pet_gift_blue_silver",
+        "group": "Gift",
         "name": "Blue & Silver Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -662,6 +721,7 @@
     },
     {
         "id": "pet_gift_blue_yellow",
+        "group": "Gift",
         "name": "Blue & Yellow Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -674,6 +734,7 @@
     },
     {
         "id": "pet_gift_brown_red",
+        "group": "Gift",
         "name": "Brown & Red Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -686,6 +747,7 @@
     },
     {
         "id": "pet_gift_dark_blue_green",
+        "group": "Gift",
         "name": "Dark Blue & Green Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -698,6 +760,7 @@
     },
     {
         "id": "pet_gift_green_blue_yellow",
+        "group": "Gift",
         "name": "Green Blue Yellow Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -710,6 +773,7 @@
     },
     {
         "id": "pet_gift_green_green",
+        "group": "Gift",
         "name": "Green Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -722,6 +786,7 @@
     },
     {
         "id": "pet_gift_green_purple",
+        "group": "Gift",
         "name": "Green & Purple Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -734,6 +799,7 @@
     },
     {
         "id": "pet_gift_lightbrown_red",
+        "group": "Gift",
         "name": "Brown & Red Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -746,6 +812,7 @@
     },
     {
         "id": "pet_gift_pink_silver",
+        "group": "Gift",
         "name": "Pink & Silver Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -758,6 +825,7 @@
     },
     {
         "id": "pet_gift_purple_pink_teal",
+        "group": "Gift",
         "name": "Pink & Teal Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -770,6 +838,7 @@
     },
     {
         "id": "pet_gift_purple_red",
+        "group": "Gift",
         "name": "Purple & Red Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -782,6 +851,7 @@
     },
     {
         "id": "pet_gift_purple_silver",
+        "group": "Gift",
         "name": "Purple & Silver Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -795,6 +865,7 @@
     },
     {
         "id": "pet_gift_purple_teal",
+        "group": "Gift",
         "name": "Purple & Teal Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -807,6 +878,7 @@
     },
     {
         "id": "pet_gift_purple_white",
+        "group": "Gift",
         "name": "Purple & White Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -819,6 +891,7 @@
     },
     {
         "id": "pet_gift_purple_yellow",
+        "group": "Gift",
         "name": "Purple & Yellow Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -831,6 +904,7 @@
     },
     {
         "id": "pet_gift_red_white",
+        "group": "Gift",
         "name": "Red & White Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -843,6 +917,7 @@
     },
     {
         "id": "pet_gift_red_yellow",
+        "group": "Gift",
         "name": "Red & Yellow Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -855,6 +930,7 @@
     },
     {
         "id": "pet_gift_teal_pink",
+        "group": "Gift",
         "name": "Teal & Pink Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -867,6 +943,7 @@
     },
     {
         "id": "pet_gift_white_black",
+        "group": "Gift",
         "name": "White & Black Giftbox",
         "description": "",
         "theme": "Christmas",
@@ -879,6 +956,7 @@
     },
     {
         "id": "pet_firefly_halloween",
+        "group": "Firefly",
         "name": "Firefly (Halloween)",
         "description": "",
         "theme": "Halloween",
@@ -891,6 +969,7 @@
     },
     {
         "id": "amanita",
+        "group": "Mushroom",
         "name": "Amanita",
         "description": "",
         "theme": "Autumn",
@@ -901,6 +980,7 @@
     },
     {
         "id": "pet_ammy",
+        "group": "Mushroom",
         "name": "Ammy",
         "description": "",
         "theme": "Autumn",
@@ -913,6 +993,7 @@
     },
     {
         "id": "twiglet",
+        "group": "Mushroom",
         "name": "Twiglet",
         "description": "",
         "theme": "Autumn",
@@ -923,6 +1004,7 @@
     },
     {
         "id": "pet_twiggy",
+        "group": "Mushroom",
         "name": "Twiggy",
         "description": "",
         "theme": "Autumn",
@@ -935,6 +1017,7 @@
     },
     {
         "id": "lotus",
+        "group": "Fairy",
         "name": "Lotus",
         "description": "",
         "theme": "Fairy",
@@ -944,6 +1027,7 @@
     },
     {
         "id": "tori",
+        "group": "Fairy",
         "name": "Tori",
         "description": "",
         "theme": "Fairy",
@@ -953,6 +1037,7 @@
     },
     {
         "id": "koral",
+        "group": "Fairy",
         "name": "Koral",
         "description": "",
         "theme": "Fairy",
@@ -962,6 +1047,7 @@
     },
     {
         "id": "kiro",
+        "group": "Fairy",
         "name": "Kiro",
         "description": "",
         "theme": "Fairy",
@@ -971,6 +1057,7 @@
     },
     {
         "id": "nova",
+        "group": "Fairy",
         "name": "Nova",
         "description": "",
         "theme": "Fairy",
@@ -980,6 +1067,7 @@
     },
     {
         "id": "pet_kodo",
+        "group": "Chick",
         "name": "Kodo",
         "description": "",
         "theme": "Fairy",
@@ -991,6 +1079,7 @@
     },
     {
         "id": "pet_paco",
+        "group": "Rabbit",
         "name": "Paco",
         "description": "",
         "theme": "Fairy",
@@ -1002,6 +1091,7 @@
     },
     {
         "id": "pet_firefly_green",
+        "group": "Firefly",
         "name": "Firefly (Green)",
         "description": "",
         "theme": "Fairy",
@@ -1013,6 +1103,7 @@
     },
     {
         "id": "pet_firefly_pink",
+        "group": "Firefly",
         "name": "Firefly (Pink)",
         "description": "",
         "theme": "Fairy",
@@ -1024,6 +1115,7 @@
     },
     {
         "id": "pet_firefly_purple",
+        "group": "Firefly",
         "name": "Firefly (Purple)",
         "description": "",
         "theme": "Fairy",
@@ -1035,6 +1127,7 @@
     },
     {
         "id": "pet_mushroom_green",
+        "group": "Mushroom",
         "name": "Green Mushroom",
         "description": "",
         "theme": "Fairy",
@@ -1046,6 +1139,7 @@
     },
     {
         "id": "pet_mushroom_pink",
+        "group": "Mushroom",
         "name": "Pink Mushroom",
         "description": "",
         "theme": "Fairy",
@@ -1057,6 +1151,7 @@
     },
     {
         "id": "pet_mushroom_purple",
+        "group": "Mushroom",
         "name": "Purple Mushroom",
         "description": "",
         "theme": "Fairy",
@@ -1068,6 +1163,7 @@
     },
     {
         "id": "pet_hedgehog2",
+        "group": "Hedgehog",
         "name": "Squish",
         "description": "",
         "theme": "Cute",
@@ -1079,6 +1175,7 @@
     },
     {
         "id": "pet_hedgehog1",
+        "group": "Hedgehog",
         "name": "Hermie",
         "description": "",
         "theme": "Cute",
@@ -1090,6 +1187,7 @@
     },
     {
         "id": "pet_bee",
+        "group": "Bee",
         "name": "Beetrix",
         "description": "",
         "theme": "Cute",
@@ -1101,6 +1199,7 @@
     },
     {
         "id": "pet_tortoise2",
+        "group": "Tortoise",
         "name": "Merlin",
         "description": "",
         "theme": "Cute",
@@ -1112,6 +1211,7 @@
     },
     {
         "id": "pet_tortoise",
+        "group": "Tortoise",
         "name": "Morgan",
         "description": "",
         "theme": "Cute",
@@ -1123,6 +1223,7 @@
     },
     {
         "id": "pet_snowball",
+        "group": "Snowball",
         "name": "Snowchi",
         "description": "",
         "theme": "Cute",
@@ -1134,6 +1235,7 @@
     },
     {
         "id": "pet_balloon_blue",
+        "group": "Balloon",
         "name": "Blue Balloon",
         "description": "",
         "theme": "PixelPlush",
@@ -1145,6 +1247,7 @@
     },
     {
         "id": "pet_balloon_blue_light",
+        "group": "Balloon",
         "name": "Sky Balloon",
         "description": "",
         "theme": "PixelPlush",
@@ -1156,6 +1259,7 @@
     },
     {
         "id": "pet_balloon_gold",
+        "group": "Balloon",
         "name": "Golden Balloon",
         "description": "",
         "theme": "PixelPlush",
@@ -1167,6 +1271,7 @@
     },
     {
         "id": "pet_balloon_green",
+        "group": "Balloon",
         "name": "Green Balloon",
         "description": "",
         "theme": "PixelPlush",
@@ -1178,6 +1283,7 @@
     },
     {
         "id": "pet_balloon_orange",
+        "group": "Balloon",
         "name": "Orange Balloon",
         "description": "",
         "theme": "PixelPlush",
@@ -1189,6 +1295,7 @@
     },
     {
         "id": "pet_balloon_pink",
+        "group": "Balloon",
         "name": "Hot Pink Balloon",
         "description": "",
         "theme": "PixelPlush",
@@ -1200,6 +1307,7 @@
     },
     {
         "id": "pet_balloon_pink_light",
+        "group": "Balloon",
         "name": "Pink Balloon",
         "description": "",
         "theme": "PixelPlush",
@@ -1211,6 +1319,7 @@
     },
     {
         "id": "pet_balloon_purple",
+        "group": "Balloon",
         "name": "Purple Balloon",
         "description": "",
         "theme": "PixelPlush",
@@ -1223,6 +1332,7 @@
     },
     {
         "id": "pet_balloon_rainbow",
+        "group": "Balloon",
         "name": "Rainbow Balloon",
         "description": "",
         "theme": "PixelPlush",
@@ -1234,6 +1344,7 @@
     },
     {
         "id": "pet_balloon_red",
+        "group": "Balloon",
         "name": "Red Balloon",
         "description": "",
         "theme": "PixelPlush",
@@ -1245,6 +1356,7 @@
     },
     {
         "id": "pet_balloon_silver",
+        "group": "Balloon",
         "name": "Silver Balloon",
         "description": "",
         "theme": "PixelPlush",
@@ -1256,6 +1368,7 @@
     },
     {
         "id": "pet_balloon_yellow",
+        "group": "Balloon",
         "name": "Yellow Balloon",
         "description": "",
         "theme": "PixelPlush",
@@ -1267,6 +1380,7 @@
     },
     {
         "id": "pet_fly",
+        "group": "Fly",
         "name": "Tico",
         "description": "",
         "theme": "Cute",
@@ -1278,6 +1392,7 @@
     },
     {
         "id": "instafluff",
+        "group": "Instafluff",
         "name": "Instafluff",
         "description": "",
         "theme": "Streamer",
@@ -1287,6 +1402,7 @@
     },
     {
         "id": "maaya",
+        "group": "Maaya",
         "name": "Maaya",
         "description": "",
         "theme": "Streamer",
@@ -1296,6 +1412,7 @@
     },
     {
         "id": "avellana",
+        "group": "Avellana",
         "name": "Avellana",
         "description": "",
         "theme": "Streamer",
@@ -1306,6 +1423,7 @@
     },
     {
         "id": "jimmy",
+        "group": "Jimmy",
         "name": "Jimmy",
         "description": "",
         "theme": "Streamer",
@@ -1316,6 +1434,7 @@
     },
     {
         "id": "sammie",
+        "group": "Sammie",
         "name": "Sammie",
         "description": "",
         "theme": "Streamer",
@@ -1326,6 +1445,7 @@
     },
     {
         "id": "boy",
+        "group": "Normal",
         "name": "Boy",
         "description": "",
         "theme": "Base",
@@ -1335,6 +1455,7 @@
     },
     {
         "id": "girl",
+        "group": "Normal",
         "name": "Girl",
         "description": "",
         "theme": "Base",
@@ -1344,6 +1465,7 @@
     },
     {
         "id": "boyhunter",
+        "group": "Hunter",
         "name": "Hunter (M)",
         "description": "",
         "theme": "Adventure",
@@ -1354,6 +1476,7 @@
     },
     {
         "id": "girlhunter",
+        "group": "Hunter",
         "name": "Hunter (F)",
         "description": "",
         "theme": "Adventure",
@@ -1364,6 +1487,7 @@
     },
     {
         "id": "harry",
+        "group": "Wizard",
         "name": "Geeky Wizard",
         "description": "",
         "theme": "Magic",
@@ -1374,6 +1498,7 @@
     },
     {
         "id": "hermione",
+        "group": "Wizard",
         "name": "Smart Girl Wizard",
         "description": "",
         "theme": "Magic",
@@ -1384,6 +1509,7 @@
     },
     {
         "id": "ron",
+        "group": "Wizard",
         "name": "Red-Hair Wizard",
         "description": "",
         "theme": "Magic",
@@ -1394,6 +1520,7 @@
     },
     {
         "id": "dobby",
+        "group": "Wizard",
         "name": "Magical Elf",
         "description": "",
         "theme": "Magic",
@@ -1404,6 +1531,7 @@
     },
     {
         "id": "voldemort",
+        "group": "Wizard",
         "name": "Evil Wizard",
         "description": "",
         "theme": "Magic",
@@ -1414,6 +1542,7 @@
     },
     {
         "id": "monster",
+        "group": "Monster",
         "name": "Monster",
         "description": "",
         "theme": "Halloween",
@@ -1424,6 +1553,7 @@
     },
     {
         "id": "vampire",
+        "group": "Vampire",
         "name": "Vampire",
         "description": "",
         "theme": "Halloween",
@@ -1434,6 +1564,7 @@
     },
     {
         "id": "witch",
+        "group": "Witch",
         "name": "Witch",
         "description": "",
         "theme": "Halloween",
@@ -1444,6 +1575,7 @@
     },
     {
         "id": "zombie",
+        "group": "Zombie",
         "name": "Zombie",
         "description": "",
         "theme": "Halloween",
@@ -1454,6 +1586,7 @@
     },
     {
         "id": "santa",
+        "group": "Santa Claus",
         "name": "Santa Claus",
         "description": "",
         "theme": "Christmas",
@@ -1464,6 +1597,7 @@
     },
     {
         "id": "claus",
+        "group": "Mrs. Claus",
         "name": "Mrs. Claus",
         "description": "",
         "theme": "Christmas",
@@ -1474,6 +1608,7 @@
     },
     {
         "id": "elf",
+        "group": "Christmas Helper",
         "name": "Christmas Helper (M)",
         "description": "",
         "theme": "Christmas",
@@ -1484,6 +1619,7 @@
     },
     {
         "id": "elfgirl",
+        "group": "Christmas Helper",
         "name": "Christmas Helper (F)",
         "description": "",
         "theme": "Christmas",
@@ -1494,6 +1630,7 @@
     },
     {
         "id": "grinch",
+        "group": "Grump",
         "name": "Grump",
         "description": "",
         "theme": "Christmas",
@@ -1504,6 +1641,7 @@
     },
     {
         "id": "snowman",
+        "group": "Snowman",
         "name": "Snowman",
         "description": "",
         "theme": "Winter",

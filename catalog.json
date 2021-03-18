@@ -249,8 +249,7 @@
         "path": "chick",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "hidden": true
+        "maxIdle": 800
     },
     {
         "id": "pet_chocklet",
@@ -261,8 +260,7 @@
         "path": "chocklet",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "hidden": true
+        "maxIdle": 800
     },
     {
         "id": "pet_rabbit1",
@@ -273,8 +271,7 @@
         "path": "rabbit1",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "hidden": true
+        "maxIdle": 800
     },
     {
         "id": "pet_rabbit2",
@@ -285,8 +282,7 @@
         "path": "rabbit2",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "hidden": true
+        "maxIdle": 800
     },
     {
         "id": "chick",
@@ -295,8 +291,7 @@
         "theme": "Easter",
         "type": "character",
         "path": "chick",
-        "cost": 20,
-        "hidden": true
+        "cost": 20
     },
     {
         "id": "rabbit",
@@ -305,8 +300,7 @@
         "theme": "Easter",
         "type": "character",
         "path": "rabbit",
-        "cost": 20,
-        "hidden": true
+        "cost": 20
     },
     {
         "id": "boybear",

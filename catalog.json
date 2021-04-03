@@ -41,6 +41,279 @@
         "hidden": true
     },
     {
+        "id": "pet_egg_maaya",
+        "group": "Egg",
+        "name": "Eggsane",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_maaya",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_instafluff",
+        "group": "Egg",
+        "name": "Eggsta",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_instafluff",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_cui",
+        "group": "Egg",
+        "name": "Eggcui",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_cui",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_big_blue_pink",
+        "group": "Egg",
+        "name": "Big Blue Pink",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_big_blue_pink",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_big_blue_white",
+        "group": "Egg",
+        "name": "Big Blue White",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_big_blue_white",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_big_darkblue_white",
+        "group": "Egg",
+        "name": "Big Dark Blue White",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_big_darkblue_white",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_big_darkpink_white",
+        "group": "Egg",
+        "name": "Big Dark Pink White",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_big_darkpink_white",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_big_lime_green",
+        "group": "Egg",
+        "name": "Big Lime Green",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_big_lime_green",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_big_pink_pink",
+        "group": "Egg",
+        "name": "Big Pink",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_big_pink_pink",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_big_pink_white",
+        "group": "Egg",
+        "name": "Big Pink White",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_big_pink_white",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_big_purple_blue",
+        "group": "Egg",
+        "name": "Big Purple Blue",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_big_purple_blue",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_big_purple_white",
+        "group": "Egg",
+        "name": "Big Purple White",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_big_purple_white",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_big_yellow_orange",
+        "group": "Egg",
+        "name": "Big Yellow Orange",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_big_yellow_orange",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_big_yellow_red",
+        "group": "Egg",
+        "name": "Big Yellow Red",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_big_yellow_red",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_small_green_blue",
+        "group": "Egg",
+        "name": "Small Green Blue",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_small_green_blue",
+        "cost": 20,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_small_green_yellow",
+        "group": "Egg",
+        "name": "Small Green Yellow",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_small_green_yellow",
+        "cost": 20,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_small_pink_red",
+        "group": "Egg",
+        "name": "Small Pink Red",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_small_pink_red",
+        "cost": 20,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_small_purple_blue",
+        "group": "Egg",
+        "name": "Small Purple Blue",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_small_purple_blue",
+        "cost": 20,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_small_purple_pink",
+        "group": "Egg",
+        "name": "Small Purple Pink",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_small_purple_pink",
+        "cost": 20,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_small_yellow_green",
+        "group": "Egg",
+        "name": "Small Yellow Green",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_small_yellow_green",
+        "cost": 20,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
+        "id": "pet_egg_small_yellow_pink",
+        "group": "Egg",
+        "name": "Small Yellow Pink",
+        "description": "",
+        "theme": "Easter",
+        "type": "pet",
+        "path": "egg_small_yellow_pink",
+        "cost": 20,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "sale": true
+    },
+    {
         "id": "pet_butterfly_vanessa",
         "group": "Butterfly",
         "name": "Vanessa Butterfly",
@@ -272,7 +545,8 @@
         "path": "chick",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800
+        "maxIdle": 800,
+        "sale": true
     },
     {
         "id": "pet_chocklet",
@@ -284,7 +558,8 @@
         "path": "chocklet",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800
+        "maxIdle": 800,
+        "sale": true
     },
     {
         "id": "pet_rabbit1",
@@ -296,7 +571,8 @@
         "path": "rabbit1",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800
+        "maxIdle": 800,
+        "sale": true
     },
     {
         "id": "pet_rabbit2",
@@ -308,7 +584,8 @@
         "path": "rabbit2",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800
+        "maxIdle": 800,
+        "sale": true
     },
     {
         "id": "chick",
@@ -318,7 +595,8 @@
         "theme": "Easter",
         "type": "character",
         "path": "chick",
-        "cost": 20
+        "cost": 20,
+        "sale": true
     },
     {
         "id": "rabbit",
@@ -328,7 +606,8 @@
         "theme": "Easter",
         "type": "character",
         "path": "rabbit",
-        "cost": 20
+        "cost": 20,
+        "sale": true
     },
     {
         "id": "boybear",

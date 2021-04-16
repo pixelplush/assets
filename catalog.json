@@ -652,8 +652,7 @@
         "path": "penguin",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "hidden": true
+        "maxIdle": 800
     },
     {
         "id": "pet_marble",

@@ -13,6 +13,39 @@
         "hidden": true
     },
     {
+        "id": "addon_chatflakes_leaf",
+        "group": "Chat Flakes",
+        "name": "Leaves (Chat Flakes)",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "chatflakes_leaf.png",
+        "cost": 5,
+        "hidden": true
+    },
+    {
+        "id": "addon_chatflakes_snow",
+        "group": "Chat Flakes",
+        "name": "Snow (Chat Flakes)",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "chatflakes_snow.png",
+        "cost": 5,
+        "hidden": true
+    },
+    {
+        "id": "addon_parachute_blossoms",
+        "group": "Parachute Drop",
+        "name": "Blossoms Theme (Parachute Drop)",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "parachutedrop_spring.png",
+        "cost": 10,
+        "hidden": true
+    },
+    {
         "id": "pet_fluffington",
         "group": "Fluffington",
         "name": "Fluffington",

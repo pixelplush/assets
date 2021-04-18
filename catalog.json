@@ -21,8 +21,7 @@
         "type": "add-on",
         "path": "streamweather.png",
         "cost": 20,
-        "sale": true,
-        "hidden": true
+        "sale": true
     },
     {
         "id": "addon_parachute_blossoms",
@@ -32,8 +31,7 @@
         "theme": "PixelPlush",
         "type": "add-on",
         "path": "parachutedrop_spring.png",
-        "cost": 10,
-        "hidden": true
+        "cost": 10
     },
     {
         "id": "addon_pixelconfetti",

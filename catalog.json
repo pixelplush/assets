@@ -13,6 +13,38 @@
         "hidden": true
     },
     {
+        "id": "addon_streamweather",
+        "group": "Stream Weather",
+        "name": "Stream Weather",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "parachutedrop_spring.png",
+        "cost": 20,
+        "sale": true
+    },
+    {
+        "id": "addon_parachute_blossoms",
+        "group": "Parachute Drop",
+        "name": "Spring Blossoms Theme (Parachute Drop)",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "parachutedrop_spring.png",
+        "cost": 10
+    },
+    {
+        "id": "addon_pixelconfetti",
+        "group": "Pixel Confetti",
+        "name": "Pixel Confetti",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "parachutedrop_spring.png",
+        "cost": 10,
+        "hidden": true
+    },
+    {
         "id": "addon_chatflakes_leaf",
         "group": "Chat Flakes",
         "name": "Leaves (Chat Flakes)",
@@ -32,17 +64,6 @@
         "type": "add-on",
         "path": "chatflakes_snow.png",
         "cost": 5,
-        "hidden": true
-    },
-    {
-        "id": "addon_parachute_blossoms",
-        "group": "Parachute Drop",
-        "name": "Blossoms Theme (Parachute Drop)",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "add-on",
-        "path": "parachutedrop_spring.png",
-        "cost": 10,
         "hidden": true
     },
     {

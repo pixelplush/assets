@@ -20,8 +20,7 @@
         "theme": "PixelPlush",
         "type": "add-on",
         "path": "streamweather.png",
-        "cost": 20,
-        "sale": true
+        "cost": 20
     },
     {
         "id": "addon_parachute_blossoms",
@@ -104,8 +103,7 @@
         "path": "egg_maaya",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_instafluff",
@@ -117,8 +115,7 @@
         "path": "egg_instafluff",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_cui",
@@ -130,8 +127,7 @@
         "path": "egg_cui",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_big_blue_pink",
@@ -143,8 +139,7 @@
         "path": "egg_big_blue_pink",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_big_blue_white",
@@ -156,8 +151,7 @@
         "path": "egg_big_blue_white",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_big_darkblue_white",
@@ -169,8 +163,7 @@
         "path": "egg_big_darkblue_white",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_big_darkpink_white",
@@ -182,8 +175,7 @@
         "path": "egg_big_darkpink_white",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_big_lime_green",
@@ -195,8 +187,7 @@
         "path": "egg_big_lime_green",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_big_pink_pink",
@@ -208,8 +199,7 @@
         "path": "egg_big_pink_pink",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_big_pink_white",
@@ -221,8 +211,7 @@
         "path": "egg_big_pink_white",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_big_purple_blue",
@@ -234,8 +223,7 @@
         "path": "egg_big_purple_blue",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_big_purple_white",
@@ -247,8 +235,7 @@
         "path": "egg_big_purple_white",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_big_yellow_orange",
@@ -260,8 +247,7 @@
         "path": "egg_big_yellow_orange",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_big_yellow_red",
@@ -273,8 +259,7 @@
         "path": "egg_big_yellow_red",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_small_green_blue",
@@ -286,8 +271,7 @@
         "path": "egg_small_green_blue",
         "cost": 20,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_small_green_yellow",
@@ -299,8 +283,7 @@
         "path": "egg_small_green_yellow",
         "cost": 20,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_small_pink_red",
@@ -312,8 +295,7 @@
         "path": "egg_small_pink_red",
         "cost": 20,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_small_purple_blue",
@@ -325,8 +307,7 @@
         "path": "egg_small_purple_blue",
         "cost": 20,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_small_purple_pink",
@@ -338,8 +319,7 @@
         "path": "egg_small_purple_pink",
         "cost": 20,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_small_yellow_green",
@@ -351,8 +331,7 @@
         "path": "egg_small_yellow_green",
         "cost": 20,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_small_yellow_pink",
@@ -364,8 +343,7 @@
         "path": "egg_small_yellow_pink",
         "cost": 20,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_chick",
@@ -377,8 +355,7 @@
         "path": "chick",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_chocklet",
@@ -390,8 +367,7 @@
         "path": "chocklet",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_rabbit1",
@@ -403,8 +379,7 @@
         "path": "rabbit1",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "pet_rabbit2",
@@ -416,8 +391,7 @@
         "path": "rabbit2",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "sale": true
+        "maxIdle": 800
     },
     {
         "id": "chick",
@@ -427,8 +401,7 @@
         "theme": "Easter",
         "type": "character",
         "path": "chick",
-        "cost": 20,
-        "sale": true
+        "cost": 20
     },
     {
         "id": "rabbit",
@@ -438,8 +411,7 @@
         "theme": "Easter",
         "type": "character",
         "path": "rabbit",
-        "cost": 20,
-        "sale": true
+        "cost": 20
     },
     {
         "id": "pet_butterfly_vanessa",

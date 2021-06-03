@@ -13,6 +13,17 @@
         "hidden": true
     },
     {
+        "id": "addon_parachute_rainbow",
+        "group": "Parachute Drop",
+        "name": "Rainbow Theme (Parachute Drop)",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "rainbow-heart.png",
+        "cost": 1000000,
+        "hidden": true
+    },
+    {
         "id": "addon_streamweather",
         "group": "Stream Weather",
         "name": "Stream Weather",

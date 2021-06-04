@@ -111,7 +111,7 @@
         "description": "",
         "theme": "Pride",
         "type": "pet",
-        "path": "penguin",
+        "path": "penguin_rainbow",
         "cost": 40,
         "minIdle": 200,
         "maxIdle": 800,

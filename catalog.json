@@ -20,7 +20,7 @@
         "theme": "PixelPlush",
         "type": "add-on",
         "path": "rainbow-heart.png",
-        "cost": 1000000,
+        "cost": 10,
         "hidden": true
     },
     {
@@ -91,7 +91,7 @@
         "hidden": true
     },
     {
-        "id": "pet_rainbee",
+        "id": "pet_rainbeeOld",
         "group": "Rainbee",
         "name": "Rainbee",
         "description": "",
@@ -100,6 +100,45 @@
         "path": "rainbee",
         "cost": 10000,
         "subscription": "MaayaInsane",
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": true
+    },
+    {
+        "id": "pet_chick_rainbow",
+        "group": "Chick",
+        "name": "Chickybow",
+        "description": "",
+        "theme": "Pride",
+        "type": "pet",
+        "path": "chick_rainbow",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": true
+    },
+    {
+        "id": "pet_fluffington_rainbow",
+        "group": "Fluffington",
+        "name": "Shinington",
+        "description": "",
+        "theme": "Pride",
+        "type": "pet",
+        "path": "fluffington_rainbow",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": true
+    },
+    {
+        "id": "pet_rainbee",
+        "group": "Rainbee",
+        "name": "Rainbee",
+        "description": "",
+        "theme": "Pride",
+        "type": "pet",
+        "path": "rainbee",
+        "cost": 40,
         "minIdle": 200,
         "maxIdle": 800,
         "hidden": true

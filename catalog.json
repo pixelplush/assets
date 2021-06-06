@@ -105,6 +105,19 @@
         "hidden": true
     },
     {
+        "id": "pet_egg_rainbow",
+        "group": "Egg",
+        "name": "Eggtastic",
+        "description": "",
+        "theme": "Pride",
+        "type": "pet",
+        "path": "egg_rainbow",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "hidden": true
+    },
+    {
         "id": "pet_chick_rainbow",
         "group": "Chick",
         "name": "Chickybow",

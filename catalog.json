@@ -105,6 +105,17 @@
         "hidden": true
     },
     {
+        "id": "onesie_unicorn",
+        "group": "Onesie",
+        "name": "Unicorn Outfit",
+        "description": "",
+        "theme": "Pride",
+        "type": "character",
+        "path": "onesie_unicorn",
+        "cost": 20,
+        "hidden": true
+    },
+    {
         "id": "pet_egg_rainbow",
         "group": "Egg",
         "name": "Eggtastic",

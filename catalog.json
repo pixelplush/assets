@@ -87,7 +87,8 @@
         "cost": 10000,
         "subscription": "Instafluff",
         "minIdle": 200,
-        "maxIdle": 800
+        "maxIdle": 800,
+        "hidden": true
     },
     {
         "id": "pet_maybee",
@@ -100,7 +101,8 @@
         "cost": 10000,
         "subscription": "MaayaInsane",
         "minIdle": 200,
-        "maxIdle": 800
+        "maxIdle": 800,
+        "hidden": true
     },
     {
         "id": "onesie_unicorn",

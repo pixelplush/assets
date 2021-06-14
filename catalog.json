@@ -87,22 +87,20 @@
         "cost": 10000,
         "subscription": "Instafluff",
         "minIdle": 200,
-        "maxIdle": 800,
-        "hidden": true
+        "maxIdle": 800
     },
     {
-        "id": "pet_rainbeeOld",
-        "group": "Rainbee",
-        "name": "Rainbee",
+        "id": "pet_maybee",
+        "group": "Maybee",
+        "name": "Maybee",
         "description": "",
         "theme": "PixelPlush",
         "type": "pet",
-        "path": "rainbee",
+        "path": "rainbee_pink",
         "cost": 10000,
         "subscription": "MaayaInsane",
         "minIdle": 200,
-        "maxIdle": 800,
-        "hidden": true
+        "maxIdle": 800
     },
     {
         "id": "onesie_unicorn",

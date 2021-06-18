@@ -1598,7 +1598,8 @@
         "path": "tortoise2",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800
+        "maxIdle": 800,
+        "hidden": true
     },
     {
         "id": "pet_tortoise",
@@ -1610,7 +1611,8 @@
         "path": "tortoise",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800
+        "maxIdle": 800,
+        "hidden": true
     },
     {
         "id": "pet_snowball",

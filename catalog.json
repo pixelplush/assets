@@ -105,6 +105,45 @@
         "hidden": true
     },
     {
+        "id": "pet_butterfly_rainbow1",
+        "group": "Butterfly",
+        "name": "Beautiflaps",
+        "description": "",
+        "theme": "Pride",
+        "type": "pet",
+        "path": "butterfly_rainbow1",
+        "cost": 40,
+        "minIdle": 0,
+        "maxIdle": 0,
+        "hidden": true
+    },
+    {
+        "id": "pet_butterfly_rainbow2",
+        "group": "Butterfly",
+        "name": "Glowings",
+        "description": "",
+        "theme": "Pride",
+        "type": "pet",
+        "path": "butterfly_rainbow2",
+        "cost": 40,
+        "minIdle": 0,
+        "maxIdle": 0,
+        "hidden": true
+    },
+    {
+        "id": "pet_butterfly_rainbow3",
+        "group": "Butterfly",
+        "name": "Ravebow",
+        "description": "",
+        "theme": "Pride",
+        "type": "pet",
+        "path": "butterfly_rainbow3",
+        "cost": 40,
+        "minIdle": 0,
+        "maxIdle": 0,
+        "hidden": true
+    },
+    {
         "id": "onesie_unicorn",
         "group": "Onesie",
         "name": "Unicorn Outfit",

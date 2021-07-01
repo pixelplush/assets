@@ -20,8 +20,7 @@
         "theme": "PixelPlush",
         "type": "add-on",
         "path": "rainbow-heart.png",
-        "cost": 10,
-        "hidden": true
+        "cost": 10
     },
     {
         "id": "addon_streamweather",
@@ -114,8 +113,7 @@
         "path": "butterfly_rainbow1",
         "cost": 40,
         "minIdle": 0,
-        "maxIdle": 0,
-        "hidden": true
+        "maxIdle": 0
     },
     {
         "id": "pet_butterfly_rainbow2",
@@ -127,8 +125,7 @@
         "path": "butterfly_rainbow2",
         "cost": 40,
         "minIdle": 0,
-        "maxIdle": 0,
-        "hidden": true
+        "maxIdle": 0
     },
     {
         "id": "pet_butterfly_rainbow3",
@@ -140,8 +137,7 @@
         "path": "butterfly_rainbow3",
         "cost": 40,
         "minIdle": 0,
-        "maxIdle": 0,
-        "hidden": true
+        "maxIdle": 0
     },
     {
         "id": "onesie_unicorn",
@@ -151,8 +147,7 @@
         "theme": "Pride",
         "type": "character",
         "path": "onesie_unicorn",
-        "cost": 20,
-        "hidden": true
+        "cost": 20
     },
     {
         "id": "pet_egg_rainbow",
@@ -164,8 +159,7 @@
         "path": "egg_rainbow",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "hidden": true
+        "maxIdle": 800
     },
     {
         "id": "pet_chick_rainbow",
@@ -177,8 +171,7 @@
         "path": "chick_rainbow",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "hidden": true
+        "maxIdle": 800
     },
     {
         "id": "pet_fluffington_rainbow",
@@ -190,8 +183,7 @@
         "path": "fluffington_rainbow",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "hidden": true
+        "maxIdle": 800
     },
     {
         "id": "pet_rainbee",
@@ -203,8 +195,7 @@
         "path": "rainbee",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "hidden": true
+        "maxIdle": 800
     },
     {
         "id": "pet_penguin_rainbow",
@@ -216,8 +207,7 @@
         "path": "penguin_rainbow",
         "cost": 40,
         "minIdle": 200,
-        "maxIdle": 800,
-        "hidden": true
+        "maxIdle": 800
     },
     {
         "id": "pet_egg_maaya",

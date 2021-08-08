@@ -19,7 +19,7 @@
         "description": "",
         "theme": "PixelPlush",
         "type": "add-on",
-        "path": "rainbow-heart.png",
+        "path": "rainbow.png",
         "cost": 10
     },
     {
@@ -29,7 +29,7 @@
         "description": "",
         "theme": "PixelPlush",
         "type": "add-on",
-        "path": "streamweather.png",
+        "path": "icon_weather.png",
         "cost": 20
     },
     {

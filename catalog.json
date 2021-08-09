@@ -13,6 +13,56 @@
         "hidden": true
     },
     {
+        "id": "addon_parachute_cakeplush",
+        "group": "Parachute Drop",
+        "name": "PixelPlush Cake Theme (Parachute Drop)",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "icon_cake_pixelplush.png",
+        "cost": 10
+    },
+    {
+        "id": "addon_parachute_cakerainbow",
+        "group": "Parachute Drop",
+        "name": "Rainbow Cake Theme (Parachute Drop)",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "icon_cake_rainbow.png",
+        "cost": 10
+    },
+    {
+        "id": "addon_parachute_cakefruit",
+        "group": "Parachute Drop",
+        "name": "Fruit Cake Theme (Parachute Drop)",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "icon_cake_fruit.png",
+        "cost": 10
+    },
+    {
+        "id": "addon_parachute_cakechoco",
+        "group": "Parachute Drop",
+        "name": "Chocolate Cake Theme (Parachute Drop)",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "icon_cake_choco2.png",
+        "cost": 10
+    },
+    {
+        "id": "addon_pixelconfetti",
+        "group": "Pixel Confetti",
+        "name": "Pixel Confetti",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "confetti_icon.png",
+        "cost": 10
+    },
+    {
         "id": "addon_parachute_rainbow",
         "group": "Parachute Drop",
         "name": "Rainbow Theme (Parachute Drop)",
@@ -41,17 +91,6 @@
         "type": "add-on",
         "path": "parachutedrop_spring.png",
         "cost": 10
-    },
-    {
-        "id": "addon_pixelconfetti",
-        "group": "Pixel Confetti",
-        "name": "Pixel Confetti",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "add-on",
-        "path": "parachutedrop_spring.png",
-        "cost": 10,
-        "hidden": true
     },
     {
         "id": "addon_chatflakes_leaf",

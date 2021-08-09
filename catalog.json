@@ -60,7 +60,7 @@
         "theme": "PixelPlush",
         "type": "add-on",
         "path": "confetti_icon.png",
-        "cost": 10
+        "cost": 20
     },
     {
         "id": "addon_parachute_rainbow",

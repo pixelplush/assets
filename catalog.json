@@ -20,8 +20,7 @@
         "theme": "PixelPlush",
         "type": "add-on",
         "path": "icon_cake_pixelplush.png",
-        "cost": 10,
-        "hidden": true
+        "cost": 10
     },
     {
         "id": "addon_parachute_cakerainbow",

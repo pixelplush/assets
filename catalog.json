@@ -1462,8 +1462,7 @@
         "path": "firefly_halloween",
         "cost": 40,
         "minIdle": 0,
-        "maxIdle": 0,
-        "hidden": true
+        "maxIdle": 0
     },
     {
         "id": "amanita",
@@ -2043,8 +2042,7 @@
         "theme": "Halloween",
         "type": "character",
         "path": "monster",
-        "cost": 20,
-        "hidden": true
+        "cost": 20
     },
     {
         "id": "vampire",
@@ -2054,8 +2052,7 @@
         "theme": "Halloween",
         "type": "character",
         "path": "vampire",
-        "cost": 20,
-        "hidden": true
+        "cost": 20
     },
     {
         "id": "witch",
@@ -2065,8 +2062,7 @@
         "theme": "Halloween",
         "type": "character",
         "path": "witch",
-        "cost": 20,
-        "hidden": true
+        "cost": 20
     },
     {
         "id": "zombie",
@@ -2076,8 +2072,7 @@
         "theme": "Halloween",
         "type": "character",
         "path": "zombie",
-        "cost": 20,
-        "hidden": true
+        "cost": 20
     },
     {
         "id": "santa",

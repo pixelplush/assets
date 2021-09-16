@@ -143,6 +143,138 @@
         "hidden": true
     },
     {
+        "id": "pet_donut_chocolate",
+        "group": "Donut",
+        "name": "Chocolate Donut",
+        "description": "",
+        "theme": "Sweets",
+        "type": "pet",
+        "path": "donut_chocolate",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "oneAnim": true,
+        "hidden": true
+    },
+    {
+        "id": "pet_donut_red",
+        "group": "Donut",
+        "name": "Strawberry Donut",
+        "description": "",
+        "theme": "Sweets",
+        "type": "pet",
+        "path": "donut_red",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "oneAnim": true,
+        "hidden": true
+    },
+    {
+        "id": "pet_donut_chocolate_sprinkles",
+        "group": "Donut",
+        "name": "Sprinkles Donut",
+        "description": "",
+        "theme": "Sweets",
+        "type": "pet",
+        "path": "donut_chocolate_sprinkles",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800,
+        "oneAnim": true,
+        "hidden": true
+    },
+    {
+        "id": "harry",
+        "group": "Wizard",
+        "name": "Geeky Wizard",
+        "description": "",
+        "theme": "Magic",
+        "type": "character",
+        "path": "harry",
+        "cost": 20
+    },
+    {
+        "id": "hermione",
+        "group": "Wizard",
+        "name": "Smart Girl Wizard",
+        "description": "",
+        "theme": "Magic",
+        "type": "character",
+        "path": "hermione",
+        "cost": 20
+    },
+    {
+        "id": "ron",
+        "group": "Wizard",
+        "name": "Red-Hair Wizard",
+        "description": "",
+        "theme": "Magic",
+        "type": "character",
+        "path": "ron",
+        "cost": 20
+    },
+    {
+        "id": "dobby",
+        "group": "Wizard",
+        "name": "Magical Elf",
+        "description": "",
+        "theme": "Magic",
+        "type": "character",
+        "path": "dobby",
+        "cost": 20
+    },
+    {
+        "id": "voldemort",
+        "group": "Wizard",
+        "name": "Evil Wizard",
+        "description": "",
+        "theme": "Magic",
+        "type": "character",
+        "path": "voldemort",
+        "cost": 20
+    },
+    {
+        "id": "monster",
+        "group": "Monster",
+        "name": "Monster",
+        "description": "",
+        "theme": "Halloween",
+        "type": "character",
+        "path": "monster",
+        "cost": 20
+    },
+    {
+        "id": "vampire",
+        "group": "Vampire",
+        "name": "Vampire",
+        "description": "",
+        "theme": "Halloween",
+        "type": "character",
+        "path": "vampire",
+        "cost": 20
+    },
+    {
+        "id": "witch",
+        "group": "Witch",
+        "name": "Witch",
+        "description": "",
+        "theme": "Halloween",
+        "type": "character",
+        "path": "witch",
+        "cost": 20
+    },
+    {
+        "id": "zombie",
+        "group": "Zombie",
+        "name": "Zombie",
+        "description": "",
+        "theme": "Halloween",
+        "type": "character",
+        "path": "zombie",
+        "cost": 20
+    },
+    {
         "id": "pet_butterfly_rainbow1",
         "group": "Butterfly",
         "name": "Beautiflaps",
@@ -1978,101 +2110,6 @@
         "path": "girlhunter",
         "cost": 20,
         "hidden": true
-    },
-    {
-        "id": "harry",
-        "group": "Wizard",
-        "name": "Geeky Wizard",
-        "description": "",
-        "theme": "Magic",
-        "type": "character",
-        "path": "harry",
-        "cost": 20,
-        "hidden": true
-    },
-    {
-        "id": "hermione",
-        "group": "Wizard",
-        "name": "Smart Girl Wizard",
-        "description": "",
-        "theme": "Magic",
-        "type": "character",
-        "path": "hermione",
-        "cost": 20,
-        "hidden": true
-    },
-    {
-        "id": "ron",
-        "group": "Wizard",
-        "name": "Red-Hair Wizard",
-        "description": "",
-        "theme": "Magic",
-        "type": "character",
-        "path": "ron",
-        "cost": 20,
-        "hidden": true
-    },
-    {
-        "id": "dobby",
-        "group": "Wizard",
-        "name": "Magical Elf",
-        "description": "",
-        "theme": "Magic",
-        "type": "character",
-        "path": "dobby",
-        "cost": 20,
-        "hidden": true
-    },
-    {
-        "id": "voldemort",
-        "group": "Wizard",
-        "name": "Evil Wizard",
-        "description": "",
-        "theme": "Magic",
-        "type": "character",
-        "path": "voldemort",
-        "cost": 20,
-        "hidden": true
-    },
-    {
-        "id": "monster",
-        "group": "Monster",
-        "name": "Monster",
-        "description": "",
-        "theme": "Halloween",
-        "type": "character",
-        "path": "monster",
-        "cost": 20
-    },
-    {
-        "id": "vampire",
-        "group": "Vampire",
-        "name": "Vampire",
-        "description": "",
-        "theme": "Halloween",
-        "type": "character",
-        "path": "vampire",
-        "cost": 20
-    },
-    {
-        "id": "witch",
-        "group": "Witch",
-        "name": "Witch",
-        "description": "",
-        "theme": "Halloween",
-        "type": "character",
-        "path": "witch",
-        "cost": 20
-    },
-    {
-        "id": "zombie",
-        "group": "Zombie",
-        "name": "Zombie",
-        "description": "",
-        "theme": "Halloween",
-        "type": "character",
-        "path": "zombie",
-        "cost": 20
     },
     {
         "id": "santa",

@@ -21,7 +21,8 @@
         "type": "add-on",
         "path": "icon_cauldron.png",
         "cost": 40,
-        "sale": true
+        "sale": true,
+        "hidden": true
     },
     {
         "id": "addon_chatflakes",
@@ -31,7 +32,8 @@
         "theme": "PixelPlush",
         "type": "add-on",
         "path": "icon_chatflakes.png",
-        "cost": 20
+        "cost": 20,
+        "hidden": true
     },
     {
         "id": "addon_chatflakes_leaf",

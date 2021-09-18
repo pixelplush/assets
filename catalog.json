@@ -21,8 +21,7 @@
         "type": "add-on",
         "path": "icon_cauldron.png",
         "cost": 40,
-        "sale": true,
-        "hidden": true
+        "sale": true
     },
     {
         "id": "addon_chatflakes",
@@ -32,8 +31,7 @@
         "theme": "PixelPlush",
         "type": "add-on",
         "path": "icon_chatflakes.png",
-        "cost": 20,
-        "hidden": true
+        "cost": 20
     },
     {
         "id": "addon_chatflakes_leaf",
@@ -174,6 +172,102 @@
         "type": "character",
         "path": "pumpkin_man",
         "cost": 20
+    },
+    {
+        "id": "pet_ghost_white",
+        "group": "Pet Ghost",
+        "name": "Spooky Ghost",
+        "description": "",
+        "theme": "Halloween",
+        "type": "pet",
+        "path": "ghost_white",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_ghost_red",
+        "group": "Pet Ghost",
+        "name": "Alerted Ghost",
+        "description": "",
+        "theme": "Halloween",
+        "type": "pet",
+        "path": "ghost_red",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_ghost_pink",
+        "group": "Pet Ghost",
+        "name": "Love Ghost",
+        "description": "",
+        "theme": "Halloween",
+        "type": "pet",
+        "path": "ghost_pink",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_ghost_orange",
+        "group": "Pet Ghost",
+        "name": "Moonlight Ghost",
+        "description": "",
+        "theme": "Halloween",
+        "type": "pet",
+        "path": "ghost_orange",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_ghost_yellow",
+        "group": "Pet Ghost",
+        "name": "Honey Ghost",
+        "description": "",
+        "theme": "Halloween",
+        "type": "pet",
+        "path": "ghost_yellow",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_ghost_green",
+        "group": "Pet Ghost",
+        "name": "Neon Ghost",
+        "description": "",
+        "theme": "Halloween",
+        "type": "pet",
+        "path": "ghost_green",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_ghost_blue",
+        "group": "Pet Ghost",
+        "name": "Peaceful Ghost",
+        "description": "",
+        "theme": "Halloween",
+        "type": "pet",
+        "path": "ghost_blue",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_ghost_purple",
+        "group": "Pet Ghost",
+        "name": "Wise Ghost",
+        "description": "",
+        "theme": "Halloween",
+        "type": "pet",
+        "path": "ghost_purple",
+        "cost": 40,
+        "minIdle": 200,
+        "maxIdle": 800
     },
     {
         "id": "pet_donut_chocolate",

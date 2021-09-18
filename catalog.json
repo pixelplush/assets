@@ -181,7 +181,7 @@
         "theme": "Halloween",
         "type": "pet",
         "path": "ghost_white",
-        "cost": 40,
+        "cost": 20,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -193,7 +193,7 @@
         "theme": "Halloween",
         "type": "pet",
         "path": "ghost_red",
-        "cost": 40,
+        "cost": 20,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -205,7 +205,7 @@
         "theme": "Halloween",
         "type": "pet",
         "path": "ghost_pink",
-        "cost": 40,
+        "cost": 20,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -217,7 +217,7 @@
         "theme": "Halloween",
         "type": "pet",
         "path": "ghost_orange",
-        "cost": 40,
+        "cost": 20,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -229,7 +229,7 @@
         "theme": "Halloween",
         "type": "pet",
         "path": "ghost_yellow",
-        "cost": 40,
+        "cost": 20,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -241,7 +241,7 @@
         "theme": "Halloween",
         "type": "pet",
         "path": "ghost_green",
-        "cost": 40,
+        "cost": 20,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -253,7 +253,7 @@
         "theme": "Halloween",
         "type": "pet",
         "path": "ghost_blue",
-        "cost": 40,
+        "cost": 20,
         "minIdle": 200,
         "maxIdle": 800
     },
@@ -265,7 +265,7 @@
         "theme": "Halloween",
         "type": "pet",
         "path": "ghost_purple",
-        "cost": 40,
+        "cost": 20,
         "minIdle": 200,
         "maxIdle": 800
     },

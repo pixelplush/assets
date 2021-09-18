@@ -166,6 +166,16 @@
         "hidden": true
     },
     {
+        "id": "pumpkin_man",
+        "group": "Jack Lantern",
+        "name": "Jack Lantern",
+        "description": "",
+        "theme": "Halloween",
+        "type": "character",
+        "path": "pumpkin_man",
+        "cost": 20
+    },
+    {
         "id": "pet_donut_chocolate",
         "group": "Donut",
         "name": "Chocolate Donut",
@@ -176,8 +186,7 @@
         "cost": 40,
         "minIdle": 200,
         "maxIdle": 800,
-        "oneAnim": true,
-        "hidden": true
+        "oneAnim": true
     },
     {
         "id": "pet_donut_red",
@@ -190,8 +199,7 @@
         "cost": 40,
         "minIdle": 200,
         "maxIdle": 800,
-        "oneAnim": true,
-        "hidden": true
+        "oneAnim": true
     },
     {
         "id": "pet_donut_chocolate_sprinkles",
@@ -204,8 +212,7 @@
         "cost": 40,
         "minIdle": 200,
         "maxIdle": 800,
-        "oneAnim": true,
-        "hidden": true
+        "oneAnim": true
     },
     {
         "id": "harry",

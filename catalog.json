@@ -13,6 +13,17 @@
         "hidden": true
     },
     {
+        "id": "addon_parachute_cauldron",
+        "group": "Parachute Drop",
+        "name": "PixelPlush Cauldron Theme (Parachute Drop)",
+        "description": "",
+        "theme": "Halloween",
+        "type": "add-on",
+        "path": "icon_cauldron.png",
+        "cost": 40,
+        "sale": true
+    },
+    {
         "id": "addon_parachute_cakeplush",
         "group": "Parachute Drop",
         "name": "PixelPlush Cake Theme (Parachute Drop)",

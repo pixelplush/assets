@@ -24,6 +24,38 @@
         "sale": true
     },
     {
+        "id": "addon_chatflakes",
+        "group": "Chat Flakes",
+        "name": "Chat Flakes",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "chatflakes_leaf.png",
+        "cost": 20
+    },
+    {
+        "id": "addon_chatflakes_leaf",
+        "group": "Chat Flakes",
+        "name": "Leaves (Chat Flakes)",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "chatflakes_leaf.png",
+        "cost": 5,
+        "hidden": true
+    },
+    {
+        "id": "addon_chatflakes_snow",
+        "group": "Chat Flakes",
+        "name": "Snow (Chat Flakes)",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "chatflakes_snow.png",
+        "cost": 5,
+        "hidden": true
+    },
+    {
         "id": "addon_parachute_cakeplush",
         "group": "Parachute Drop",
         "name": "PixelPlush Cake Theme (Parachute Drop)",
@@ -102,28 +134,6 @@
         "type": "add-on",
         "path": "parachutedrop_spring.png",
         "cost": 10
-    },
-    {
-        "id": "addon_chatflakes_leaf",
-        "group": "Chat Flakes",
-        "name": "Leaves (Chat Flakes)",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "add-on",
-        "path": "chatflakes_leaf.png",
-        "cost": 5,
-        "hidden": true
-    },
-    {
-        "id": "addon_chatflakes_snow",
-        "group": "Chat Flakes",
-        "name": "Snow (Chat Flakes)",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "add-on",
-        "path": "chatflakes_snow.png",
-        "cost": 5,
-        "hidden": true
     },
     {
         "id": "pet_fluffington",

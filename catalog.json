@@ -19,7 +19,7 @@
         "description": "",
         "theme": "Halloween",
         "type": "add-on",
-        "path": "icon_cauldron.png",
+        "path": "icon_cauldron.gif",
         "cost": 40,
         "sale": true
     },

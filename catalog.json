@@ -20,8 +20,7 @@
         "theme": "Halloween",
         "type": "add-on",
         "path": "icon_cauldron.gif",
-        "cost": 40,
-        "sale": true
+        "cost": 40
     },
     {
         "id": "addon_chatflakes",

@@ -13,6 +13,17 @@
         "hidden": true
     },
     {
+        "id": "addon_plinko_halloween",
+        "group": "Plinko Bounce",
+        "name": "Halloween Theme (Plinko Bounce)",
+        "description": "",
+        "theme": "Halloween",
+        "type": "add-on",
+        "path": "icon_cauldron.gif",
+        "cost": 20,
+        "hidden": true
+    },
+    {
         "id": "addon_parachute_cauldron",
         "group": "Parachute Drop",
         "name": "Cauldron Theme (Parachute Drop)",

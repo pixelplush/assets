@@ -13,138 +13,6 @@
         "hidden": true
     },
     {
-        "id": "addon_plinko_halloween",
-        "group": "Plinko Bounce",
-        "name": "Halloween Theme (Plinko Bounce)",
-        "description": "",
-        "theme": "Halloween",
-        "type": "add-on",
-        "path": "plinko_halloween3.png",
-        "cost": 20
-    },
-    {
-        "id": "addon_parachute_cauldron",
-        "group": "Parachute Drop",
-        "name": "Cauldron Theme (Parachute Drop)",
-        "description": "",
-        "theme": "Halloween",
-        "type": "add-on",
-        "path": "icon_cauldron.gif",
-        "cost": 40
-    },
-    {
-        "id": "addon_chatflakes",
-        "group": "Chat Flakes",
-        "name": "Chat Flakes",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "add-on",
-        "path": "icon_chatflakes.png",
-        "cost": 20
-    },
-    {
-        "id": "addon_chatflakes_leaf",
-        "group": "Chat Flakes",
-        "name": "Leaves (Chat Flakes)",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "add-on",
-        "path": "chatflakes_leaf.png",
-        "cost": 5,
-        "hidden": true
-    },
-    {
-        "id": "addon_chatflakes_snow",
-        "group": "Chat Flakes",
-        "name": "Snow (Chat Flakes)",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "add-on",
-        "path": "chatflakes_snow.png",
-        "cost": 5,
-        "hidden": true
-    },
-    {
-        "id": "addon_parachute_cakeplush",
-        "group": "Parachute Drop",
-        "name": "PixelPlush Cake Theme (Parachute Drop)",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "add-on",
-        "path": "icon_cake_pixelplush.png",
-        "cost": 10
-    },
-    {
-        "id": "addon_parachute_cakerainbow",
-        "group": "Parachute Drop",
-        "name": "Rainbow Cake Theme (Parachute Drop)",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "add-on",
-        "path": "icon_cake_rainbow.png",
-        "cost": 10
-    },
-    {
-        "id": "addon_parachute_cakefruit",
-        "group": "Parachute Drop",
-        "name": "Fruit Cake Theme (Parachute Drop)",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "add-on",
-        "path": "icon_cake_fruit.png",
-        "cost": 10
-    },
-    {
-        "id": "addon_parachute_cakechoco",
-        "group": "Parachute Drop",
-        "name": "Chocolate Cake Theme (Parachute Drop)",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "add-on",
-        "path": "icon_cake_choco2.png",
-        "cost": 10
-    },
-    {
-        "id": "addon_pixelconfetti",
-        "group": "Pixel Confetti",
-        "name": "Pixel Confetti",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "add-on",
-        "path": "confetti_icon.png",
-        "cost": 20
-    },
-    {
-        "id": "addon_parachute_rainbow",
-        "group": "Parachute Drop",
-        "name": "Rainbow Theme (Parachute Drop)",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "add-on",
-        "path": "rainbow.png",
-        "cost": 10
-    },
-    {
-        "id": "addon_streamweather",
-        "group": "Stream Weather",
-        "name": "Stream Weather",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "add-on",
-        "path": "icon_weather.png",
-        "cost": 20
-    },
-    {
-        "id": "addon_parachute_blossoms",
-        "group": "Parachute Drop",
-        "name": "Spring Blossoms Theme (Parachute Drop)",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "add-on",
-        "path": "parachutedrop_spring.png",
-        "cost": 10
-    },
-    {
         "id": "pet_fluffington",
         "group": "Fluffington",
         "name": "Fluffington",
@@ -352,6 +220,138 @@
         "minIdle": 200,
         "maxIdle": 800,
         "oneAnim": true
+    },
+    {
+        "id": "addon_plinko_halloween",
+        "group": "Plinko Bounce",
+        "name": "Halloween Theme (Plinko Bounce)",
+        "description": "",
+        "theme": "Halloween",
+        "type": "add-on",
+        "path": "plinko_halloween3.png",
+        "cost": 20
+    },
+    {
+        "id": "addon_parachute_cauldron",
+        "group": "Parachute Drop",
+        "name": "Cauldron Theme (Parachute Drop)",
+        "description": "",
+        "theme": "Halloween",
+        "type": "add-on",
+        "path": "icon_cauldron.gif",
+        "cost": 40
+    },
+    {
+        "id": "addon_chatflakes",
+        "group": "Chat Flakes",
+        "name": "Chat Flakes",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "icon_chatflakes.png",
+        "cost": 20
+    },
+    {
+        "id": "addon_chatflakes_leaf",
+        "group": "Chat Flakes",
+        "name": "Leaves (Chat Flakes)",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "chatflakes_leaf.png",
+        "cost": 5,
+        "hidden": true
+    },
+    {
+        "id": "addon_chatflakes_snow",
+        "group": "Chat Flakes",
+        "name": "Snow (Chat Flakes)",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "chatflakes_snow.png",
+        "cost": 5,
+        "hidden": true
+    },
+    {
+        "id": "addon_parachute_cakeplush",
+        "group": "Parachute Drop",
+        "name": "PixelPlush Cake Theme (Parachute Drop)",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "icon_cake_pixelplush.png",
+        "cost": 10
+    },
+    {
+        "id": "addon_parachute_cakerainbow",
+        "group": "Parachute Drop",
+        "name": "Rainbow Cake Theme (Parachute Drop)",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "icon_cake_rainbow.png",
+        "cost": 10
+    },
+    {
+        "id": "addon_parachute_cakefruit",
+        "group": "Parachute Drop",
+        "name": "Fruit Cake Theme (Parachute Drop)",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "icon_cake_fruit.png",
+        "cost": 10
+    },
+    {
+        "id": "addon_parachute_cakechoco",
+        "group": "Parachute Drop",
+        "name": "Chocolate Cake Theme (Parachute Drop)",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "icon_cake_choco2.png",
+        "cost": 10
+    },
+    {
+        "id": "addon_pixelconfetti",
+        "group": "Pixel Confetti",
+        "name": "Pixel Confetti",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "confetti_icon.png",
+        "cost": 20
+    },
+    {
+        "id": "addon_parachute_rainbow",
+        "group": "Parachute Drop",
+        "name": "Rainbow Theme (Parachute Drop)",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "rainbow.png",
+        "cost": 10
+    },
+    {
+        "id": "addon_streamweather",
+        "group": "Stream Weather",
+        "name": "Stream Weather",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "icon_weather.png",
+        "cost": 20
+    },
+    {
+        "id": "addon_parachute_blossoms",
+        "group": "Parachute Drop",
+        "name": "Spring Blossoms Theme (Parachute Drop)",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "add-on",
+        "path": "parachutedrop_spring.png",
+        "cost": 10
     },
     {
         "id": "harry",

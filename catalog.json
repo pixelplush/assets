@@ -173,6 +173,42 @@
         "hidden": true
     },
     {
+        "id": "pet_pumpkin",
+        "group": "Pumpkin",
+        "name": "Plump",
+        "description": "Pumpkin Pet",
+        "theme": "Halloween",
+        "type": "pet",
+        "path": "pumpkin",
+        "cost": 20,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_pumpkin_white",
+        "group": "Pumpkin",
+        "name": "Casperita",
+        "description": "White Pumpkin Pet",
+        "theme": "Halloween",
+        "type": "pet",
+        "path": "pumpkin_white",
+        "cost": 20,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
+        "id": "pet_pumpkin_green",
+        "group": "Pumpkin",
+        "name": "Gusto",
+        "description": "Green Pumpkin Pet",
+        "theme": "Halloween",
+        "type": "pet",
+        "path": "pumpkin_green",
+        "cost": 20,
+        "minIdle": 200,
+        "maxIdle": 800
+    },
+    {
         "id": "pumpkin_man",
         "group": "Jack Lantern",
         "name": "Jack Lantern",

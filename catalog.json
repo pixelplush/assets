@@ -406,7 +406,7 @@
     {
         "id": "monster",
         "group": "Monster",
-        "name": "Monster",
+        "name": "Sluggs",
         "description": "",
         "theme": "Halloween",
         "type": "character",
@@ -416,7 +416,7 @@
     {
         "id": "vampire",
         "group": "Vampire",
-        "name": "Vampire",
+        "name": "Vampire Steven",
         "description": "",
         "theme": "Halloween",
         "type": "character",
@@ -426,7 +426,7 @@
     {
         "id": "witch",
         "group": "Witch",
-        "name": "Witch",
+        "name": "Potion Queen",
         "description": "",
         "theme": "Halloween",
         "type": "character",
@@ -436,7 +436,7 @@
     {
         "id": "zombie",
         "group": "Zombie",
-        "name": "Zombie",
+        "name": "Zomb",
         "description": "",
         "theme": "Halloween",
         "type": "character",

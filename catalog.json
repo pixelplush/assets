@@ -89,7 +89,7 @@
     {
         "id": "pet_ghost_white",
         "group": "Pet Ghost",
-        "name": "Pearl the Spooky Ghost",
+        "name": "Spooky Pearl",
         "description": "",
         "theme": "Halloween",
         "type": "pet",
@@ -101,7 +101,7 @@
     {
         "id": "pet_ghost_red",
         "group": "Pet Ghost",
-        "name": "Rory the Alerted Ghost",
+        "name": "Alerted Rory",
         "description": "",
         "theme": "Halloween",
         "type": "pet",
@@ -113,7 +113,7 @@
     {
         "id": "pet_ghost_pink",
         "group": "Pet Ghost",
-        "name": "Rosie the Love Ghost",
+        "name": "Lovely Rosie",
         "description": "",
         "theme": "Halloween",
         "type": "pet",
@@ -125,7 +125,7 @@
     {
         "id": "pet_ghost_orange",
         "group": "Pet Ghost",
-        "name": "Tabby the Moonlight Ghost",
+        "name": "Moonlight Tabby",
         "description": "",
         "theme": "Halloween",
         "type": "pet",
@@ -137,7 +137,7 @@
     {
         "id": "pet_ghost_yellow",
         "group": "Pet Ghost",
-        "name": "Amber the Honey Ghost",
+        "name": "Honey Amber",
         "description": "",
         "theme": "Halloween",
         "type": "pet",
@@ -149,7 +149,7 @@
     {
         "id": "pet_ghost_green",
         "group": "Pet Ghost",
-        "name": "Esme the Neon Ghost",
+        "name": "Neon Esme",
         "description": "",
         "theme": "Halloween",
         "type": "pet",
@@ -161,7 +161,7 @@
     {
         "id": "pet_ghost_blue",
         "group": "Pet Ghost",
-        "name": "Azu the Peaceful Ghost",
+        "name": "Peaceful Azu",
         "description": "",
         "theme": "Halloween",
         "type": "pet",
@@ -173,7 +173,7 @@
     {
         "id": "pet_ghost_purple",
         "group": "Pet Ghost",
-        "name": "Violet the Wise Ghost",
+        "name": "Wise Violet",
         "description": "",
         "theme": "Halloween",
         "type": "pet",

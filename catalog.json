@@ -35,7 +35,7 @@
         "type": "pet",
         "path": "rainbee_pink",
         "cost": 10000,
-        "subscription": "MaayaInsane",
+        "subscription": "Maaya",
         "minIdle": 200,
         "maxIdle": 800,
         "hidden": true

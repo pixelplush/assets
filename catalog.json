@@ -1133,7 +1133,7 @@
     {
         "id": "boybear",
         "group": "Bear",
-        "name": "Bear (M)",
+        "name": "Jimmy",
         "description": "",
         "theme": "Valentine",
         "type": "character",
@@ -1144,7 +1144,7 @@
     {
         "id": "girlbear",
         "group": "Bear",
-        "name": "Bear (F)",
+        "name": "Pammy",
         "description": "",
         "theme": "Valentine",
         "type": "character",
@@ -1155,7 +1155,7 @@
     {
         "id": "evilbear",
         "group": "Bear",
-        "name": "Evil Bear",
+        "name": "Grizzly",
         "description": "",
         "theme": "Valentine",
         "type": "character",

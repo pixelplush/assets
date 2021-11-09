@@ -1138,8 +1138,7 @@
         "theme": "Valentine",
         "type": "character",
         "path": "bear",
-        "cost": 20,
-        "hidden": true
+        "cost": 20
     },
     {
         "id": "girlbear",
@@ -1149,8 +1148,7 @@
         "theme": "Valentine",
         "type": "character",
         "path": "beargirl",
-        "cost": 20,
-        "hidden": true
+        "cost": 20
     },
     {
         "id": "evilbear",
@@ -1160,8 +1158,7 @@
         "theme": "Valentine",
         "type": "character",
         "path": "evil_bear",
-        "cost": 20,
-        "hidden": true
+        "cost": 20
     },
     {
         "id": "pet_penguin",

@@ -1,0 +1,189 @@
+[
+    {
+        "id": "expr1",
+        "group": "expressions",
+        "name": "Expression 1",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "expr1",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "expr2",
+        "group": "expressions",
+        "name": "Expression 2",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "expr2",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "expr3",
+        "group": "expressions",
+        "name": "Expression 3",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "expr3",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "expr4",
+        "group": "expressions",
+        "name": "Expression 4",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "expr4",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "expr5",
+        "group": "expressions",
+        "name": "Expression 5",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "expr5",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "expr6",
+        "group": "expressions",
+        "name": "Expression 6",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "expr6",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "expr7",
+        "group": "expressions",
+        "name": "Expression 7",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "expr7",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "skin1",
+        "group": "skintones",
+        "name": "Skin 1",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "skin1",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "skin2",
+        "group": "skintones",
+        "name": "Skin 2",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "skin2",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "skin3",
+        "group": "skintones",
+        "name": "Skin 3",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "skin3",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "skin4",
+        "group": "skintones",
+        "name": "Skin 4",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "skin4",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "skin5",
+        "group": "skintones",
+        "name": "Skin 5",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "skin5",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "hair1",
+        "group": "hair",
+        "name": "Hair 1",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "hair1",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "hair2",
+        "group": "hair",
+        "name": "Hair 2",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "hair2",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "hair3",
+        "group": "hair",
+        "name": "Hair 3",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "hair3",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "hair4",
+        "group": "hair",
+        "name": "Hair 4",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "hair4",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "hair5",
+        "group": "hair",
+        "name": "Hair 5",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "hair5",
+        "cost": 0,
+        "hidden": true
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "id": "glasses1",
+        "group": "glasses",
+        "name": "Glasses",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "accessories",
+        "path": "glasses1",
+        "cost": 5,
+        "hidden": true
+    },
+    {
+        "id": "wizard_hat1",
+        "group": "hats",
+        "name": "Wizard Hat",
+        "description": "",
+        "theme": "Magic",
+        "type": "accessories",
+        "path": "wizard_hat1",
+        "cost": 5,
+        "hidden": true
+    },
+    {
+        "id": "mask1",
+        "group": "masks",
+        "name": "Mask",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "accessories",
+        "path": "mask1",
+        "cost": 5,
+        "hidden": true
+    },
+    {
+        "id": "wheelchair",
+        "group": "wheelchairs",
+        "name": "Wheelchair",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "accessories",
+        "path": "wheelchair",
+        "cost": 5,
+        "hidden": true
+    },
+    {
+        "id": "wizard_wand",
+        "group": "wands",
+        "name": "Wizard Wand",
+        "description": "",
+        "theme": "Magic",
+        "type": "accessories",
+        "path": "wizard_wand",
+        "cost": 5,
+        "hidden": true
+    }
+]

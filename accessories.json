@@ -33,17 +33,6 @@
         "hidden": true
     },
     {
-        "id": "wheelchair",
-        "group": "wheelchairs",
-        "name": "Wheelchair",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "accessories",
-        "path": "wheelchair",
-        "cost": 5,
-        "hidden": true
-    },
-    {
         "id": "wizard_wand",
         "group": "wands",
         "name": "Wizard Wand",

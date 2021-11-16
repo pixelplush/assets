@@ -1,0 +1,13 @@
+[
+    {
+        "id": "wheelchair",
+        "group": "wheelchairs",
+        "name": "Wheelchair",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "equipment",
+        "path": "wheelchair",
+        "cost": 5,
+        "hidden": true
+    }
+]

@@ -1,5 +1,60 @@
 [
     {
+        "id": "skin1",
+        "group": "skintones",
+        "name": "Skin 1",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "skin1",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "skin2",
+        "group": "skintones",
+        "name": "Skin 2",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "skin2",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "skin3",
+        "group": "skintones",
+        "name": "Skin 3",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "skin3",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "skin4",
+        "group": "skintones",
+        "name": "Skin 4",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "skin4",
+        "cost": 0,
+        "hidden": true
+    },
+    {
+        "id": "skin5",
+        "group": "skintones",
+        "name": "Skin 5",
+        "description": "",
+        "theme": "PixelPlush",
+        "type": "body",
+        "path": "skin5",
+        "cost": 0,
+        "hidden": true
+    },
+    {
         "id": "expr1",
         "group": "expressions",
         "name": "Expression 1",
@@ -73,61 +128,6 @@
         "theme": "PixelPlush",
         "type": "body",
         "path": "expr7",
-        "cost": 0,
-        "hidden": true
-    },
-    {
-        "id": "skin1",
-        "group": "skintones",
-        "name": "Skin 1",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "body",
-        "path": "skin1",
-        "cost": 0,
-        "hidden": true
-    },
-    {
-        "id": "skin2",
-        "group": "skintones",
-        "name": "Skin 2",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "body",
-        "path": "skin2",
-        "cost": 0,
-        "hidden": true
-    },
-    {
-        "id": "skin3",
-        "group": "skintones",
-        "name": "Skin 3",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "body",
-        "path": "skin3",
-        "cost": 0,
-        "hidden": true
-    },
-    {
-        "id": "skin4",
-        "group": "skintones",
-        "name": "Skin 4",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "body",
-        "path": "skin4",
-        "cost": 0,
-        "hidden": true
-    },
-    {
-        "id": "skin5",
-        "group": "skintones",
-        "name": "Skin 5",
-        "description": "",
-        "theme": "PixelPlush",
-        "type": "body",
-        "path": "skin5",
         "cost": 0,
         "hidden": true
     },

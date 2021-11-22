@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "outfits": "node generateOutfits.js"
+    "build": "node generateCatalog.js"
   },
   "repository": {
     "type": "git",
@@ -21,8 +21,7 @@
   },
   "homepage": "https://github.com/pixelplush/assets#readme",
   "dependencies": {
-    "comfysheets": "^1.0.1",
-    "dotenv": "^10.0.0",
+    "comfysheets": "^1.0.3",
     "node-fetch": "^3.1.0",
     "webwebweb": "^1.4.10"
   }

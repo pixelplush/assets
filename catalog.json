@@ -782,13 +782,12 @@
 		"id": "pet_rabbit1",
 		"group": "Rabbit",
 		"name": "Caramel",
-		"theme": "Easter",
+		"theme": "Autumn",
 		"type": "pet",
 		"path": "rabbit1",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_rabbit2",

@@ -758,25 +758,23 @@
 		"id": "pet_chick",
 		"group": "Chick",
 		"name": "Chicklet",
-		"theme": "Easter",
+		"theme": "Autumn",
 		"type": "pet",
 		"path": "chick",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_chocklet",
 		"group": "Chick",
 		"name": "Chocklet",
-		"theme": "Easter",
+		"theme": "Autumn",
 		"type": "pet",
 		"path": "chocklet",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_rabbit1",
@@ -793,7 +791,7 @@
 		"id": "pet_rabbit2",
 		"group": "Rabbit",
 		"name": "Cotton",
-		"theme": "Easter",
+		"theme": "Autumn",
 		"type": "pet",
 		"path": "rabbit2",
 		"cost": 40,
@@ -1078,13 +1076,12 @@
 		"id": "pet_marble",
 		"group": "Rabbit",
 		"name": "Marble",
-		"theme": "Winter",
+		"theme": "Autumn",
 		"type": "pet",
 		"path": "marble",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "yeti_blue",

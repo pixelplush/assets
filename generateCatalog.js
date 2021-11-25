@@ -4,13 +4,18 @@ const ComfySheets = require( "comfysheets" );
 const SHEET_ID = "1OgJA5tPAzTkGg3pjpctYMZNET6cwEBs8HuL41Lq-UyA";
 
 ( async () => {
-    let catalogItems = await ComfySheets.Read( SHEET_ID, "Items", {}, "451420023" );
-    // console.log( catalogItems );
-    fs.writeFileSync( `catalog.json`, JSON.stringify( catalogItems, null, "\t" ) );
-    console.log( `Saved catalog.json` );
+    const catalogs = {
+        "catalog": "451420023",
+        "catalog_outfits": "0",
+        "catalog_characters": "45642748",
+        "catalog_pets": "2053660435",
+        "catalog_addons": "1761485007",
+    }
 
-    let outfitItems = await ComfySheets.Read( SHEET_ID, "Outfits", {}, "0" );
-    // console.log( outfitItems );
-    fs.writeFileSync( `catalog_outfits.json`, JSON.stringify( outfitItems, null, "\t" ) );
-    console.log( `Saved catalog_outfits.json` );
+    for( const catalog in catalogs ) {
+        let items = await ComfySheets.Read( SHEET_ID, "Items", {}, catalogs[ catalog ] );
+        // console.log( catalogItems );
+        fs.writeFileSync( `${catalog}.json`, JSON.stringify( items, null, "\t" ) );
+        console.log( `Saved ${catalog}.json` );
+    }
 })();

@@ -497,7 +497,8 @@
 		"path": "fluffington_rainbow",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"sale": true
 	},
 	{
 		"id": "pet_rainbee",
@@ -508,7 +509,8 @@
 		"path": "rainbee",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"sale": true
 	},
 	{
 		"id": "pet_penguin_rainbow",

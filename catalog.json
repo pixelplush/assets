@@ -560,7 +560,8 @@
 		"path": "snowball",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"sale": true
 	},
 	{
 		"id": "santa",
@@ -569,7 +570,8 @@
 		"theme": "Christmas",
 		"type": "character",
 		"path": "santa",
-		"cost": 20
+		"cost": 20,
+		"sale": true
 	},
 	{
 		"id": "claus",
@@ -578,7 +580,8 @@
 		"theme": "Christmas",
 		"type": "character",
 		"path": "claus",
-		"cost": 20
+		"cost": 20,
+		"sale": true
 	},
 	{
 		"id": "elf",
@@ -587,7 +590,8 @@
 		"theme": "Christmas",
 		"type": "character",
 		"path": "elf",
-		"cost": 20
+		"cost": 20,
+		"sale": true
 	},
 	{
 		"id": "elfgirl",
@@ -596,7 +600,8 @@
 		"theme": "Christmas",
 		"type": "character",
 		"path": "elfgirl",
-		"cost": 20
+		"cost": 20,
+		"sale": true
 	},
 	{
 		"id": "grinch",
@@ -605,7 +610,8 @@
 		"theme": "Christmas",
 		"type": "character",
 		"path": "grinch",
-		"cost": 20
+		"cost": 20,
+		"sale": true
 	},
 	{
 		"id": "snowman",
@@ -614,7 +620,8 @@
 		"theme": "Winter",
 		"type": "character",
 		"path": "snowman",
-		"cost": 20
+		"cost": 20,
+		"sale": true
 	},
 	{
 		"id": "pet_pumpkin",

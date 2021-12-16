@@ -397,7 +397,8 @@
 		"theme": "Halloween",
 		"type": "character",
 		"path": "monster",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "vampire",
@@ -406,7 +407,8 @@
 		"theme": "Halloween",
 		"type": "character",
 		"path": "vampire",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "witch",
@@ -415,7 +417,8 @@
 		"theme": "Halloween",
 		"type": "character",
 		"path": "witch",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "zombie",
@@ -424,7 +427,8 @@
 		"theme": "Halloween",
 		"type": "character",
 		"path": "zombie",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "pet_butterfly_rainbow1",
@@ -435,7 +439,8 @@
 		"path": "butterfly_rainbow1",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 0
+		"maxIdle": 0,
+		"hidden": true
 	},
 	{
 		"id": "pet_butterfly_rainbow2",
@@ -446,7 +451,8 @@
 		"path": "butterfly_rainbow2",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 0
+		"maxIdle": 0,
+		"hidden": true
 	},
 	{
 		"id": "pet_butterfly_rainbow3",
@@ -457,7 +463,8 @@
 		"path": "butterfly_rainbow3",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 0
+		"maxIdle": 0,
+		"hidden": true
 	},
 	{
 		"id": "onesie_unicorn",
@@ -477,7 +484,8 @@
 		"path": "egg_rainbow",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_chick_rainbow",
@@ -1085,7 +1093,7 @@
 	{
 		"id": "pet_penguin",
 		"group": "Penguin",
-		"name": "Flipper the Penguin",
+		"name": "Flipper",
 		"theme": "Winter",
 		"type": "pet",
 		"path": "penguin",

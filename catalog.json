@@ -46,7 +46,8 @@
 		"path": "pumpkin",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_pumpkin_white",
@@ -58,7 +59,8 @@
 		"path": "pumpkin_white",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_pumpkin_green",
@@ -70,7 +72,8 @@
 		"path": "pumpkin_green",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pumpkin_man",
@@ -79,7 +82,8 @@
 		"theme": "Halloween",
 		"type": "character",
 		"path": "pumpkin_man",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "pet_ghost_white",
@@ -90,7 +94,8 @@
 		"path": "ghost_white",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_ghost_red",
@@ -101,7 +106,8 @@
 		"path": "ghost_red",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_ghost_pink",
@@ -112,7 +118,8 @@
 		"path": "ghost_pink",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_ghost_orange",
@@ -123,7 +130,8 @@
 		"path": "ghost_orange",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_ghost_yellow",
@@ -134,7 +142,8 @@
 		"path": "ghost_yellow",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_ghost_green",
@@ -145,7 +154,8 @@
 		"path": "ghost_green",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_ghost_blue",
@@ -156,7 +166,8 @@
 		"path": "ghost_blue",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_ghost_purple",
@@ -167,7 +178,8 @@
 		"path": "ghost_purple",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_donut_chocolate",
@@ -212,8 +224,7 @@
 		"theme": "Christmas",
 		"type": "add-on",
 		"path": "parachutes_christmas_eve.png",
-		"cost": 10,
-		"hidden": true
+		"cost": 10
 	},
 	{
 		"id": "addon_plinko_halloween",
@@ -1100,8 +1111,7 @@
 		"theme": "Winter",
 		"type": "character",
 		"path": "yeti_blue",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "yeti_green",
@@ -1110,8 +1120,7 @@
 		"theme": "Winter",
 		"type": "character",
 		"path": "yeti_green",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "yeti_orange",
@@ -1120,8 +1129,7 @@
 		"theme": "Winter",
 		"type": "character",
 		"path": "yeti_orange",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "yeti_pink",
@@ -1130,8 +1138,7 @@
 		"theme": "Winter",
 		"type": "character",
 		"path": "yeti_pink",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "pet_yetchi_blue",
@@ -1142,8 +1149,7 @@
 		"path": "yetchi_blue",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_yetchi_green",
@@ -1154,8 +1160,7 @@
 		"path": "yetchi_green",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_yetchi_orange",
@@ -1166,8 +1171,7 @@
 		"path": "yetchi_orange",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_yetchi_pink",
@@ -1178,8 +1182,7 @@
 		"path": "yetchi_pink",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_candycane_rainbow",
@@ -1622,7 +1625,8 @@
 		"path": "firefly_halloween",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 0
+		"maxIdle": 0,
+		"hidden": true
 	},
 	{
 		"id": "amanita",
@@ -1631,7 +1635,8 @@
 		"theme": "Autumn",
 		"type": "character",
 		"path": "amanita",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "pet_ammy",
@@ -1642,7 +1647,8 @@
 		"path": "ammy",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "twiglet",
@@ -1651,7 +1657,8 @@
 		"theme": "Autumn",
 		"type": "character",
 		"path": "twiglet",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "pet_twiggy",
@@ -1662,7 +1669,8 @@
 		"path": "twiggy",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "lotus",
@@ -1806,7 +1814,8 @@
 		"path": "hedgehog2",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_hedgehog1",
@@ -1817,7 +1826,8 @@
 		"path": "hedgehog1",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_bee",
@@ -1839,7 +1849,8 @@
 		"path": "tortoise2",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_tortoise",
@@ -1850,19 +1861,19 @@
 		"path": "tortoise",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_snowball",
 		"group": "Snowball",
 		"name": "Snowchi",
-		"theme": "Cute",
+		"theme": "Winter",
 		"type": "pet",
 		"path": "snowball",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_balloon_blue",
@@ -2101,8 +2112,7 @@
 		"theme": "Christmas",
 		"type": "character",
 		"path": "santa",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "claus",
@@ -2111,8 +2121,7 @@
 		"theme": "Christmas",
 		"type": "character",
 		"path": "claus",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "elf",
@@ -2121,8 +2130,7 @@
 		"theme": "Christmas",
 		"type": "character",
 		"path": "elf",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "elfgirl",
@@ -2131,8 +2139,7 @@
 		"theme": "Christmas",
 		"type": "character",
 		"path": "elfgirl",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "grinch",
@@ -2141,8 +2148,7 @@
 		"theme": "Christmas",
 		"type": "character",
 		"path": "grinch",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "snowman",
@@ -2151,7 +2157,6 @@
 		"theme": "Winter",
 		"type": "character",
 		"path": "snowman",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	}
 ]

@@ -222,7 +222,8 @@
 		"theme": "Autumn",
 		"type": "character",
 		"path": "amanita",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "twiglet",
@@ -231,7 +232,8 @@
 		"theme": "Autumn",
 		"type": "character",
 		"path": "twiglet",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "lotus",

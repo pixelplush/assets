@@ -1,5 +1,14 @@
 [
 	{
+		"id": "addon_parachute_christmaseve",
+		"group": "Parachute Drop",
+		"name": "Christmas Eve (Parachute Drop)",
+		"theme": "Christmas",
+		"type": "add-on",
+		"path": "parachutes_christmas_eve.png",
+		"cost": 10
+	},
+	{
 		"id": "addon_plinko_halloween",
 		"group": "Plinko Bounce",
 		"name": "Halloween Theme (Plinko Bounce)",

@@ -1311,8 +1311,7 @@
 		"path": "gift_pink_yellow",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_yellow_orange",
@@ -1323,8 +1322,7 @@
 		"path": "gift_yellow_orange",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_gold",
@@ -1335,8 +1333,7 @@
 		"path": "gift_gold",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_silver",
@@ -1347,8 +1344,7 @@
 		"path": "gift_silver",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_rainbow",
@@ -1359,8 +1355,7 @@
 		"path": "gift_rainbow",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_black_gold",
@@ -1371,8 +1366,7 @@
 		"path": "gift_black_gold",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_black_silver",
@@ -1383,8 +1377,7 @@
 		"path": "gift_black_silver",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_blue_pink",
@@ -1395,8 +1388,7 @@
 		"path": "gift_blue_pink",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_blue_silver",
@@ -1407,8 +1399,7 @@
 		"path": "gift_blue_silver",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_blue_yellow",
@@ -1419,8 +1410,7 @@
 		"path": "gift_blue_yellow",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_brown_red",
@@ -1431,8 +1421,7 @@
 		"path": "gift_brown_red",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_dark_blue_green",
@@ -1443,8 +1432,7 @@
 		"path": "gift_dark_blue_green",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_green_blue_yellow",
@@ -1455,8 +1443,7 @@
 		"path": "gift_green_blue_yellow",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_green_green",
@@ -1467,8 +1454,7 @@
 		"path": "gift_green_green",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_green_purple",
@@ -1479,8 +1465,7 @@
 		"path": "gift_green_purple",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_lightbrown_red",
@@ -1491,8 +1476,7 @@
 		"path": "gift_lightbrown_red",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_pink_silver",
@@ -1503,8 +1487,7 @@
 		"path": "gift_pink_silver",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_purple_pink_teal",
@@ -1515,8 +1498,7 @@
 		"path": "gift_purple_pink_teal",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_purple_red",
@@ -1527,8 +1509,7 @@
 		"path": "gift_purple_red",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_purple_silver",
@@ -1551,8 +1532,7 @@
 		"path": "gift_purple_teal",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_purple_white",
@@ -1563,8 +1543,7 @@
 		"path": "gift_purple_white",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_purple_yellow",
@@ -1575,8 +1554,7 @@
 		"path": "gift_purple_yellow",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_red_white",
@@ -1587,8 +1565,7 @@
 		"path": "gift_red_white",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_red_yellow",
@@ -1599,8 +1576,7 @@
 		"path": "gift_red_yellow",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_teal_pink",
@@ -1611,8 +1587,7 @@
 		"path": "gift_teal_pink",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_white_black",
@@ -1623,8 +1598,7 @@
 		"path": "gift_white_black",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"sale": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_firefly_halloween",

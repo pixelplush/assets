@@ -1501,7 +1501,8 @@
 		"path": "gift_purple_silver",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_purple_teal",

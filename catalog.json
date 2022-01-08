@@ -48,7 +48,7 @@
 	{
 		"id": "yeti_blue",
 		"group": "Yeti",
-		"name": "The Blue Yeti",
+		"name": "Szoro",
 		"theme": "Winter",
 		"type": "character",
 		"path": "yeti_blue",
@@ -57,7 +57,7 @@
 	{
 		"id": "yeti_green",
 		"group": "Yeti",
-		"name": "The Green Yeti",
+		"name": "Anrel",
 		"theme": "Winter",
 		"type": "character",
 		"path": "yeti_green",
@@ -66,7 +66,7 @@
 	{
 		"id": "yeti_orange",
 		"group": "Yeti",
-		"name": "The Orange Yeti",
+		"name": "Rogi",
 		"theme": "Winter",
 		"type": "character",
 		"path": "yeti_orange",
@@ -75,7 +75,7 @@
 	{
 		"id": "yeti_pink",
 		"group": "Yeti",
-		"name": "The Pink Yeti",
+		"name": "Muwa",
 		"theme": "Winter",
 		"type": "character",
 		"path": "yeti_pink",
@@ -84,7 +84,7 @@
 	{
 		"id": "pet_yetchi_blue",
 		"group": "Yetchi",
-		"name": "Little Blue Yetchi",
+		"name": "Szoo",
 		"theme": "Winter",
 		"type": "pet",
 		"path": "yetchi_blue",
@@ -95,7 +95,7 @@
 	{
 		"id": "pet_yetchi_green",
 		"group": "Yetchi",
-		"name": "Little Green Yetchi",
+		"name": "Aroo",
 		"theme": "Winter",
 		"type": "pet",
 		"path": "yetchi_green",
@@ -106,7 +106,7 @@
 	{
 		"id": "pet_yetchi_orange",
 		"group": "Yetchi",
-		"name": "Little Orange Yetchi",
+		"name": "Roo",
 		"theme": "Winter",
 		"type": "pet",
 		"path": "yetchi_orange",
@@ -117,7 +117,7 @@
 	{
 		"id": "pet_yetchi_pink",
 		"group": "Yetchi",
-		"name": "Little Pink Yetchi",
+		"name": "Mwoo",
 		"theme": "Winter",
 		"type": "pet",
 		"path": "yetchi_pink",
@@ -592,7 +592,7 @@
 	{
 		"id": "snowman",
 		"group": "Snowman",
-		"name": "Snowman",
+		"name": "McButtons",
 		"theme": "Winter",
 		"type": "character",
 		"path": "snowman",

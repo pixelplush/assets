@@ -1,5 +1,15 @@
 [
 	{
+		"id": "addon_parachute_valentines",
+		"group": "Parachute Drop",
+		"name": "Valentine (Parachute Drop)",
+		"theme": "Valentine",
+		"type": "add-on",
+		"path": "parachutes_valentine.png",
+		"cost": 10,
+		"hidden": true
+	},
+	{
 		"id": "addon_parachute_christmaseve",
 		"group": "Parachute Drop",
 		"name": "Christmas Eve (Parachute Drop)",

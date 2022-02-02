@@ -42,7 +42,7 @@
 		"name": "Valentine (Parachute Drop)",
 		"theme": "Valentine",
 		"type": "add-on",
-		"path": "parachutes_valentine.png",
+		"path": "icon_valentines.png",
 		"cost": 10,
 		"hidden": true
 	},

@@ -1,5 +1,15 @@
 [
 	{
+		"id": "coin_remove",
+		"group": "none",
+		"name": "Coin Subtract",
+		"description": "Plush Coin Remove",
+		"theme": "None",
+		"type": "character",
+		"cost": 0,
+		"hidden": true
+	},
+	{
 		"id": "pet_none",
 		"group": "none",
 		"name": "None",

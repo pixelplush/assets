@@ -6,8 +6,7 @@
 		"theme": "Valentine",
 		"type": "add-on",
 		"path": "icon_valentines.png",
-		"cost": 40,
-		"sale": true
+		"cost": 40
 	},
 	{
 		"id": "addon_parachute_christmaseve",

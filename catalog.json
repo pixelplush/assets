@@ -53,7 +53,7 @@
 		"theme": "Easter",
 		"type": "add-on",
 		"path": "icon_easter.png",
-		"cost": 10,
+		"cost": 20,
 		"hidden": true
 	},
 	{

@@ -47,6 +47,16 @@
 		"hidden": true
 	},
 	{
+		"id": "addon_parachute_easter",
+		"group": "Parachute Drop",
+		"name": "Easter (Parachute Drop)",
+		"theme": "Easter",
+		"type": "add-on",
+		"path": "icon_easter.png",
+		"cost": 10,
+		"hidden": true
+	},
+	{
 		"id": "addon_parachute_valentines",
 		"group": "Parachute Drop",
 		"name": "Valentine (Parachute Drop)",

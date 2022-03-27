@@ -53,8 +53,7 @@
 		"theme": "Easter",
 		"type": "add-on",
 		"path": "icon_easter.png",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "addon_parachute_valentines",
@@ -81,7 +80,8 @@
 		"theme": "Winter",
 		"type": "character",
 		"path": "yeti_blue",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "yeti_green",
@@ -90,7 +90,8 @@
 		"theme": "Winter",
 		"type": "character",
 		"path": "yeti_green",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "yeti_orange",
@@ -99,7 +100,8 @@
 		"theme": "Winter",
 		"type": "character",
 		"path": "yeti_orange",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "yeti_pink",
@@ -108,7 +110,8 @@
 		"theme": "Winter",
 		"type": "character",
 		"path": "yeti_pink",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "pet_yetchi_blue",
@@ -119,7 +122,8 @@
 		"path": "yetchi_blue",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_yetchi_green",
@@ -130,7 +134,8 @@
 		"path": "yetchi_green",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_yetchi_orange",
@@ -141,7 +146,8 @@
 		"path": "yetchi_orange",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_yetchi_pink",
@@ -152,7 +158,8 @@
 		"path": "yetchi_pink",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_candycane_rainbow",
@@ -163,7 +170,8 @@
 		"path": "candycane_rainbow",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_candycane_blue",
@@ -174,7 +182,8 @@
 		"path": "candycane_blue",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_candycane_green",
@@ -185,7 +194,8 @@
 		"path": "candycane_green",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_candycane_orange",
@@ -196,7 +206,8 @@
 		"path": "candycane_orange",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_candycane_pink",
@@ -207,7 +218,8 @@
 		"path": "candycane_pink",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_candycane_purple",
@@ -218,7 +230,8 @@
 		"path": "candycane_purple",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_candycane_red",
@@ -229,7 +242,8 @@
 		"path": "candycane_red",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_candycane_turquoise",
@@ -240,7 +254,8 @@
 		"path": "candycane_turquoise",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_candycane_yellow",
@@ -251,7 +266,8 @@
 		"path": "candycane_yellow",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_pink_yellow",
@@ -262,7 +278,8 @@
 		"path": "gift_pink_yellow",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_yellow_orange",
@@ -273,7 +290,8 @@
 		"path": "gift_yellow_orange",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_gold",
@@ -284,7 +302,8 @@
 		"path": "gift_gold",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_silver",
@@ -295,7 +314,8 @@
 		"path": "gift_silver",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_rainbow",
@@ -306,7 +326,8 @@
 		"path": "gift_rainbow",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_black_gold",
@@ -317,7 +338,8 @@
 		"path": "gift_black_gold",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_black_silver",
@@ -328,7 +350,8 @@
 		"path": "gift_black_silver",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_blue_pink",
@@ -339,7 +362,8 @@
 		"path": "gift_blue_pink",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_blue_silver",
@@ -350,7 +374,8 @@
 		"path": "gift_blue_silver",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_blue_yellow",
@@ -361,7 +386,8 @@
 		"path": "gift_blue_yellow",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_brown_red",
@@ -372,7 +398,8 @@
 		"path": "gift_brown_red",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_dark_blue_green",
@@ -383,7 +410,8 @@
 		"path": "gift_dark_blue_green",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_green_blue_yellow",
@@ -394,7 +422,8 @@
 		"path": "gift_green_blue_yellow",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_green_green",
@@ -405,7 +434,8 @@
 		"path": "gift_green_green",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_green_purple",
@@ -416,7 +446,8 @@
 		"path": "gift_green_purple",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_lightbrown_red",
@@ -427,7 +458,8 @@
 		"path": "gift_lightbrown_red",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_pink_silver",
@@ -438,7 +470,8 @@
 		"path": "gift_pink_silver",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_purple_pink_teal",
@@ -449,7 +482,8 @@
 		"path": "gift_purple_pink_teal",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_purple_red",
@@ -460,7 +494,8 @@
 		"path": "gift_purple_red",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_purple_silver",
@@ -483,7 +518,8 @@
 		"path": "gift_purple_teal",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_purple_white",
@@ -494,7 +530,8 @@
 		"path": "gift_purple_white",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_purple_yellow",
@@ -505,7 +542,8 @@
 		"path": "gift_purple_yellow",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_red_white",
@@ -516,7 +554,8 @@
 		"path": "gift_red_white",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_red_yellow",
@@ -527,7 +566,8 @@
 		"path": "gift_red_yellow",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_teal_pink",
@@ -538,7 +578,8 @@
 		"path": "gift_teal_pink",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_gift_white_black",
@@ -549,7 +590,8 @@
 		"path": "gift_white_black",
 		"cost": 20,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "pet_penguin",
@@ -560,7 +602,8 @@
 		"path": "penguin",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800
+		"maxIdle": 800,
+		"hidden": true
 	},
 	{
 		"id": "pet_snowball",
@@ -571,7 +614,8 @@
 		"path": "snowball",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 200
+		"maxIdle": 200,
+		"hidden": true
 	},
 	{
 		"id": "santa",
@@ -580,7 +624,8 @@
 		"theme": "Christmas",
 		"type": "character",
 		"path": "santa",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "claus",
@@ -589,7 +634,8 @@
 		"theme": "Christmas",
 		"type": "character",
 		"path": "claus",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "elf",
@@ -598,7 +644,8 @@
 		"theme": "Christmas",
 		"type": "character",
 		"path": "elf",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "elfgirl",
@@ -607,7 +654,8 @@
 		"theme": "Christmas",
 		"type": "character",
 		"path": "elfgirl",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "grinch",
@@ -616,7 +664,8 @@
 		"theme": "Christmas",
 		"type": "character",
 		"path": "grinch",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "snowman",
@@ -625,7 +674,8 @@
 		"theme": "Winter",
 		"type": "character",
 		"path": "snowman",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "pet_pumpkin",
@@ -1066,8 +1116,7 @@
 		"path": "egg_rainbow",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_chick_rainbow",
@@ -1122,8 +1171,7 @@
 		"path": "egg_maaya",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_instafluff",
@@ -1134,8 +1182,7 @@
 		"path": "egg_instafluff",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_cui",
@@ -1146,8 +1193,7 @@
 		"path": "egg_cui",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_big_blue_pink",
@@ -1158,8 +1204,7 @@
 		"path": "egg_big_blue_pink",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_big_blue_white",
@@ -1170,8 +1215,7 @@
 		"path": "egg_big_blue_white",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_big_darkblue_white",
@@ -1182,8 +1226,7 @@
 		"path": "egg_big_darkblue_white",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_big_darkpink_white",
@@ -1194,8 +1237,7 @@
 		"path": "egg_big_darkpink_white",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_big_lime_green",
@@ -1206,8 +1248,7 @@
 		"path": "egg_big_lime_green",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_big_pink_pink",
@@ -1218,8 +1259,7 @@
 		"path": "egg_big_pink_pink",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_big_pink_white",
@@ -1230,8 +1270,7 @@
 		"path": "egg_big_pink_white",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_big_purple_blue",
@@ -1242,8 +1281,7 @@
 		"path": "egg_big_purple_blue",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_big_purple_white",
@@ -1254,8 +1292,7 @@
 		"path": "egg_big_purple_white",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_big_yellow_orange",
@@ -1266,8 +1303,7 @@
 		"path": "egg_big_yellow_orange",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_big_yellow_red",
@@ -1278,8 +1314,7 @@
 		"path": "egg_big_yellow_red",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_big_black_white",
@@ -1290,8 +1325,7 @@
 		"path": "egg_big_black_white",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_big_blue_blue",
@@ -1302,8 +1336,7 @@
 		"path": "egg_big_blue_blue",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_small_green_blue",
@@ -1314,8 +1347,7 @@
 		"path": "egg_small_green_blue",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_small_green_yellow",
@@ -1326,8 +1358,7 @@
 		"path": "egg_small_green_yellow",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_small_pink_red",
@@ -1338,8 +1369,7 @@
 		"path": "egg_small_pink_red",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_small_purple_blue",
@@ -1350,8 +1380,7 @@
 		"path": "egg_small_purple_blue",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_small_purple_pink",
@@ -1362,8 +1391,7 @@
 		"path": "egg_small_purple_pink",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_small_yellow_green",
@@ -1374,8 +1402,7 @@
 		"path": "egg_small_yellow_green",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_small_yellow_pink",
@@ -1386,8 +1413,7 @@
 		"path": "egg_small_yellow_pink",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_small_black",
@@ -1398,8 +1424,7 @@
 		"path": "egg_small_black",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_small_blue",
@@ -1410,8 +1435,7 @@
 		"path": "egg_small_blue",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_egg_small_orange",
@@ -1422,8 +1446,7 @@
 		"path": "egg_small_orange",
 		"cost": 20,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_chick",
@@ -1467,8 +1490,7 @@
 		"path": "rabbit2",
 		"cost": 40,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "chick",
@@ -1477,8 +1499,7 @@
 		"theme": "Easter",
 		"type": "character",
 		"path": "chick",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "rabbit",
@@ -1487,8 +1508,7 @@
 		"theme": "Easter",
 		"type": "character",
 		"path": "rabbit",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "pet_butterfly_vanessa",
@@ -1499,8 +1519,7 @@
 		"path": "butterfly_vanessa",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 0,
-		"hidden": true
+		"maxIdle": 0
 	},
 	{
 		"id": "pet_butterfly_tiger",
@@ -1511,8 +1530,7 @@
 		"path": "butterfly_tiger",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 0,
-		"hidden": true
+		"maxIdle": 0
 	},
 	{
 		"id": "pet_butterfly_purple",
@@ -1523,8 +1541,7 @@
 		"path": "butterfly_purple",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 0,
-		"hidden": true
+		"maxIdle": 0
 	},
 	{
 		"id": "pet_butterfly_pink",
@@ -1535,8 +1552,7 @@
 		"path": "butterfly_pink",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 0,
-		"hidden": true
+		"maxIdle": 0
 	},
 	{
 		"id": "pet_butterfly_orange",
@@ -1547,8 +1563,7 @@
 		"path": "butterfly_orange",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 0,
-		"hidden": true
+		"maxIdle": 0
 	},
 	{
 		"id": "pet_butterfly_morpho",
@@ -1559,8 +1574,7 @@
 		"path": "butterfly_morpho",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 0,
-		"hidden": true
+		"maxIdle": 0
 	},
 	{
 		"id": "pet_butterfly_marble",
@@ -1571,8 +1585,7 @@
 		"path": "butterfly_marble",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 0,
-		"hidden": true
+		"maxIdle": 0
 	},
 	{
 		"id": "pet_butterfly_green",
@@ -1583,8 +1596,7 @@
 		"path": "butterfly_green",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 0,
-		"hidden": true
+		"maxIdle": 0
 	},
 	{
 		"id": "pet_butterfly_blue",
@@ -1595,8 +1607,7 @@
 		"path": "butterfly_blue",
 		"cost": 40,
 		"minIdle": 0,
-		"maxIdle": 0,
-		"hidden": true
+		"maxIdle": 0
 	},
 	{
 		"id": "pet_poop_brown",
@@ -1682,8 +1693,7 @@
 		"theme": "Spring",
 		"type": "character",
 		"path": "bellflower",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "calendula",
@@ -1692,8 +1702,7 @@
 		"theme": "Spring",
 		"type": "character",
 		"path": "calendula",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "poppy",
@@ -1702,8 +1711,7 @@
 		"theme": "Spring",
 		"type": "character",
 		"path": "poppy",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "boybear",

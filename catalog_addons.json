@@ -6,8 +6,7 @@
 		"theme": "Easter",
 		"type": "add-on",
 		"path": "icon_easter.png",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "addon_parachute_valentines",

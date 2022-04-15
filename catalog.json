@@ -47,6 +47,44 @@
 		"hidden": true
 	},
 	{
+		"id": "rabbit_onesie_black",
+		"group": "Onesie",
+		"name": "Black Rabbit Outfit",
+		"theme": "Spring",
+		"type": "character",
+		"path": "rabbit_onesie_black",
+		"cost": 20
+	},
+	{
+		"id": "rabbit_onesie_grey",
+		"group": "Onesie",
+		"name": "Gray Rabbit Outfit",
+		"theme": "Spring",
+		"type": "character",
+		"path": "rabbit_onesie_grey",
+		"cost": 20
+	},
+	{
+		"id": "rabbit_onesie_white",
+		"group": "Onesie",
+		"name": "White Rabbit Outfit",
+		"theme": "Spring",
+		"type": "character",
+		"path": "rabbit_onesie_white",
+		"cost": 20
+	},
+	{
+		"id": "pet_pepper",
+		"group": "Rabbit",
+		"name": "Pepper",
+		"theme": "Spring",
+		"type": "pet",
+		"path": "pepper",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
 		"id": "addon_parachute_easter",
 		"group": "Parachute Drop",
 		"name": "Easter (Parachute Drop)",

@@ -435,5 +435,32 @@
 		"path": "snowman",
 		"cost": 20,
 		"hidden": true
+	},
+	{
+		"id": "rabbit_onesie_black",
+		"group": "Onesie",
+		"name": "Black Rabbit Outfit",
+		"theme": "Spring",
+		"type": "character",
+		"path": "rabbit_onesie_black",
+		"cost": 20
+	},
+	{
+		"id": "rabbit_onesie_grey",
+		"group": "Onesie",
+		"name": "Gray Rabbit Outfit",
+		"theme": "Spring",
+		"type": "character",
+		"path": "rabbit_onesie_grey",
+		"cost": 20
+	},
+	{
+		"id": "rabbit_onesie_white",
+		"group": "Onesie",
+		"name": "White Rabbit Outfit",
+		"theme": "Spring",
+		"type": "character",
+		"path": "rabbit_onesie_white",
+		"cost": 20
 	}
 ]

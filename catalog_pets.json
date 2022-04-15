@@ -1660,5 +1660,16 @@
 		"minIdle": 0,
 		"maxIdle": 0,
 		"sale": true
+	},
+	{
+		"id": "pet_pepper",
+		"group": "Rabbit",
+		"name": "Pepper",
+		"theme": "Spring",
+		"type": "pet",
+		"path": "pepper",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
 	}
 ]

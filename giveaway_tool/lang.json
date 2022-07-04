@@ -9,7 +9,7 @@
             "winner_instruction": "Type !win to claim your prize",
             "congrats": "Congrats",
             "item_won_announce": "You won",
-            "bad_command": "Giveaway command must be in the form of !startgiv NumberOfMinutes Title",
+            "bad_command": "Giveaway command must be in the form of !startgiv NumberOfMinutes Title"
         }
     },
     "cs": {
@@ -22,7 +22,7 @@
             "winner_instruction": "Napište !win a vyzvedněte si svou cenu",
             "congrats": "Gratuluji",
             "item_won_announce": "Vyhráli jste",
-            "bad_command": "Giveaway command must be in the form of !startgiv NumberOfMinutes Title",
+            "bad_command": "Giveaway command must be in the form of !startgiv NumberOfMinutes Title"
         }
     },
     "de": {
@@ -36,7 +36,7 @@
             "winner_instruction": "Gib !win ein, um deinen Preis einzufordern",
             "congrats": "Herzlichen Glückwunsch",
             "item_won_announce": "Du hast gewonnen",
-            "bad_command": "Giveaway command must be in the form of !startgiv NumberOfMinutes Title",
+            "bad_command": "Giveaway command must be in the form of !startgiv NumberOfMinutes Title"
         }
     },
     "es": {
@@ -49,7 +49,7 @@
             "winner_instruction": "Escribe !win para reclamar tu premio",
             "congrats": "Congrats",
             "item_won_announce": "Has ganado",
-            "bad_command": "Giveaway command must be in the form of !startgiv NumberOfMinutes Title",
+            "bad_command": "Giveaway command must be in the form of !startgiv NumberOfMinutes Title"
         }
     },
     "fr": {
@@ -62,7 +62,7 @@
             "winner_instruction": "Tapez !win pour réclamer votre prix",
             "congrats": "Félicitations",
             "item_won_announce": "Vous avez gagné",
-            "bad_command": "Giveaway command must be in the form of !startgiv NumberOfMinutes Title",
+            "bad_command": "Giveaway command must be in the form of !startgiv NumberOfMinutes Title"
         }
-    },
+    }
 }

@@ -47,6 +47,15 @@
 		"hidden": true
 	},
 	{
+		"id": "addon_giveaway_blossoms",
+		"group": "Giveaway",
+		"name": "Blossoms (Giveaway)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "giveaway_blossoms.png",
+		"cost": 20
+	},
+	{
 		"id": "rabbit_onesie_black",
 		"group": "Onesie",
 		"name": "Black Rabbit Outfit",

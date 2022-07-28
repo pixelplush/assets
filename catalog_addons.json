@@ -1,5 +1,14 @@
 [
 	{
+		"id": "addon_giveaway_blossoms",
+		"group": "Giveaway",
+		"name": "Blossoms (Giveaway)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "giveaway_blossoms.png",
+		"cost": 20
+	},
+	{
 		"id": "addon_parachute_easter",
 		"group": "Parachute Drop",
 		"name": "Easter (Parachute Drop)",

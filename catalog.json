@@ -47,6 +47,66 @@
 		"hidden": true
 	},
 	{
+		"id": "addon_parachute_poolfrog",
+		"group": "Parachute Drop",
+		"name": "Frog Pool (Parachute Drop)",
+		"theme": "Summer",
+		"type": "add-on",
+		"path": "icon_frogpool.png",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "addon_parachute_poolmelon",
+		"group": "Parachute Drop",
+		"name": "Watermelon Pool (Parachute Drop)",
+		"theme": "Summer",
+		"type": "add-on",
+		"path": "icon_melonpool.png",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "addon_parachute_poolrainbow",
+		"group": "Parachute Drop",
+		"name": "Rainbow Pool (Parachute Drop)",
+		"theme": "Summer",
+		"type": "add-on",
+		"path": "icon_rainbowpool.png",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "addon_parachute_pooldots",
+		"group": "Parachute Drop",
+		"name": "Rainbow Dots Pool (Parachute Drop)",
+		"theme": "Summer",
+		"type": "add-on",
+		"path": "icon_dotspool.png",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "addon_parachute_poolsparklypink",
+		"group": "Parachute Drop",
+		"name": "Sparkly Pink Pool (Parachute Drop)",
+		"theme": "Summer",
+		"type": "add-on",
+		"path": "icon_pinkpool.png",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "addon_parachute_poolsparklypurple",
+		"group": "Parachute Drop",
+		"name": "Sparkly Purple Pool (Parachute Drop)",
+		"theme": "Summer",
+		"type": "add-on",
+		"path": "icon_pinkpool.png",
+		"cost": 20,
+		"hidden": true
+	},
+	{
 		"id": "addon_giveaway_blossoms",
 		"group": "Giveaway",
 		"name": "Blossoms (Giveaway)",

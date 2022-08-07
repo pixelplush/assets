@@ -47,13 +47,23 @@
 		"hidden": true
 	},
 	{
+		"id": "bundle_parachute_pool",
+		"group": "Parachute Drop",
+		"name": "Splash Pool Bundle (Parachute Drop)",
+		"theme": "Summer",
+		"type": "bundle",
+		"path": "pool_icon_market.gif",
+		"cost": 40,
+		"hidden": true
+	},
+	{
 		"id": "addon_parachute_poolfrog",
 		"group": "Parachute Drop",
 		"name": "Frog Pool (Parachute Drop)",
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_frog.png",
-		"cost": 20,
+		"cost": 10,
 		"hidden": true
 	},
 	{
@@ -63,7 +73,7 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_melon.png",
-		"cost": 20,
+		"cost": 10,
 		"hidden": true
 	},
 	{
@@ -73,7 +83,7 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_rainbow.png",
-		"cost": 20,
+		"cost": 10,
 		"hidden": true
 	},
 	{
@@ -83,7 +93,7 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_rainbowdots.png",
-		"cost": 20,
+		"cost": 10,
 		"hidden": true
 	},
 	{
@@ -93,7 +103,7 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_pink.png",
-		"cost": 20,
+		"cost": 10,
 		"hidden": true
 	},
 	{
@@ -103,7 +113,7 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_purple.png",
-		"cost": 20,
+		"cost": 10,
 		"hidden": true
 	},
 	{
@@ -113,7 +123,7 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_red.png",
-		"cost": 20,
+		"cost": 10,
 		"hidden": true
 	},
 	{
@@ -123,7 +133,7 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_blue.png",
-		"cost": 20,
+		"cost": 10,
 		"hidden": true
 	},
 	{
@@ -133,7 +143,7 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_yellow.png",
-		"cost": 20,
+		"cost": 10,
 		"hidden": true
 	},
 	{

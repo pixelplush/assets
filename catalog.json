@@ -53,7 +53,7 @@
 		"theme": "Summer",
 		"type": "bundle",
 		"path": "pool_icon_market.gif",
-		"cost": 40,
+		"cost": 60,
 		"hidden": true
 	},
 	{
@@ -63,7 +63,7 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_frog.png",
-		"cost": 10,
+		"cost": 20,
 		"hidden": true
 	},
 	{
@@ -73,7 +73,7 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_melon.png",
-		"cost": 10,
+		"cost": 20,
 		"hidden": true
 	},
 	{

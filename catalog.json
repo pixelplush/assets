@@ -52,7 +52,7 @@
 		"name": "Frog Pool (Parachute Drop)",
 		"theme": "Summer",
 		"type": "add-on",
-		"path": "icon_frogpool.png",
+		"path": "pool_icon_market_frog.png",
 		"cost": 20,
 		"hidden": true
 	},
@@ -62,7 +62,7 @@
 		"name": "Watermelon Pool (Parachute Drop)",
 		"theme": "Summer",
 		"type": "add-on",
-		"path": "icon_melonpool.png",
+		"path": "pool_icon_market_melon.png",
 		"cost": 20,
 		"hidden": true
 	},
@@ -72,7 +72,7 @@
 		"name": "Rainbow Pool (Parachute Drop)",
 		"theme": "Summer",
 		"type": "add-on",
-		"path": "icon_rainbowpool.png",
+		"path": "pool_icon_market_rainbow.png",
 		"cost": 20,
 		"hidden": true
 	},
@@ -82,7 +82,7 @@
 		"name": "Rainbow Dots Pool (Parachute Drop)",
 		"theme": "Summer",
 		"type": "add-on",
-		"path": "icon_dotspool.png",
+		"path": "pool_icon_market_rainbowdots.png",
 		"cost": 20,
 		"hidden": true
 	},
@@ -92,7 +92,7 @@
 		"name": "Sparkly Pink Pool (Parachute Drop)",
 		"theme": "Summer",
 		"type": "add-on",
-		"path": "icon_pinkpool.png",
+		"path": "pool_icon_market_pink.png",
 		"cost": 20,
 		"hidden": true
 	},
@@ -102,7 +102,37 @@
 		"name": "Sparkly Purple Pool (Parachute Drop)",
 		"theme": "Summer",
 		"type": "add-on",
-		"path": "icon_pinkpool.png",
+		"path": "pool_icon_market_purple.png",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "addon_parachute_poolred",
+		"group": "Parachute Drop",
+		"name": "Party Red Pool (Parachute Drop)",
+		"theme": "Summer",
+		"type": "add-on",
+		"path": "pool_icon_market_red.png",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "addon_parachute_poolblue",
+		"group": "Parachute Drop",
+		"name": "Party Blue Pool (Parachute Drop)",
+		"theme": "Summer",
+		"type": "add-on",
+		"path": "pool_icon_market_blue.png",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "addon_parachute_poolyellow",
+		"group": "Parachute Drop",
+		"name": "Party Yellow Pool (Parachute Drop)",
+		"theme": "Summer",
+		"type": "add-on",
+		"path": "pool_icon_market_yellow.png",
 		"cost": 20,
 		"hidden": true
 	},

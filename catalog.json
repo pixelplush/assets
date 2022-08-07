@@ -54,7 +54,8 @@
 		"type": "bundle",
 		"path": "pool_icon_market.gif",
 		"cost": 60,
-		"hidden": true
+		"hidden": true,
+		"items": "addon_parachute_poolfrog,addon_parachute_poolmelon,addon_parachute_poolrainbow,addon_parachute_pooldots,addon_parachute_poolsparklypink,addon_parachute_poolsparklypurple,addon_parachute_poolred,addon_parachute_poolblue,addon_parachute_poolyellow"
 	},
 	{
 		"id": "addon_parachute_poolfrog",

@@ -54,7 +54,6 @@
 		"type": "bundle",
 		"path": "pool_icon_market.gif",
 		"cost": 60,
-		"hidden": true,
 		"items": "addon_parachute_poolfrog,addon_parachute_poolmelon,addon_parachute_poolrainbow,addon_parachute_pooldots,addon_parachute_poolsparklypink,addon_parachute_poolsparklypurple,addon_parachute_poolyellow"
 	},
 	{
@@ -64,8 +63,7 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_frog.png",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "addon_parachute_poolmelon",
@@ -74,8 +72,7 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_melon.png",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "addon_parachute_poolrainbow",
@@ -84,8 +81,7 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_rainbow.png",
-		"cost": 10,
-		"hidden": true
+		"cost": 10
 	},
 	{
 		"id": "addon_parachute_pooldots",
@@ -94,8 +90,7 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_rainbowdots.png",
-		"cost": 10,
-		"hidden": true
+		"cost": 10
 	},
 	{
 		"id": "addon_parachute_poolsparklypink",
@@ -104,8 +99,7 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_pink.png",
-		"cost": 10,
-		"hidden": true
+		"cost": 10
 	},
 	{
 		"id": "addon_parachute_poolsparklypurple",
@@ -114,8 +108,7 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_purple.png",
-		"cost": 10,
-		"hidden": true
+		"cost": 10
 	},
 	{
 		"id": "addon_parachute_poolred",
@@ -144,8 +137,7 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_yellow.png",
-		"cost": 10,
-		"hidden": true
+		"cost": 10
 	},
 	{
 		"id": "addon_giveaway_blossoms",

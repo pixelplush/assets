@@ -47,6 +47,16 @@
 		"hidden": true
 	},
 	{
+		"id": "bundle_parachute_cake",
+		"group": "Parachute Drop",
+		"name": "Party Cakes Bundle (Parachute Drop)",
+		"theme": "PixelPlush",
+		"type": "bundle",
+		"cost": 20,
+		"hidden": true,
+		"items": "addon_parachute_cakeplush,addon_parachute_cakerainbow,addon_parachute_cakefruit,addon_parachute_cakechoco"
+	},
+	{
 		"id": "bundle_parachute_pool",
 		"group": "Parachute Drop",
 		"name": "Splash Pool Bundle (Parachute Drop)",

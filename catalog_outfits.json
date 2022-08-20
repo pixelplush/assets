@@ -258,5 +258,35 @@
 		"path": "wizard_wand",
 		"cost": 5,
 		"hidden": true
+	},
+	{
+		"id": "party_hat_pink",
+		"group": "hats",
+		"name": "Party Hat (Pink)",
+		"theme": "PixelPlush",
+		"type": "accessories",
+		"path": "party_hat_pink",
+		"cost": 5,
+		"hidden": true
+	},
+	{
+		"id": "party_hat_purple",
+		"group": "hats",
+		"name": "Party Hat (Purple)",
+		"theme": "PixelPlush",
+		"type": "accessories",
+		"path": "party_hat_purple",
+		"cost": 5,
+		"hidden": true
+	},
+	{
+		"id": "onesie_rabbit_white",
+		"group": "onesies",
+		"name": "Rabbit Onesie",
+		"theme": "Easter",
+		"type": "accessories",
+		"path": "onesie_rabbit_white",
+		"cost": 5,
+		"hidden": true
 	}
 ]

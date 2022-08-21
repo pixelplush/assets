@@ -5,6 +5,7 @@
 		"name": "Tone 1",
 		"theme": "PixelPlush",
 		"type": "body",
+		"category": "skintones",
 		"path": "skin1",
 		"cost": 0,
 		"hidden": true
@@ -15,6 +16,7 @@
 		"name": "Tone 2",
 		"theme": "PixelPlush",
 		"type": "body",
+		"category": "skintones",
 		"path": "skin2",
 		"cost": 0,
 		"hidden": true
@@ -25,6 +27,7 @@
 		"name": "Tone 3",
 		"theme": "PixelPlush",
 		"type": "body",
+		"category": "skintones",
 		"path": "skin3",
 		"cost": 0,
 		"hidden": true
@@ -35,6 +38,7 @@
 		"name": "Tone 4",
 		"theme": "PixelPlush",
 		"type": "body",
+		"category": "skintones",
 		"path": "skin4",
 		"cost": 0,
 		"hidden": true
@@ -45,6 +49,7 @@
 		"name": "Tone 5",
 		"theme": "PixelPlush",
 		"type": "body",
+		"category": "skintones",
 		"path": "skin5",
 		"cost": 0,
 		"hidden": true
@@ -55,6 +60,7 @@
 		"name": "Expression 1",
 		"theme": "PixelPlush",
 		"type": "body",
+		"category": "expressions",
 		"path": "expr1",
 		"cost": 0,
 		"hidden": true
@@ -65,6 +71,7 @@
 		"name": "Expression 2",
 		"theme": "PixelPlush",
 		"type": "body",
+		"category": "expressions",
 		"path": "expr2",
 		"cost": 10,
 		"hidden": true
@@ -75,6 +82,7 @@
 		"name": "Expression 3",
 		"theme": "PixelPlush",
 		"type": "body",
+		"category": "expressions",
 		"path": "expr3",
 		"cost": 10,
 		"hidden": true
@@ -85,6 +93,7 @@
 		"name": "Expression 4",
 		"theme": "PixelPlush",
 		"type": "body",
+		"category": "expressions",
 		"path": "expr4",
 		"cost": 10,
 		"hidden": true
@@ -95,6 +104,7 @@
 		"name": "Expression 5",
 		"theme": "PixelPlush",
 		"type": "body",
+		"category": "expressions",
 		"path": "expr5",
 		"cost": 10,
 		"hidden": true
@@ -105,6 +115,7 @@
 		"name": "Expression 6",
 		"theme": "PixelPlush",
 		"type": "body",
+		"category": "expressions",
 		"path": "expr6",
 		"cost": 10,
 		"hidden": true
@@ -115,6 +126,7 @@
 		"name": "Expression 7",
 		"theme": "PixelPlush",
 		"type": "body",
+		"category": "expressions",
 		"path": "expr7",
 		"cost": 10,
 		"hidden": true
@@ -125,6 +137,7 @@
 		"name": "Hair 1",
 		"theme": "PixelPlush",
 		"type": "body",
+		"category": "hair",
 		"path": "hair1",
 		"cost": 0,
 		"hidden": true
@@ -135,6 +148,7 @@
 		"name": "Hair 2",
 		"theme": "PixelPlush",
 		"type": "body",
+		"category": "hair",
 		"path": "hair2",
 		"cost": 5,
 		"hidden": true
@@ -145,6 +159,7 @@
 		"name": "Hair 3",
 		"theme": "PixelPlush",
 		"type": "body",
+		"category": "hair",
 		"path": "hair3",
 		"cost": 5,
 		"hidden": true
@@ -155,6 +170,7 @@
 		"name": "Hair 4",
 		"theme": "PixelPlush",
 		"type": "body",
+		"category": "hair",
 		"path": "hair4",
 		"cost": 5,
 		"hidden": true
@@ -165,6 +181,7 @@
 		"name": "Hair 5",
 		"theme": "PixelPlush",
 		"type": "body",
+		"category": "hair",
 		"path": "hair5",
 		"cost": 5,
 		"hidden": true
@@ -175,6 +192,7 @@
 		"name": "Wheelchair",
 		"theme": "PixelPlush",
 		"type": "equipment",
+		"category": "wheelchairs",
 		"path": "wheelchair",
 		"cost": 0,
 		"hidden": true
@@ -185,6 +203,7 @@
 		"name": "Dress",
 		"theme": "PixelPlush",
 		"type": "outfit",
+		"category": "dresses",
 		"path": "dress1",
 		"cost": 20,
 		"hidden": true
@@ -195,6 +214,7 @@
 		"name": "Wizard Robe",
 		"theme": "Magic",
 		"type": "outfit",
+		"category": "dresses",
 		"path": "wizard_robe1",
 		"cost": 20,
 		"hidden": true
@@ -205,6 +225,7 @@
 		"name": "Pants",
 		"theme": "PixelPlush",
 		"type": "outfit",
+		"category": "pants",
 		"path": "pants1",
 		"cost": 10,
 		"hidden": true
@@ -215,6 +236,7 @@
 		"name": "Shirt",
 		"theme": "PixelPlush",
 		"type": "outfit",
+		"category": "shirts",
 		"path": "shirt1",
 		"cost": 10,
 		"hidden": true
@@ -225,6 +247,7 @@
 		"name": "Glasses",
 		"theme": "PixelPlush",
 		"type": "accessory",
+		"category": "glasses",
 		"path": "glasses1",
 		"cost": 10,
 		"hidden": true
@@ -235,6 +258,7 @@
 		"name": "Wizard Hat",
 		"theme": "Magic",
 		"type": "accessory",
+		"category": "hats",
 		"path": "wizard_hat1",
 		"cost": 10,
 		"hidden": true
@@ -245,6 +269,7 @@
 		"name": "Mask",
 		"theme": "PixelPlush",
 		"type": "accessory",
+		"category": "masks",
 		"path": "mask1",
 		"cost": 10,
 		"hidden": true
@@ -255,6 +280,7 @@
 		"name": "Wizard Wand",
 		"theme": "Magic",
 		"type": "accessory",
+		"category": "wands",
 		"path": "wizard_wand",
 		"cost": 10,
 		"hidden": true
@@ -265,6 +291,7 @@
 		"name": "Party Hat (Pink)",
 		"theme": "PixelPlush",
 		"type": "accessory",
+		"category": "hats",
 		"path": "party_hat_pink",
 		"cost": 10,
 		"hidden": true
@@ -275,6 +302,7 @@
 		"name": "Party Hat (Purple)",
 		"theme": "PixelPlush",
 		"type": "accessory",
+		"category": "hats",
 		"path": "party_hat_purple",
 		"cost": 10,
 		"hidden": true
@@ -285,6 +313,7 @@
 		"name": "Rabbit Onesie",
 		"theme": "Easter",
 		"type": "outfit",
+		"category": "onesies",
 		"path": "onesie_rabbit_white",
 		"cost": 20,
 		"hidden": true

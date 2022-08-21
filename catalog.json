@@ -52,9 +52,10 @@
 		"name": "Normal Skintones Bundle",
 		"theme": "PixelPlush",
 		"type": "bundle",
+		"path": "skin_icon_normal.gif",
 		"cost": 0,
 		"hidden": true,
-		"items": "outfit_skin1,outfit_skin2,outfit_skin3,outfit_skin4"
+		"items": "outfit_skin1,outfit_skin2,outfit_skin3,outfit_skin4,outfit_skin5,outfit_skin6,outfit_skin7"
 	},
 	{
 		"id": "outfit_skin1",
@@ -112,13 +113,123 @@
 		"hidden": true
 	},
 	{
+		"id": "outfit_skin6",
+		"group": "Skintones",
+		"name": "Body 6",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "skintones",
+		"path": "skin6",
+		"cost": 0,
+		"hidden": true
+	},
+	{
+		"id": "outfit_skin7",
+		"group": "Skintones",
+		"name": "Body 7",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "skintones",
+		"path": "skin7",
+		"cost": 0,
+		"hidden": true
+	},
+	{
+		"id": "bundle_outfits_fantasyskins",
+		"group": "Skintones",
+		"name": "Fantasy Skintones Bundle",
+		"theme": "PixelPlush",
+		"type": "bundle",
+		"path": "skin_icon_fantasy.gif",
+		"cost": 40,
+		"hidden": true,
+		"items": "outfit_skin_f1,outfit_skin_f2,outfit_skin_f3,outfit_skin_f4,outfit_skin_f5,outfit_skin_f6,outfit_skin_f7"
+	},
+	{
+		"id": "outfit_skin_f1",
+		"group": "Skintones",
+		"name": "Fantasy Body 1",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "skintones",
+		"path": "skin_f1",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_skin_f2",
+		"group": "Skintones",
+		"name": "Fantasy Body 2",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "skintones",
+		"path": "skin_f2",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_skin_f3",
+		"group": "Skintones",
+		"name": "Fantasy Body 3",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "skintones",
+		"path": "skin_f3",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_skin_f4",
+		"group": "Skintones",
+		"name": "Fantasy Body 4",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "skintones",
+		"path": "skin_f4",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_skin_f5",
+		"group": "Skintones",
+		"name": "Fantasy Body 5",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "skintones",
+		"path": "skin_f5",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_skin_f6",
+		"group": "Skintones",
+		"name": "Fantasy Body 6",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "skintones",
+		"path": "skin_f6",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_skin_f7",
+		"group": "Skintones",
+		"name": "Fantasy Body 7",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "skintones",
+		"path": "skin_f7",
+		"cost": 10,
+		"hidden": true
+	},
+	{
 		"id": "bundle_outfits_expressions",
 		"group": "Expressions",
 		"name": "Fun Expressions Bundle",
 		"theme": "PixelPlush",
 		"type": "bundle",
 		"path": "expressions_icon.gif",
-		"cost": 20,
+		"cost": 40,
 		"hidden": true,
 		"items": "outfit_expr2,outfit_expr3,outfit_expr4,outfit_expr5,outfit_expr6,outfit_expr7,outfit_expr8,outfit_expr9,outfit_expr10"
 	},
@@ -389,23 +500,23 @@
 	{
 		"id": "outfit_party_hat_pink",
 		"group": "Hat",
-		"name": "Party Hat (Pink)",
+		"name": "PixelPlush 2022 Party Hat (Pink)",
 		"theme": "PixelPlush",
 		"type": "accessory",
 		"category": "hats",
 		"path": "party_hat_pink",
-		"cost": 10,
+		"cost": 0,
 		"hidden": true
 	},
 	{
 		"id": "outfit_party_hat_purple",
 		"group": "Hat",
-		"name": "Party Hat (Purple)",
+		"name": "PixelPlush 2022 Party Hat (Purple)",
 		"theme": "PixelPlush",
 		"type": "accessory",
 		"category": "hats",
 		"path": "party_hat_purple",
-		"cost": 10,
+		"cost": 0,
 		"hidden": true
 	},
 	{
@@ -415,7 +526,7 @@
 		"theme": "Spring",
 		"type": "bundle",
 		"path": "icon_onesie_rabbit_bundle.gif",
-		"cost": 40,
+		"cost": 60,
 		"hidden": true,
 		"items": "outfit_onesie_rabbit_white,outfit_onesie_rabbit_grey,outfit_onesie_rabbit_black,outfit_onesie_rabbit_brown"
 	},
@@ -492,7 +603,7 @@
 		"theme": "Spring",
 		"type": "bundle",
 		"path": "icon_onesie_chick_bundle.gif",
-		"cost": 30,
+		"cost": 40,
 		"hidden": true,
 		"items": "outfit_onesie_chick_brown,outfit_onesie_chick_yellow,outfit_onesie_chick_white"
 	},
@@ -646,7 +757,7 @@
 		"theme": "PixelPlush",
 		"type": "bundle",
 		"path": "icon_cake_bundle.gif",
-		"cost": 20,
+		"cost": 30,
 		"hidden": true,
 		"items": "addon_parachute_cakeplush,addon_parachute_cakerainbow,addon_parachute_cakefruit,addon_parachute_cakechoco"
 	},

@@ -55,6 +55,28 @@
 		"hidden": true
 	},
 	{
+		"id": "outfit_skin6",
+		"group": "Skintones",
+		"name": "Body 6",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "skintones",
+		"path": "skin6",
+		"cost": 0,
+		"hidden": true
+	},
+	{
+		"id": "outfit_skin7",
+		"group": "Skintones",
+		"name": "Body 7",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "skintones",
+		"path": "skin7",
+		"cost": 0,
+		"hidden": true
+	},
+	{
 		"id": "outfit_expr1",
 		"group": "Expressions",
 		"name": "Expression 1",
@@ -525,6 +547,83 @@
 		"category": "onesies",
 		"path": "onesie_mushroom_twiglet",
 		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "outfit_skin_f1",
+		"group": "Skintones",
+		"name": "Fantasy Body 1",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "skintones",
+		"path": "skin_f1",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_skin_f2",
+		"group": "Skintones",
+		"name": "Fantasy Body 2",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "skintones",
+		"path": "skin_f2",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_skin_f3",
+		"group": "Skintones",
+		"name": "Fantasy Body 3",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "skintones",
+		"path": "skin_f3",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_skin_f4",
+		"group": "Skintones",
+		"name": "Fantasy Body 4",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "skintones",
+		"path": "skin_f4",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_skin_f5",
+		"group": "Skintones",
+		"name": "Fantasy Body 5",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "skintones",
+		"path": "skin_f5",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_skin_f6",
+		"group": "Skintones",
+		"name": "Fantasy Body 6",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "skintones",
+		"path": "skin_f6",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_skin_f7",
+		"group": "Skintones",
+		"name": "Fantasy Body 7",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "skintones",
+		"path": "skin_f7",
+		"cost": 10,
 		"hidden": true
 	}
 ]

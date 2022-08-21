@@ -374,6 +374,17 @@
 		"hidden": true
 	},
 	{
+		"id": "outfit_onesie_rabbit_brown",
+		"group": "Onesie",
+		"name": "Brown Rabbit Onesie",
+		"theme": "Easter",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "onesie_rabbit_brown",
+		"cost": 20,
+		"hidden": true
+	},
+	{
 		"id": "outfit_onesie_unicorn",
 		"group": "Onesie",
 		"name": "Unicorn Onesie",
@@ -414,6 +425,17 @@
 		"type": "outfit",
 		"category": "onesies",
 		"path": "onesie_chick_yellow",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "outfit_onesie_chick_white",
+		"group": "Onesie",
+		"name": "White Chick Onesie",
+		"theme": "Easter",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "onesie_chick_white",
 		"cost": 20,
 		"hidden": true
 	},

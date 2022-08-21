@@ -55,7 +55,8 @@
 		"path": "skin_icon_normal.gif",
 		"cost": 0,
 		"hidden": true,
-		"items": "outfit_skin1,outfit_skin2,outfit_skin3,outfit_skin4,outfit_skin5,outfit_skin6,outfit_skin7"
+		"items": "outfit_skin1,outfit_skin2,outfit_skin3,outfit_skin4,outfit_skin5,outfit_skin6,outfit_skin7",
+		"beta": true
 	},
 	{
 		"id": "outfit_skin1",
@@ -66,7 +67,8 @@
 		"category": "skintones",
 		"path": "skin1",
 		"cost": 0,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_skin2",
@@ -77,7 +79,8 @@
 		"category": "skintones",
 		"path": "skin2",
 		"cost": 0,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_skin3",
@@ -88,7 +91,8 @@
 		"category": "skintones",
 		"path": "skin3",
 		"cost": 0,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_skin4",
@@ -99,7 +103,8 @@
 		"category": "skintones",
 		"path": "skin4",
 		"cost": 0,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_skin5",
@@ -110,7 +115,8 @@
 		"category": "skintones",
 		"path": "skin5",
 		"cost": 0,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_skin6",
@@ -121,7 +127,8 @@
 		"category": "skintones",
 		"path": "skin6",
 		"cost": 0,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_skin7",
@@ -132,7 +139,8 @@
 		"category": "skintones",
 		"path": "skin7",
 		"cost": 0,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "bundle_outfits_fantasyskins",
@@ -143,7 +151,8 @@
 		"path": "skin_icon_fantasy.gif",
 		"cost": 40,
 		"hidden": true,
-		"items": "outfit_skin_f1,outfit_skin_f2,outfit_skin_f3,outfit_skin_f4,outfit_skin_f5,outfit_skin_f6,outfit_skin_f7"
+		"items": "outfit_skin_f1,outfit_skin_f2,outfit_skin_f3,outfit_skin_f4,outfit_skin_f5,outfit_skin_f6,outfit_skin_f7",
+		"beta": true
 	},
 	{
 		"id": "outfit_skin_f1",
@@ -154,7 +163,8 @@
 		"category": "skintones",
 		"path": "skin_f1",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_skin_f2",
@@ -165,7 +175,8 @@
 		"category": "skintones",
 		"path": "skin_f2",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_skin_f3",
@@ -176,7 +187,8 @@
 		"category": "skintones",
 		"path": "skin_f3",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_skin_f4",
@@ -187,7 +199,8 @@
 		"category": "skintones",
 		"path": "skin_f4",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_skin_f5",
@@ -198,7 +211,8 @@
 		"category": "skintones",
 		"path": "skin_f5",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_skin_f6",
@@ -209,7 +223,8 @@
 		"category": "skintones",
 		"path": "skin_f6",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_skin_f7",
@@ -220,7 +235,8 @@
 		"category": "skintones",
 		"path": "skin_f7",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "bundle_outfits_expressions",
@@ -231,7 +247,8 @@
 		"path": "expressions_icon.gif",
 		"cost": 40,
 		"hidden": true,
-		"items": "outfit_expr2,outfit_expr3,outfit_expr4,outfit_expr5,outfit_expr6,outfit_expr7,outfit_expr8,outfit_expr9,outfit_expr10"
+		"items": "outfit_expr2,outfit_expr3,outfit_expr4,outfit_expr5,outfit_expr6,outfit_expr7,outfit_expr8,outfit_expr9,outfit_expr10",
+		"beta": true
 	},
 	{
 		"id": "outfit_expr1",
@@ -242,7 +259,8 @@
 		"category": "expressions",
 		"path": "expr1",
 		"cost": 0,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_expr2",
@@ -253,7 +271,8 @@
 		"category": "expressions",
 		"path": "expr2",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_expr3",
@@ -264,7 +283,8 @@
 		"category": "expressions",
 		"path": "expr3",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_expr4",
@@ -275,7 +295,8 @@
 		"category": "expressions",
 		"path": "expr4",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_expr5",
@@ -286,7 +307,8 @@
 		"category": "expressions",
 		"path": "expr5",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_expr6",
@@ -297,7 +319,8 @@
 		"category": "expressions",
 		"path": "expr6",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_expr7",
@@ -308,7 +331,8 @@
 		"category": "expressions",
 		"path": "expr7",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_expr8",
@@ -319,7 +343,8 @@
 		"category": "expressions",
 		"path": "expr8",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_expr9",
@@ -330,7 +355,8 @@
 		"category": "expressions",
 		"path": "expr9",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_expr10",
@@ -341,7 +367,8 @@
 		"category": "expressions",
 		"path": "expr10",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_hair1",
@@ -407,7 +434,8 @@
 		"category": "wheelchairs",
 		"path": "wheelchair",
 		"cost": 0,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_dress1",
@@ -462,7 +490,8 @@
 		"category": "glasses",
 		"path": "glasses1",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_wizard_hat1",
@@ -484,7 +513,8 @@
 		"category": "masks",
 		"path": "mask1",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_wizard_wand",
@@ -506,7 +536,8 @@
 		"category": "hats",
 		"path": "party_hat_pink",
 		"cost": 0,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_party_hat_purple",
@@ -517,7 +548,8 @@
 		"category": "hats",
 		"path": "party_hat_purple",
 		"cost": 0,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "bundle_outfits_rabbit",
@@ -528,7 +560,8 @@
 		"path": "icon_onesie_rabbit_bundle.gif",
 		"cost": 60,
 		"hidden": true,
-		"items": "outfit_onesie_rabbit_white,outfit_onesie_rabbit_grey,outfit_onesie_rabbit_black,outfit_onesie_rabbit_brown"
+		"items": "outfit_onesie_rabbit_white,outfit_onesie_rabbit_grey,outfit_onesie_rabbit_black,outfit_onesie_rabbit_brown",
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_rabbit_white",
@@ -539,7 +572,8 @@
 		"category": "onesies",
 		"path": "onesie_rabbit_white",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_rabbit_grey",
@@ -550,7 +584,8 @@
 		"category": "onesies",
 		"path": "onesie_rabbit_grey",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_rabbit_black",
@@ -561,7 +596,8 @@
 		"category": "onesies",
 		"path": "onesie_rabbit_black",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_rabbit_brown",
@@ -572,7 +608,8 @@
 		"category": "onesies",
 		"path": "onesie_rabbit_brown",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_unicorn",
@@ -583,7 +620,8 @@
 		"category": "onesies",
 		"path": "onesie_unicorn",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_panda",
@@ -594,7 +632,8 @@
 		"category": "onesies",
 		"path": "onesie_panda",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "bundle_outfits_chick",
@@ -605,7 +644,8 @@
 		"path": "icon_onesie_chick_bundle.gif",
 		"cost": 40,
 		"hidden": true,
-		"items": "outfit_onesie_chick_brown,outfit_onesie_chick_yellow,outfit_onesie_chick_white"
+		"items": "outfit_onesie_chick_brown,outfit_onesie_chick_yellow,outfit_onesie_chick_white",
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_chick_brown",
@@ -616,7 +656,8 @@
 		"category": "onesies",
 		"path": "onesie_chick_brown",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_chick_yellow",
@@ -627,7 +668,8 @@
 		"category": "onesies",
 		"path": "onesie_chick_yellow",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_chick_white",
@@ -638,7 +680,8 @@
 		"category": "onesies",
 		"path": "onesie_chick_white",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "bundle_outfits_flower",
@@ -649,7 +692,8 @@
 		"path": "icon_onesie_flower_bundle.gif",
 		"cost": 40,
 		"hidden": true,
-		"items": "outfit_onesie_flower_bellflower,outfit_onesie_flower_calendula,outfit_onesie_flower_poppy"
+		"items": "outfit_onesie_flower_bellflower,outfit_onesie_flower_calendula,outfit_onesie_flower_poppy",
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_flower_bellflower",
@@ -660,7 +704,8 @@
 		"category": "onesies",
 		"path": "onesie_flower_bellflower",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_flower_calendula",
@@ -671,7 +716,8 @@
 		"category": "onesies",
 		"path": "onesie_flower_calendula",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_flower_poppy",
@@ -682,7 +728,8 @@
 		"category": "onesies",
 		"path": "onesie_flower_poppy",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "bundle_outfits_mushroom",
@@ -693,7 +740,8 @@
 		"path": "icon_onesie_mushroom_bundle.gif",
 		"cost": 60,
 		"hidden": true,
-		"items": "outfit_onesie_mushroom_amanita,outfit_onesie_mushroom_lotus,outfit_onesie_mushroom_nova,outfit_onesie_mushroom_tori,outfit_onesie_mushroom_twiglet"
+		"items": "outfit_onesie_mushroom_amanita,outfit_onesie_mushroom_lotus,outfit_onesie_mushroom_nova,outfit_onesie_mushroom_tori,outfit_onesie_mushroom_twiglet",
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_mushroom_amanita",
@@ -704,7 +752,8 @@
 		"category": "onesies",
 		"path": "onesie_mushroom_amanita",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_mushroom_lotus",
@@ -715,7 +764,8 @@
 		"category": "onesies",
 		"path": "onesie_mushroom_lotus",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_mushroom_nova",
@@ -726,7 +776,8 @@
 		"category": "onesies",
 		"path": "onesie_mushroom_nova",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_mushroom_tori",
@@ -737,7 +788,8 @@
 		"category": "onesies",
 		"path": "onesie_mushroom_tori",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_mushroom_twiglet",
@@ -748,7 +800,8 @@
 		"category": "onesies",
 		"path": "onesie_mushroom_twiglet",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "bundle_parachute_cake",
@@ -759,7 +812,8 @@
 		"path": "icon_cake_bundle.gif",
 		"cost": 30,
 		"hidden": true,
-		"items": "addon_parachute_cakeplush,addon_parachute_cakerainbow,addon_parachute_cakefruit,addon_parachute_cakechoco"
+		"items": "addon_parachute_cakeplush,addon_parachute_cakerainbow,addon_parachute_cakefruit,addon_parachute_cakechoco",
+		"beta": true
 	},
 	{
 		"id": "bundle_parachute_pool",

@@ -558,6 +558,7 @@
 		"name": "Fun Expressions Bundle",
 		"theme": "PixelPlush",
 		"type": "bundle",
+		"path": "expressions_icon.gif",
 		"cost": 20,
 		"hidden": true,
 		"items": "outfit_expr2,outfit_expr3,outfit_expr4,outfit_expr5,outfit_expr6,outfit_expr7,outfit_expr8,outfit_expr9,outfit_expr10"
@@ -568,6 +569,7 @@
 		"name": "Party Cakes Bundle (Parachute Drop)",
 		"theme": "PixelPlush",
 		"type": "bundle",
+		"path": "icon_cake_bundle.gif",
 		"cost": 20,
 		"hidden": true,
 		"items": "addon_parachute_cakeplush,addon_parachute_cakerainbow,addon_parachute_cakefruit,addon_parachute_cakechoco"

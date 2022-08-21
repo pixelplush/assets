@@ -16,9 +16,9 @@
 		"theme": "None",
 		"type": "pet",
 		"cost": 0,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 0,
-		"hidden": true
+		"maxIdle": 0
 	},
 	{
 		"id": "pet_fluffington",
@@ -29,9 +29,9 @@
 		"path": "fluffington",
 		"cost": 10000,
 		"subscription": "Instafluff",
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_rainbee_pink",
@@ -42,9 +42,9 @@
 		"path": "rainbee_pink",
 		"cost": 10000,
 		"subscription": "Maaya",
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "outfit_skin1",
@@ -175,6 +175,39 @@
 		"type": "body",
 		"category": "expressions",
 		"path": "expr7",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_expr8",
+		"group": "Expressions",
+		"name": "Expression 8",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "expressions",
+		"path": "expr8",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_expr9",
+		"group": "Expressions",
+		"name": "Expression 9",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "expressions",
+		"path": "expr9",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_expr10",
+		"group": "Expressions",
+		"name": "Expression 10",
+		"theme": "PixelPlush",
+		"type": "body",
+		"category": "expressions",
+		"path": "expr10",
 		"cost": 10,
 		"hidden": true
 	},
@@ -373,7 +406,7 @@
 		"type": "bundle",
 		"cost": 20,
 		"hidden": true,
-		"items": "outfit_expr2,outfit_expr3,outfit_expr4,outfit_expr5,outfit_expr6,outfit_expr7"
+		"items": "outfit_expr2,outfit_expr3,outfit_expr4,outfit_expr5,outfit_expr6,outfit_expr7,outfit_expr8,outfit_expr9,outfit_expr10"
 	},
 	{
 		"id": "bundle_parachute_cake",
@@ -600,9 +633,9 @@
 		"type": "pet",
 		"path": "yetchi_blue",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_yetchi_green",
@@ -612,9 +645,9 @@
 		"type": "pet",
 		"path": "yetchi_green",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_yetchi_orange",
@@ -624,9 +657,9 @@
 		"type": "pet",
 		"path": "yetchi_orange",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_yetchi_pink",
@@ -636,9 +669,9 @@
 		"type": "pet",
 		"path": "yetchi_pink",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_candycane_rainbow",
@@ -648,9 +681,9 @@
 		"type": "pet",
 		"path": "candycane_rainbow",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_candycane_blue",
@@ -660,9 +693,9 @@
 		"type": "pet",
 		"path": "candycane_blue",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_candycane_green",
@@ -672,9 +705,9 @@
 		"type": "pet",
 		"path": "candycane_green",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_candycane_orange",
@@ -684,9 +717,9 @@
 		"type": "pet",
 		"path": "candycane_orange",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_candycane_pink",
@@ -696,9 +729,9 @@
 		"type": "pet",
 		"path": "candycane_pink",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_candycane_purple",
@@ -708,9 +741,9 @@
 		"type": "pet",
 		"path": "candycane_purple",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_candycane_red",
@@ -720,9 +753,9 @@
 		"type": "pet",
 		"path": "candycane_red",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_candycane_turquoise",
@@ -732,9 +765,9 @@
 		"type": "pet",
 		"path": "candycane_turquoise",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_candycane_yellow",
@@ -744,9 +777,9 @@
 		"type": "pet",
 		"path": "candycane_yellow",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_pink_yellow",
@@ -756,9 +789,9 @@
 		"type": "pet",
 		"path": "gift_pink_yellow",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_yellow_orange",
@@ -768,9 +801,9 @@
 		"type": "pet",
 		"path": "gift_yellow_orange",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_gold",
@@ -780,9 +813,9 @@
 		"type": "pet",
 		"path": "gift_gold",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_silver",
@@ -792,9 +825,9 @@
 		"type": "pet",
 		"path": "gift_silver",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_rainbow",
@@ -804,9 +837,9 @@
 		"type": "pet",
 		"path": "gift_rainbow",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_black_gold",
@@ -816,9 +849,9 @@
 		"type": "pet",
 		"path": "gift_black_gold",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_black_silver",
@@ -828,9 +861,9 @@
 		"type": "pet",
 		"path": "gift_black_silver",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_blue_pink",
@@ -840,9 +873,9 @@
 		"type": "pet",
 		"path": "gift_blue_pink",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_blue_silver",
@@ -852,9 +885,9 @@
 		"type": "pet",
 		"path": "gift_blue_silver",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_blue_yellow",
@@ -864,9 +897,9 @@
 		"type": "pet",
 		"path": "gift_blue_yellow",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_brown_red",
@@ -876,9 +909,9 @@
 		"type": "pet",
 		"path": "gift_brown_red",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_dark_blue_green",
@@ -888,9 +921,9 @@
 		"type": "pet",
 		"path": "gift_dark_blue_green",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_green_blue_yellow",
@@ -900,9 +933,9 @@
 		"type": "pet",
 		"path": "gift_green_blue_yellow",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_green_green",
@@ -912,9 +945,9 @@
 		"type": "pet",
 		"path": "gift_green_green",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_green_purple",
@@ -924,9 +957,9 @@
 		"type": "pet",
 		"path": "gift_green_purple",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_lightbrown_red",
@@ -936,9 +969,9 @@
 		"type": "pet",
 		"path": "gift_lightbrown_red",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_pink_silver",
@@ -948,9 +981,9 @@
 		"type": "pet",
 		"path": "gift_pink_silver",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_purple_pink_teal",
@@ -960,9 +993,9 @@
 		"type": "pet",
 		"path": "gift_purple_pink_teal",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_purple_red",
@@ -972,9 +1005,9 @@
 		"type": "pet",
 		"path": "gift_purple_red",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_purple_silver",
@@ -984,9 +1017,9 @@
 		"type": "pet",
 		"path": "gift_purple_silver",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_purple_teal",
@@ -996,9 +1029,9 @@
 		"type": "pet",
 		"path": "gift_purple_teal",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_purple_white",
@@ -1008,9 +1041,9 @@
 		"type": "pet",
 		"path": "gift_purple_white",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_purple_yellow",
@@ -1020,9 +1053,9 @@
 		"type": "pet",
 		"path": "gift_purple_yellow",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_red_white",
@@ -1032,9 +1065,9 @@
 		"type": "pet",
 		"path": "gift_red_white",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_red_yellow",
@@ -1044,9 +1077,9 @@
 		"type": "pet",
 		"path": "gift_red_yellow",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_teal_pink",
@@ -1056,9 +1089,9 @@
 		"type": "pet",
 		"path": "gift_teal_pink",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_gift_white_black",
@@ -1068,9 +1101,9 @@
 		"type": "pet",
 		"path": "gift_white_black",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_penguin",
@@ -1080,9 +1113,9 @@
 		"type": "pet",
 		"path": "penguin",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_snowball",
@@ -1092,9 +1125,9 @@
 		"type": "pet",
 		"path": "snowball",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "santa",
@@ -1165,9 +1198,9 @@
 		"type": "pet",
 		"path": "pumpkin",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_pumpkin_white",
@@ -1178,9 +1211,9 @@
 		"type": "pet",
 		"path": "pumpkin_white",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_pumpkin_green",
@@ -1191,9 +1224,9 @@
 		"type": "pet",
 		"path": "pumpkin_green",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pumpkin_man",
@@ -1213,9 +1246,9 @@
 		"type": "pet",
 		"path": "ghost_white",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_ghost_red",
@@ -1225,9 +1258,9 @@
 		"type": "pet",
 		"path": "ghost_red",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_ghost_pink",
@@ -1237,9 +1270,9 @@
 		"type": "pet",
 		"path": "ghost_pink",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_ghost_orange",
@@ -1249,9 +1282,9 @@
 		"type": "pet",
 		"path": "ghost_orange",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_ghost_yellow",
@@ -1261,9 +1294,9 @@
 		"type": "pet",
 		"path": "ghost_yellow",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_ghost_green",
@@ -1273,9 +1306,9 @@
 		"type": "pet",
 		"path": "ghost_green",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_ghost_blue",
@@ -1285,9 +1318,9 @@
 		"type": "pet",
 		"path": "ghost_blue",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_ghost_purple",
@@ -1297,9 +1330,9 @@
 		"type": "pet",
 		"path": "ghost_purple",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_donut_chocolate",
@@ -1549,9 +1582,9 @@
 		"type": "pet",
 		"path": "butterfly_rainbow1",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 0,
-		"hidden": true
+		"maxIdle": 0
 	},
 	{
 		"id": "pet_butterfly_rainbow2",
@@ -1561,9 +1594,9 @@
 		"type": "pet",
 		"path": "butterfly_rainbow2",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 0,
-		"hidden": true
+		"maxIdle": 0
 	},
 	{
 		"id": "pet_butterfly_rainbow3",
@@ -1573,9 +1606,9 @@
 		"type": "pet",
 		"path": "butterfly_rainbow3",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 0,
-		"hidden": true
+		"maxIdle": 0
 	},
 	{
 		"id": "onesie_unicorn",
@@ -2238,9 +2271,9 @@
 		"type": "pet",
 		"path": "firefly_halloween",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 0,
-		"hidden": true
+		"maxIdle": 0
 	},
 	{
 		"id": "amanita",
@@ -2260,9 +2293,9 @@
 		"type": "pet",
 		"path": "ammy",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "twiglet",
@@ -2282,9 +2315,9 @@
 		"type": "pet",
 		"path": "twiggy",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "lotus",
@@ -2427,9 +2460,9 @@
 		"type": "pet",
 		"path": "hedgehog2",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_hedgehog1",
@@ -2439,9 +2472,9 @@
 		"type": "pet",
 		"path": "hedgehog1",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_bee",
@@ -2462,9 +2495,9 @@
 		"type": "pet",
 		"path": "tortoise2",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_tortoise",
@@ -2474,9 +2507,9 @@
 		"type": "pet",
 		"path": "tortoise",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
-		"maxIdle": 800,
-		"hidden": true
+		"maxIdle": 800
 	},
 	{
 		"id": "pet_balloon_blue",
@@ -2563,9 +2596,9 @@
 		"type": "pet",
 		"path": "balloon_purple",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
-		"maxIdle": 200,
-		"hidden": true
+		"maxIdle": 200
 	},
 	{
 		"id": "pet_balloon_rainbow",

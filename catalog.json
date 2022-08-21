@@ -231,7 +231,7 @@
 		"group": "Dress",
 		"name": "Dress",
 		"theme": "PixelPlush",
-		"type": "outfits",
+		"type": "outfit",
 		"path": "dress1",
 		"cost": 20,
 		"hidden": true
@@ -241,7 +241,7 @@
 		"group": "Dress",
 		"name": "Wizard Robe",
 		"theme": "Magic",
-		"type": "outfits",
+		"type": "outfit",
 		"path": "wizard_robe1",
 		"cost": 20,
 		"hidden": true
@@ -251,7 +251,7 @@
 		"group": "Pants",
 		"name": "Pants",
 		"theme": "PixelPlush",
-		"type": "outfits",
+		"type": "outfit",
 		"path": "pants1",
 		"cost": 10,
 		"hidden": true
@@ -261,7 +261,7 @@
 		"group": "Shirt",
 		"name": "Shirt",
 		"theme": "PixelPlush",
-		"type": "outfits",
+		"type": "outfit",
 		"path": "shirt1",
 		"cost": 10,
 		"hidden": true
@@ -271,7 +271,7 @@
 		"group": "Glasses",
 		"name": "Glasses",
 		"theme": "PixelPlush",
-		"type": "accessories",
+		"type": "accessory",
 		"path": "glasses1",
 		"cost": 10,
 		"hidden": true
@@ -281,7 +281,7 @@
 		"group": "Hat",
 		"name": "Wizard Hat",
 		"theme": "Magic",
-		"type": "accessories",
+		"type": "accessory",
 		"path": "wizard_hat1",
 		"cost": 10,
 		"hidden": true
@@ -291,7 +291,7 @@
 		"group": "Mask",
 		"name": "Mask",
 		"theme": "PixelPlush",
-		"type": "accessories",
+		"type": "accessory",
 		"path": "mask1",
 		"cost": 10,
 		"hidden": true
@@ -301,7 +301,7 @@
 		"group": "Tool",
 		"name": "Wizard Wand",
 		"theme": "Magic",
-		"type": "accessories",
+		"type": "accessory",
 		"path": "wizard_wand",
 		"cost": 10,
 		"hidden": true
@@ -311,7 +311,7 @@
 		"group": "Hat",
 		"name": "Party Hat (Pink)",
 		"theme": "PixelPlush",
-		"type": "accessories",
+		"type": "accessory",
 		"path": "party_hat_pink",
 		"cost": 10,
 		"hidden": true
@@ -321,7 +321,7 @@
 		"group": "Hat",
 		"name": "Party Hat (Purple)",
 		"theme": "PixelPlush",
-		"type": "accessories",
+		"type": "accessory",
 		"path": "party_hat_purple",
 		"cost": 10,
 		"hidden": true
@@ -331,7 +331,7 @@
 		"group": "Onesie",
 		"name": "Rabbit Onesie",
 		"theme": "Easter",
-		"type": "outfits",
+		"type": "outfit",
 		"path": "onesie_rabbit_white",
 		"cost": 20,
 		"hidden": true

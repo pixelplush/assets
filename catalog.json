@@ -366,6 +366,16 @@
 		"hidden": true
 	},
 	{
+		"id": "bundle_outfits_expressions",
+		"group": "Expressions",
+		"name": "Fun Expressions Bundle",
+		"theme": "PixelPlush",
+		"type": "bundle",
+		"cost": 20,
+		"hidden": true,
+		"items": "outfit_expr2,outfit_expr3,outfit_expr4,outfit_expr5,outfit_expr6,outfit_expr7"
+	},
+	{
 		"id": "bundle_parachute_cake",
 		"group": "Parachute Drop",
 		"name": "Party Cakes Bundle (Parachute Drop)",

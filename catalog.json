@@ -47,6 +47,296 @@
 		"hidden": true
 	},
 	{
+		"id": "outfit_skin1",
+		"group": "Skintones",
+		"name": "Tone 1",
+		"theme": "PixelPlush",
+		"type": "body",
+		"path": "skin1",
+		"cost": 0,
+		"hidden": true
+	},
+	{
+		"id": "outfit_skin2",
+		"group": "Skintones",
+		"name": "Tone 2",
+		"theme": "PixelPlush",
+		"type": "body",
+		"path": "skin2",
+		"cost": 0,
+		"hidden": true
+	},
+	{
+		"id": "outfit_skin3",
+		"group": "Skintones",
+		"name": "Tone 3",
+		"theme": "PixelPlush",
+		"type": "body",
+		"path": "skin3",
+		"cost": 0,
+		"hidden": true
+	},
+	{
+		"id": "outfit_skin4",
+		"group": "Skintones",
+		"name": "Tone 4",
+		"theme": "PixelPlush",
+		"type": "body",
+		"path": "skin4",
+		"cost": 0,
+		"hidden": true
+	},
+	{
+		"id": "outfit_skin5",
+		"group": "Skintones",
+		"name": "Tone 5",
+		"theme": "PixelPlush",
+		"type": "body",
+		"path": "skin5",
+		"cost": 0,
+		"hidden": true
+	},
+	{
+		"id": "outfit_expr1",
+		"group": "Expressions",
+		"name": "Expression 1",
+		"theme": "PixelPlush",
+		"type": "body",
+		"path": "expr1",
+		"cost": 0,
+		"hidden": true
+	},
+	{
+		"id": "outfit_expr2",
+		"group": "Expressions",
+		"name": "Expression 2",
+		"theme": "PixelPlush",
+		"type": "body",
+		"path": "expr2",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_expr3",
+		"group": "Expressions",
+		"name": "Expression 3",
+		"theme": "PixelPlush",
+		"type": "body",
+		"path": "expr3",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_expr4",
+		"group": "Expressions",
+		"name": "Expression 4",
+		"theme": "PixelPlush",
+		"type": "body",
+		"path": "expr4",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_expr5",
+		"group": "Expressions",
+		"name": "Expression 5",
+		"theme": "PixelPlush",
+		"type": "body",
+		"path": "expr5",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_expr6",
+		"group": "Expressions",
+		"name": "Expression 6",
+		"theme": "PixelPlush",
+		"type": "body",
+		"path": "expr6",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_expr7",
+		"group": "Expressions",
+		"name": "Expression 7",
+		"theme": "PixelPlush",
+		"type": "body",
+		"path": "expr7",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_hair1",
+		"group": "Hair",
+		"name": "Hair 1",
+		"theme": "PixelPlush",
+		"type": "body",
+		"path": "hair1",
+		"cost": 0,
+		"hidden": true
+	},
+	{
+		"id": "outfit_hair2",
+		"group": "Hair",
+		"name": "Hair 2",
+		"theme": "PixelPlush",
+		"type": "body",
+		"path": "hair2",
+		"cost": 5,
+		"hidden": true
+	},
+	{
+		"id": "outfit_hair3",
+		"group": "Hair",
+		"name": "Hair 3",
+		"theme": "PixelPlush",
+		"type": "body",
+		"path": "hair3",
+		"cost": 5,
+		"hidden": true
+	},
+	{
+		"id": "outfit_hair4",
+		"group": "Hair",
+		"name": "Hair 4",
+		"theme": "PixelPlush",
+		"type": "body",
+		"path": "hair4",
+		"cost": 5,
+		"hidden": true
+	},
+	{
+		"id": "outfit_hair5",
+		"group": "Hair",
+		"name": "Hair 5",
+		"theme": "PixelPlush",
+		"type": "body",
+		"path": "hair5",
+		"cost": 5,
+		"hidden": true
+	},
+	{
+		"id": "outfit_wheelchair",
+		"group": "Wheelchair",
+		"name": "Wheelchair",
+		"theme": "PixelPlush",
+		"type": "equipment",
+		"path": "wheelchair",
+		"cost": 0,
+		"hidden": true
+	},
+	{
+		"id": "outfit_dress1",
+		"group": "Dress",
+		"name": "Dress",
+		"theme": "PixelPlush",
+		"type": "outfits",
+		"path": "dress1",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "outfit_wizard_robe1",
+		"group": "Dress",
+		"name": "Wizard Robe",
+		"theme": "Magic",
+		"type": "outfits",
+		"path": "wizard_robe1",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "outfit_pants1",
+		"group": "Pants",
+		"name": "Pants",
+		"theme": "PixelPlush",
+		"type": "outfits",
+		"path": "pants1",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_shirt1",
+		"group": "Shirt",
+		"name": "Shirt",
+		"theme": "PixelPlush",
+		"type": "outfits",
+		"path": "shirt1",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_glasses1",
+		"group": "Glasses",
+		"name": "Glasses",
+		"theme": "PixelPlush",
+		"type": "accessories",
+		"path": "glasses1",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_wizard_hat1",
+		"group": "Hat",
+		"name": "Wizard Hat",
+		"theme": "Magic",
+		"type": "accessories",
+		"path": "wizard_hat1",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_mask1",
+		"group": "Mask",
+		"name": "Mask",
+		"theme": "PixelPlush",
+		"type": "accessories",
+		"path": "mask1",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_wizard_wand",
+		"group": "Tool",
+		"name": "Wizard Wand",
+		"theme": "Magic",
+		"type": "accessories",
+		"path": "wizard_wand",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_party_hat_pink",
+		"group": "Hat",
+		"name": "Party Hat (Pink)",
+		"theme": "PixelPlush",
+		"type": "accessories",
+		"path": "party_hat_pink",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_party_hat_purple",
+		"group": "Hat",
+		"name": "Party Hat (Purple)",
+		"theme": "PixelPlush",
+		"type": "accessories",
+		"path": "party_hat_purple",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_onesie_rabbit_white",
+		"group": "Onesie",
+		"name": "Rabbit Onesie",
+		"theme": "Easter",
+		"type": "outfits",
+		"path": "onesie_rabbit_white",
+		"cost": 20,
+		"hidden": true
+	},
+	{
 		"id": "bundle_parachute_cake",
 		"group": "Parachute Drop",
 		"name": "Party Cakes Bundle (Parachute Drop)",

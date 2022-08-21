@@ -49,7 +49,7 @@
 	{
 		"id": "outfit_skin1",
 		"group": "Skintones",
-		"name": "Tone 1",
+		"name": "Body 1",
 		"theme": "PixelPlush",
 		"type": "body",
 		"category": "skintones",
@@ -60,7 +60,7 @@
 	{
 		"id": "outfit_skin2",
 		"group": "Skintones",
-		"name": "Tone 2",
+		"name": "Body 2",
 		"theme": "PixelPlush",
 		"type": "body",
 		"category": "skintones",
@@ -71,7 +71,7 @@
 	{
 		"id": "outfit_skin3",
 		"group": "Skintones",
-		"name": "Tone 3",
+		"name": "Body 3",
 		"theme": "PixelPlush",
 		"type": "body",
 		"category": "skintones",
@@ -82,7 +82,7 @@
 	{
 		"id": "outfit_skin4",
 		"group": "Skintones",
-		"name": "Tone 4",
+		"name": "Body 4",
 		"theme": "PixelPlush",
 		"type": "body",
 		"category": "skintones",
@@ -93,7 +93,7 @@
 	{
 		"id": "outfit_skin5",
 		"group": "Skintones",
-		"name": "Tone 5",
+		"name": "Body 5",
 		"theme": "PixelPlush",
 		"type": "body",
 		"category": "skintones",

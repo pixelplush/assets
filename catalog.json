@@ -54,9 +54,7 @@
 		"type": "bundle",
 		"path": "skin_icon_normal.gif",
 		"cost": 0,
-		"hidden": true,
-		"items": "outfit_skin1,outfit_skin2,outfit_skin3,outfit_skin4,outfit_skin5,outfit_skin6,outfit_skin7",
-		"beta": true
+		"items": "outfit_skin1,outfit_skin2,outfit_skin3,outfit_skin4,outfit_skin5,outfit_skin6,outfit_skin7"
 	},
 	{
 		"id": "outfit_skin1",
@@ -66,9 +64,7 @@
 		"type": "body",
 		"category": "skintones",
 		"path": "skin1",
-		"cost": 0,
-		"hidden": true,
-		"beta": true
+		"cost": 0
 	},
 	{
 		"id": "outfit_skin2",
@@ -78,9 +74,7 @@
 		"type": "body",
 		"category": "skintones",
 		"path": "skin2",
-		"cost": 0,
-		"hidden": true,
-		"beta": true
+		"cost": 0
 	},
 	{
 		"id": "outfit_skin3",
@@ -90,9 +84,7 @@
 		"type": "body",
 		"category": "skintones",
 		"path": "skin3",
-		"cost": 0,
-		"hidden": true,
-		"beta": true
+		"cost": 0
 	},
 	{
 		"id": "outfit_skin4",
@@ -102,9 +94,7 @@
 		"type": "body",
 		"category": "skintones",
 		"path": "skin4",
-		"cost": 0,
-		"hidden": true,
-		"beta": true
+		"cost": 0
 	},
 	{
 		"id": "outfit_skin5",
@@ -114,9 +104,7 @@
 		"type": "body",
 		"category": "skintones",
 		"path": "skin5",
-		"cost": 0,
-		"hidden": true,
-		"beta": true
+		"cost": 0
 	},
 	{
 		"id": "outfit_skin6",
@@ -126,9 +114,7 @@
 		"type": "body",
 		"category": "skintones",
 		"path": "skin6",
-		"cost": 0,
-		"hidden": true,
-		"beta": true
+		"cost": 0
 	},
 	{
 		"id": "outfit_skin7",
@@ -138,9 +124,7 @@
 		"type": "body",
 		"category": "skintones",
 		"path": "skin7",
-		"cost": 0,
-		"hidden": true,
-		"beta": true
+		"cost": 0
 	},
 	{
 		"id": "bundle_outfits_fantasyskins",
@@ -149,10 +133,8 @@
 		"theme": "PixelPlush",
 		"type": "bundle",
 		"path": "skin_icon_fantasy.gif",
-		"cost": 40,
-		"hidden": true,
-		"items": "outfit_skin_f1,outfit_skin_f2,outfit_skin_f3,outfit_skin_f4,outfit_skin_f5,outfit_skin_f6,outfit_skin_f7",
-		"beta": true
+		"cost": 50,
+		"items": "outfit_skin_f1,outfit_skin_f2,outfit_skin_f3,outfit_skin_f4,outfit_skin_f5,outfit_skin_f6,outfit_skin_f7"
 	},
 	{
 		"id": "outfit_skin_f1",
@@ -162,9 +144,7 @@
 		"type": "body",
 		"category": "skintones",
 		"path": "skin_f1",
-		"cost": 10,
-		"hidden": true,
-		"beta": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_skin_f2",
@@ -174,9 +154,7 @@
 		"type": "body",
 		"category": "skintones",
 		"path": "skin_f2",
-		"cost": 10,
-		"hidden": true,
-		"beta": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_skin_f3",
@@ -186,9 +164,7 @@
 		"type": "body",
 		"category": "skintones",
 		"path": "skin_f3",
-		"cost": 10,
-		"hidden": true,
-		"beta": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_skin_f4",
@@ -198,9 +174,7 @@
 		"type": "body",
 		"category": "skintones",
 		"path": "skin_f4",
-		"cost": 10,
-		"hidden": true,
-		"beta": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_skin_f5",
@@ -210,9 +184,7 @@
 		"type": "body",
 		"category": "skintones",
 		"path": "skin_f5",
-		"cost": 10,
-		"hidden": true,
-		"beta": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_skin_f6",
@@ -222,9 +194,7 @@
 		"type": "body",
 		"category": "skintones",
 		"path": "skin_f6",
-		"cost": 10,
-		"hidden": true,
-		"beta": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_skin_f7",
@@ -234,9 +204,7 @@
 		"type": "body",
 		"category": "skintones",
 		"path": "skin_f7",
-		"cost": 10,
-		"hidden": true,
-		"beta": true
+		"cost": 10
 	},
 	{
 		"id": "bundle_outfits_expressions",
@@ -245,10 +213,8 @@
 		"theme": "PixelPlush",
 		"type": "bundle",
 		"path": "expressions_icon.gif",
-		"cost": 40,
-		"hidden": true,
-		"items": "outfit_expr2,outfit_expr3,outfit_expr4,outfit_expr5,outfit_expr6,outfit_expr7,outfit_expr8,outfit_expr9,outfit_expr10",
-		"beta": true
+		"cost": 60,
+		"items": "outfit_expr2,outfit_expr3,outfit_expr4,outfit_expr5,outfit_expr6,outfit_expr7,outfit_expr8,outfit_expr9,outfit_expr10"
 	},
 	{
 		"id": "outfit_expr1",
@@ -258,9 +224,7 @@
 		"type": "body",
 		"category": "expressions",
 		"path": "expr1",
-		"cost": 0,
-		"hidden": true,
-		"beta": true
+		"cost": 0
 	},
 	{
 		"id": "outfit_expr2",
@@ -270,9 +234,7 @@
 		"type": "body",
 		"category": "expressions",
 		"path": "expr2",
-		"cost": 10,
-		"hidden": true,
-		"beta": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_expr3",
@@ -282,9 +244,7 @@
 		"type": "body",
 		"category": "expressions",
 		"path": "expr3",
-		"cost": 10,
-		"hidden": true,
-		"beta": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_expr4",
@@ -294,9 +254,7 @@
 		"type": "body",
 		"category": "expressions",
 		"path": "expr4",
-		"cost": 10,
-		"hidden": true,
-		"beta": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_expr5",
@@ -306,9 +264,7 @@
 		"type": "body",
 		"category": "expressions",
 		"path": "expr5",
-		"cost": 10,
-		"hidden": true,
-		"beta": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_expr6",
@@ -318,9 +274,7 @@
 		"type": "body",
 		"category": "expressions",
 		"path": "expr6",
-		"cost": 10,
-		"hidden": true,
-		"beta": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_expr7",
@@ -330,9 +284,7 @@
 		"type": "body",
 		"category": "expressions",
 		"path": "expr7",
-		"cost": 10,
-		"hidden": true,
-		"beta": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_expr8",
@@ -342,9 +294,7 @@
 		"type": "body",
 		"category": "expressions",
 		"path": "expr8",
-		"cost": 10,
-		"hidden": true,
-		"beta": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_expr9",
@@ -354,9 +304,7 @@
 		"type": "body",
 		"category": "expressions",
 		"path": "expr9",
-		"cost": 10,
-		"hidden": true,
-		"beta": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_expr10",
@@ -366,9 +314,7 @@
 		"type": "body",
 		"category": "expressions",
 		"path": "expr10",
-		"cost": 10,
-		"hidden": true,
-		"beta": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_hair1",
@@ -433,9 +379,7 @@
 		"type": "equipment",
 		"category": "wheelchairs",
 		"path": "wheelchair",
-		"cost": 0,
-		"hidden": true,
-		"beta": true
+		"cost": 0
 	},
 	{
 		"id": "outfit_dress1",
@@ -489,9 +433,7 @@
 		"type": "accessory",
 		"category": "glasses",
 		"path": "glasses1",
-		"cost": 10,
-		"hidden": true,
-		"beta": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_wizard_hat1",
@@ -512,9 +454,7 @@
 		"type": "accessory",
 		"category": "masks",
 		"path": "mask1",
-		"cost": 10,
-		"hidden": true,
-		"beta": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_wizard_wand",
@@ -535,9 +475,7 @@
 		"type": "accessory",
 		"category": "hats",
 		"path": "party_hat_pink",
-		"cost": 0,
-		"hidden": true,
-		"beta": true
+		"cost": 0
 	},
 	{
 		"id": "outfit_party_hat_purple",
@@ -547,9 +485,17 @@
 		"type": "accessory",
 		"category": "hats",
 		"path": "party_hat_purple",
-		"cost": 0,
-		"hidden": true,
-		"beta": true
+		"cost": 0
+	},
+	{
+		"id": "outfit_onesie_swimsuit",
+		"group": "Onesie",
+		"name": "Swimwear (Black)",
+		"theme": "Summer",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "swimwear_black",
+		"cost": 0
 	},
 	{
 		"id": "bundle_outfits_rabbit",
@@ -559,61 +505,51 @@
 		"type": "bundle",
 		"path": "icon_onesie_rabbit_bundle.gif",
 		"cost": 60,
-		"hidden": true,
-		"items": "outfit_onesie_rabbit_white,outfit_onesie_rabbit_grey,outfit_onesie_rabbit_black,outfit_onesie_rabbit_brown",
-		"beta": true
+		"items": "outfit_onesie_rabbit_white,outfit_onesie_rabbit_grey,outfit_onesie_rabbit_black,outfit_onesie_rabbit_brown"
 	},
 	{
 		"id": "outfit_onesie_rabbit_white",
 		"group": "Onesie",
-		"name": "White Rabbit Onesie",
+		"name": "Snowy Onesie",
 		"theme": "Easter",
 		"type": "outfit",
 		"category": "onesies",
 		"path": "onesie_rabbit_white",
 		"cost": 20,
-		"hidden": true,
-		"character": "rabbit_onesie_white",
-		"beta": true
+		"character": "rabbit_onesie_white"
 	},
 	{
 		"id": "outfit_onesie_rabbit_grey",
 		"group": "Onesie",
-		"name": "Grey Rabbit Onesie",
+		"name": "Chevy Onesie",
 		"theme": "Easter",
 		"type": "outfit",
 		"category": "onesies",
 		"path": "onesie_rabbit_grey",
 		"cost": 20,
-		"hidden": true,
-		"character": "rabbit_onesie_grey",
-		"beta": true
+		"character": "rabbit_onesie_grey"
 	},
 	{
 		"id": "outfit_onesie_rabbit_black",
 		"group": "Onesie",
-		"name": "Black Rabbit Onesie",
+		"name": "Buzz Onesie",
 		"theme": "Easter",
 		"type": "outfit",
 		"category": "onesies",
 		"path": "onesie_rabbit_black",
 		"cost": 20,
-		"hidden": true,
-		"character": "rabbit_onesie_black",
-		"beta": true
+		"character": "rabbit_onesie_black"
 	},
 	{
 		"id": "outfit_onesie_rabbit_brown",
 		"group": "Onesie",
-		"name": "Brown Rabbit Onesie",
+		"name": "Whisky Onesie",
 		"theme": "Easter",
 		"type": "outfit",
 		"category": "onesies",
 		"path": "onesie_rabbit_brown",
 		"cost": 20,
-		"hidden": true,
-		"character": "rabbit",
-		"beta": true
+		"character": "rabbit"
 	},
 	{
 		"id": "outfit_onesie_unicorn",
@@ -624,9 +560,7 @@
 		"category": "onesies",
 		"path": "onesie_unicorn",
 		"cost": 20,
-		"hidden": true,
-		"character": "onesie_unicorn",
-		"beta": true
+		"character": "onesie_unicorn"
 	},
 	{
 		"id": "outfit_onesie_panda",
@@ -636,9 +570,7 @@
 		"type": "outfit",
 		"category": "onesies",
 		"path": "onesie_panda",
-		"cost": 20,
-		"hidden": true,
-		"beta": true
+		"cost": 20
 	},
 	{
 		"id": "bundle_outfits_chick",
@@ -648,46 +580,38 @@
 		"type": "bundle",
 		"path": "icon_onesie_chick_bundle.gif",
 		"cost": 40,
-		"hidden": true,
-		"items": "outfit_onesie_chick_brown,outfit_onesie_chick_yellow,outfit_onesie_chick_white",
-		"beta": true
+		"items": "outfit_onesie_chick_brown,outfit_onesie_chick_yellow,outfit_onesie_chick_white"
 	},
 	{
 		"id": "outfit_onesie_chick_brown",
 		"group": "Onesie",
-		"name": "Brown Chick Onesie",
+		"name": "Amilia Onesie",
 		"theme": "Easter",
 		"type": "outfit",
 		"category": "onesies",
 		"path": "onesie_chick_brown",
-		"cost": 20,
-		"hidden": true,
-		"beta": true
+		"cost": 20
 	},
 	{
 		"id": "outfit_onesie_chick_yellow",
 		"group": "Onesie",
-		"name": "Yellow Chick Onesie",
+		"name": "Cleo Onesie",
 		"theme": "Easter",
 		"type": "outfit",
 		"category": "onesies",
 		"path": "onesie_chick_yellow",
 		"cost": 20,
-		"hidden": true,
-		"character": "chick",
-		"beta": true
+		"character": "chick"
 	},
 	{
 		"id": "outfit_onesie_chick_white",
 		"group": "Onesie",
-		"name": "White Chick Onesie",
+		"name": "Ethel Onesie",
 		"theme": "Easter",
 		"type": "outfit",
 		"category": "onesies",
 		"path": "onesie_chick_white",
-		"cost": 20,
-		"hidden": true,
-		"beta": true
+		"cost": 20
 	},
 	{
 		"id": "bundle_outfits_flower",
@@ -697,9 +621,7 @@
 		"type": "bundle",
 		"path": "icon_onesie_flower_bundle.gif",
 		"cost": 40,
-		"hidden": true,
-		"items": "outfit_onesie_flower_bellflower,outfit_onesie_flower_calendula,outfit_onesie_flower_poppy",
-		"beta": true
+		"items": "outfit_onesie_flower_bellflower,outfit_onesie_flower_calendula,outfit_onesie_flower_poppy"
 	},
 	{
 		"id": "outfit_onesie_flower_bellflower",
@@ -710,9 +632,7 @@
 		"category": "onesies",
 		"path": "onesie_flower_bellflower",
 		"cost": 20,
-		"hidden": true,
-		"character": "bellflower",
-		"beta": true
+		"character": "bellflower"
 	},
 	{
 		"id": "outfit_onesie_flower_calendula",
@@ -723,9 +643,7 @@
 		"category": "onesies",
 		"path": "onesie_flower_calendula",
 		"cost": 20,
-		"hidden": true,
-		"character": "calendula",
-		"beta": true
+		"character": "calendula"
 	},
 	{
 		"id": "outfit_onesie_flower_poppy",
@@ -736,9 +654,7 @@
 		"category": "onesies",
 		"path": "onesie_flower_poppy",
 		"cost": 20,
-		"hidden": true,
-		"character": "poppy",
-		"beta": true
+		"character": "poppy"
 	},
 	{
 		"id": "bundle_outfits_mushroom",
@@ -748,9 +664,7 @@
 		"type": "bundle",
 		"path": "icon_onesie_mushroom_bundle.gif",
 		"cost": 60,
-		"hidden": true,
-		"items": "outfit_onesie_mushroom_amanita,outfit_onesie_mushroom_lotus,outfit_onesie_mushroom_nova,outfit_onesie_mushroom_tori,outfit_onesie_mushroom_twiglet",
-		"beta": true
+		"items": "outfit_onesie_mushroom_amanita,outfit_onesie_mushroom_lotus,outfit_onesie_mushroom_nova,outfit_onesie_mushroom_tori,outfit_onesie_mushroom_twiglet"
 	},
 	{
 		"id": "outfit_onesie_mushroom_amanita",
@@ -761,9 +675,7 @@
 		"category": "onesies",
 		"path": "onesie_mushroom_amanita",
 		"cost": 20,
-		"hidden": true,
-		"character": "amanita",
-		"beta": true
+		"character": "amanita"
 	},
 	{
 		"id": "outfit_onesie_mushroom_lotus",
@@ -774,9 +686,7 @@
 		"category": "onesies",
 		"path": "onesie_mushroom_lotus",
 		"cost": 20,
-		"hidden": true,
-		"character": "lotus",
-		"beta": true
+		"character": "lotus"
 	},
 	{
 		"id": "outfit_onesie_mushroom_nova",
@@ -787,9 +697,7 @@
 		"category": "onesies",
 		"path": "onesie_mushroom_nova",
 		"cost": 20,
-		"hidden": true,
-		"character": "nova",
-		"beta": true
+		"character": "nova"
 	},
 	{
 		"id": "outfit_onesie_mushroom_tori",
@@ -800,9 +708,7 @@
 		"category": "onesies",
 		"path": "onesie_mushroom_tori",
 		"cost": 20,
-		"hidden": true,
-		"character": "tori",
-		"beta": true
+		"character": "tori"
 	},
 	{
 		"id": "outfit_onesie_mushroom_twiglet",
@@ -813,9 +719,7 @@
 		"category": "onesies",
 		"path": "onesie_mushroom_twiglet",
 		"cost": 20,
-		"hidden": true,
-		"character": "twiglet",
-		"beta": true
+		"character": "twiglet"
 	},
 	{
 		"id": "bundle_parachute_cake",
@@ -825,9 +729,7 @@
 		"type": "bundle",
 		"path": "icon_cake_bundle.gif",
 		"cost": 30,
-		"hidden": true,
-		"items": "addon_parachute_cakeplush,addon_parachute_cakerainbow,addon_parachute_cakefruit,addon_parachute_cakechoco",
-		"beta": true
+		"items": "addon_parachute_cakeplush,addon_parachute_cakerainbow,addon_parachute_cakefruit,addon_parachute_cakechoco"
 	},
 	{
 		"id": "bundle_parachute_pool",
@@ -938,7 +840,8 @@
 		"theme": "Spring",
 		"type": "character",
 		"path": "rabbit_onesie_black",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "rabbit_onesie_grey",
@@ -947,7 +850,8 @@
 		"theme": "Spring",
 		"type": "character",
 		"path": "rabbit_onesie_grey",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "rabbit_onesie_white",
@@ -956,7 +860,8 @@
 		"theme": "Spring",
 		"type": "character",
 		"path": "rabbit_onesie_white",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "pet_pepper",
@@ -2028,7 +1933,8 @@
 		"theme": "Magic",
 		"type": "character",
 		"path": "onesie_unicorn",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "pet_egg_rainbow",
@@ -2422,7 +2328,8 @@
 		"theme": "Easter",
 		"type": "character",
 		"path": "chick",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "rabbit",
@@ -2431,7 +2338,8 @@
 		"theme": "Easter",
 		"type": "character",
 		"path": "rabbit",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "pet_butterfly_vanessa",
@@ -2616,7 +2524,8 @@
 		"theme": "Spring",
 		"type": "character",
 		"path": "bellflower",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "calendula",
@@ -2625,7 +2534,8 @@
 		"theme": "Spring",
 		"type": "character",
 		"path": "calendula",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "poppy",
@@ -2634,7 +2544,8 @@
 		"theme": "Spring",
 		"type": "character",
 		"path": "poppy",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "boybear",
@@ -2704,7 +2615,6 @@
 		"type": "pet",
 		"path": "ammy",
 		"cost": 40,
-		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2726,7 +2636,6 @@
 		"type": "pet",
 		"path": "twiggy",
 		"cost": 40,
-		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2737,7 +2646,8 @@
 		"theme": "Fairy",
 		"type": "character",
 		"path": "mushroom_man_pink",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "tori",
@@ -2746,7 +2656,8 @@
 		"theme": "Fairy",
 		"type": "character",
 		"path": "mushroom_man_green",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "koral",
@@ -2773,7 +2684,8 @@
 		"theme": "Fairy",
 		"type": "character",
 		"path": "mushroom_man_purple",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "pet_kodo",

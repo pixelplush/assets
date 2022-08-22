@@ -365,7 +365,7 @@
 	{
 		"id": "outfit_onesie_rabbit_white",
 		"group": "Onesie",
-		"name": "White Rabbit Onesie",
+		"name": "Snowy Onesie",
 		"theme": "Easter",
 		"type": "outfit",
 		"category": "onesies",
@@ -377,7 +377,7 @@
 	{
 		"id": "outfit_onesie_rabbit_grey",
 		"group": "Onesie",
-		"name": "Grey Rabbit Onesie",
+		"name": "Chevy Onesie",
 		"theme": "Easter",
 		"type": "outfit",
 		"category": "onesies",
@@ -389,7 +389,7 @@
 	{
 		"id": "outfit_onesie_rabbit_black",
 		"group": "Onesie",
-		"name": "Black Rabbit Onesie",
+		"name": "Buzz Onesie",
 		"theme": "Easter",
 		"type": "outfit",
 		"category": "onesies",
@@ -401,7 +401,7 @@
 	{
 		"id": "outfit_onesie_rabbit_brown",
 		"group": "Onesie",
-		"name": "Brown Rabbit Onesie",
+		"name": "Whisky Onesie",
 		"theme": "Easter",
 		"type": "outfit",
 		"category": "onesies",
@@ -436,7 +436,7 @@
 	{
 		"id": "outfit_onesie_chick_brown",
 		"group": "Onesie",
-		"name": "Brown Chick Onesie",
+		"name": "Amilia Onesie",
 		"theme": "Easter",
 		"type": "outfit",
 		"category": "onesies",
@@ -447,7 +447,7 @@
 	{
 		"id": "outfit_onesie_chick_yellow",
 		"group": "Onesie",
-		"name": "Yellow Chick Onesie",
+		"name": "Cleo Onesie",
 		"theme": "Easter",
 		"type": "outfit",
 		"category": "onesies",
@@ -459,7 +459,7 @@
 	{
 		"id": "outfit_onesie_chick_white",
 		"group": "Onesie",
-		"name": "White Chick Onesie",
+		"name": "Ethel Onesie",
 		"theme": "Easter",
 		"type": "outfit",
 		"category": "onesies",
@@ -638,6 +638,17 @@
 		"category": "skintones",
 		"path": "skin_f7",
 		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "outfit_onesie_swimsuit",
+		"group": "Onesie",
+		"name": "Swimwear",
+		"theme": "Summer",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "swimwear_black",
+		"cost": 0,
 		"hidden": true
 	}
 ]

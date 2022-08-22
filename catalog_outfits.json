@@ -371,7 +371,8 @@
 		"category": "onesies",
 		"path": "onesie_rabbit_white",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"character": "rabbit_onesie_white"
 	},
 	{
 		"id": "outfit_onesie_rabbit_grey",
@@ -382,7 +383,8 @@
 		"category": "onesies",
 		"path": "onesie_rabbit_grey",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"character": "rabbit_onesie_grey"
 	},
 	{
 		"id": "outfit_onesie_rabbit_black",
@@ -393,7 +395,8 @@
 		"category": "onesies",
 		"path": "onesie_rabbit_black",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"character": "rabbit_onesie_black"
 	},
 	{
 		"id": "outfit_onesie_rabbit_brown",
@@ -404,7 +407,8 @@
 		"category": "onesies",
 		"path": "onesie_rabbit_brown",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"character": "rabbit"
 	},
 	{
 		"id": "outfit_onesie_unicorn",
@@ -415,7 +419,8 @@
 		"category": "onesies",
 		"path": "onesie_unicorn",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"character": "onesie_unicorn"
 	},
 	{
 		"id": "outfit_onesie_panda",
@@ -448,7 +453,8 @@
 		"category": "onesies",
 		"path": "onesie_chick_yellow",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"character": "chick"
 	},
 	{
 		"id": "outfit_onesie_chick_white",
@@ -470,7 +476,8 @@
 		"category": "onesies",
 		"path": "onesie_flower_bellflower",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"character": "bellflower"
 	},
 	{
 		"id": "outfit_onesie_flower_calendula",
@@ -481,7 +488,8 @@
 		"category": "onesies",
 		"path": "onesie_flower_calendula",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"character": "calendula"
 	},
 	{
 		"id": "outfit_onesie_flower_poppy",
@@ -492,7 +500,8 @@
 		"category": "onesies",
 		"path": "onesie_flower_poppy",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"character": "poppy"
 	},
 	{
 		"id": "outfit_onesie_mushroom_amanita",
@@ -503,7 +512,8 @@
 		"category": "onesies",
 		"path": "onesie_mushroom_amanita",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"character": "amanita"
 	},
 	{
 		"id": "outfit_onesie_mushroom_lotus",
@@ -514,7 +524,8 @@
 		"category": "onesies",
 		"path": "onesie_mushroom_lotus",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"character": "lotus"
 	},
 	{
 		"id": "outfit_onesie_mushroom_nova",
@@ -525,7 +536,8 @@
 		"category": "onesies",
 		"path": "onesie_mushroom_nova",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"character": "nova"
 	},
 	{
 		"id": "outfit_onesie_mushroom_tori",
@@ -536,7 +548,8 @@
 		"category": "onesies",
 		"path": "onesie_mushroom_tori",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"character": "tori"
 	},
 	{
 		"id": "outfit_onesie_mushroom_twiglet",
@@ -547,7 +560,8 @@
 		"category": "onesies",
 		"path": "onesie_mushroom_twiglet",
 		"cost": 20,
-		"hidden": true
+		"hidden": true,
+		"character": "twiglet"
 	},
 	{
 		"id": "outfit_skin_f1",

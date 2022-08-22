@@ -573,6 +573,7 @@
 		"path": "onesie_rabbit_white",
 		"cost": 20,
 		"hidden": true,
+		"character": "rabbit_onesie_white",
 		"beta": true
 	},
 	{
@@ -585,6 +586,7 @@
 		"path": "onesie_rabbit_grey",
 		"cost": 20,
 		"hidden": true,
+		"character": "rabbit_onesie_grey",
 		"beta": true
 	},
 	{
@@ -597,6 +599,7 @@
 		"path": "onesie_rabbit_black",
 		"cost": 20,
 		"hidden": true,
+		"character": "rabbit_onesie_black",
 		"beta": true
 	},
 	{
@@ -609,6 +612,7 @@
 		"path": "onesie_rabbit_brown",
 		"cost": 20,
 		"hidden": true,
+		"character": "rabbit",
 		"beta": true
 	},
 	{
@@ -621,6 +625,7 @@
 		"path": "onesie_unicorn",
 		"cost": 20,
 		"hidden": true,
+		"character": "onesie_unicorn",
 		"beta": true
 	},
 	{
@@ -669,6 +674,7 @@
 		"path": "onesie_chick_yellow",
 		"cost": 20,
 		"hidden": true,
+		"character": "chick",
 		"beta": true
 	},
 	{
@@ -705,6 +711,7 @@
 		"path": "onesie_flower_bellflower",
 		"cost": 20,
 		"hidden": true,
+		"character": "bellflower",
 		"beta": true
 	},
 	{
@@ -717,6 +724,7 @@
 		"path": "onesie_flower_calendula",
 		"cost": 20,
 		"hidden": true,
+		"character": "calendula",
 		"beta": true
 	},
 	{
@@ -729,6 +737,7 @@
 		"path": "onesie_flower_poppy",
 		"cost": 20,
 		"hidden": true,
+		"character": "poppy",
 		"beta": true
 	},
 	{
@@ -753,6 +762,7 @@
 		"path": "onesie_mushroom_amanita",
 		"cost": 20,
 		"hidden": true,
+		"character": "amanita",
 		"beta": true
 	},
 	{
@@ -765,6 +775,7 @@
 		"path": "onesie_mushroom_lotus",
 		"cost": 20,
 		"hidden": true,
+		"character": "lotus",
 		"beta": true
 	},
 	{
@@ -777,6 +788,7 @@
 		"path": "onesie_mushroom_nova",
 		"cost": 20,
 		"hidden": true,
+		"character": "nova",
 		"beta": true
 	},
 	{
@@ -789,6 +801,7 @@
 		"path": "onesie_mushroom_tori",
 		"cost": 20,
 		"hidden": true,
+		"character": "tori",
 		"beta": true
 	},
 	{
@@ -801,6 +814,7 @@
 		"path": "onesie_mushroom_twiglet",
 		"cost": 20,
 		"hidden": true,
+		"character": "twiglet",
 		"beta": true
 	},
 	{

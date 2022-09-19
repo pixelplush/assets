@@ -871,6 +871,7 @@
 		"type": "pet",
 		"path": "pepper",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -1514,7 +1515,6 @@
 		"type": "pet",
 		"path": "pumpkin",
 		"cost": 20,
-		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -1527,7 +1527,6 @@
 		"type": "pet",
 		"path": "pumpkin_white",
 		"cost": 20,
-		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -1540,7 +1539,6 @@
 		"type": "pet",
 		"path": "pumpkin_green",
 		"cost": 20,
-		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -1551,8 +1549,7 @@
 		"theme": "Halloween",
 		"type": "character",
 		"path": "pumpkin_man",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "pet_ghost_white",
@@ -1562,7 +1559,6 @@
 		"type": "pet",
 		"path": "ghost_white",
 		"cost": 20,
-		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -1574,7 +1570,6 @@
 		"type": "pet",
 		"path": "ghost_red",
 		"cost": 20,
-		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -1586,7 +1581,6 @@
 		"type": "pet",
 		"path": "ghost_pink",
 		"cost": 20,
-		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -1598,7 +1592,6 @@
 		"type": "pet",
 		"path": "ghost_orange",
 		"cost": 20,
-		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -1610,7 +1603,6 @@
 		"type": "pet",
 		"path": "ghost_yellow",
 		"cost": 20,
-		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -1622,7 +1614,6 @@
 		"type": "pet",
 		"path": "ghost_green",
 		"cost": 20,
-		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -1634,7 +1625,6 @@
 		"type": "pet",
 		"path": "ghost_blue",
 		"cost": 20,
-		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -1646,7 +1636,6 @@
 		"type": "pet",
 		"path": "ghost_purple",
 		"cost": 20,
-		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -1857,8 +1846,7 @@
 		"theme": "Halloween",
 		"type": "character",
 		"path": "monster",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "vampire",
@@ -1867,8 +1855,7 @@
 		"theme": "Halloween",
 		"type": "character",
 		"path": "vampire",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "witch",
@@ -1877,8 +1864,7 @@
 		"theme": "Halloween",
 		"type": "character",
 		"path": "witch",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "zombie",
@@ -1887,8 +1873,7 @@
 		"theme": "Halloween",
 		"type": "character",
 		"path": "zombie",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "pet_butterfly_rainbow1",
@@ -1999,6 +1984,7 @@
 		"type": "pet",
 		"path": "egg_maaya",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2010,6 +1996,7 @@
 		"type": "pet",
 		"path": "egg_instafluff",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2021,6 +2008,7 @@
 		"type": "pet",
 		"path": "egg_cui",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2032,6 +2020,7 @@
 		"type": "pet",
 		"path": "egg_big_blue_pink",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2043,6 +2032,7 @@
 		"type": "pet",
 		"path": "egg_big_blue_white",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2054,6 +2044,7 @@
 		"type": "pet",
 		"path": "egg_big_darkblue_white",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2065,6 +2056,7 @@
 		"type": "pet",
 		"path": "egg_big_darkpink_white",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2076,6 +2068,7 @@
 		"type": "pet",
 		"path": "egg_big_lime_green",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2087,6 +2080,7 @@
 		"type": "pet",
 		"path": "egg_big_pink_pink",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2098,6 +2092,7 @@
 		"type": "pet",
 		"path": "egg_big_pink_white",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2109,6 +2104,7 @@
 		"type": "pet",
 		"path": "egg_big_purple_blue",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2120,6 +2116,7 @@
 		"type": "pet",
 		"path": "egg_big_purple_white",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2131,6 +2128,7 @@
 		"type": "pet",
 		"path": "egg_big_yellow_orange",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2142,6 +2140,7 @@
 		"type": "pet",
 		"path": "egg_big_yellow_red",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2153,6 +2152,7 @@
 		"type": "pet",
 		"path": "egg_big_black_white",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2164,6 +2164,7 @@
 		"type": "pet",
 		"path": "egg_big_blue_blue",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2175,6 +2176,7 @@
 		"type": "pet",
 		"path": "egg_small_green_blue",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2186,6 +2188,7 @@
 		"type": "pet",
 		"path": "egg_small_green_yellow",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2197,6 +2200,7 @@
 		"type": "pet",
 		"path": "egg_small_pink_red",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2208,6 +2212,7 @@
 		"type": "pet",
 		"path": "egg_small_purple_blue",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2219,6 +2224,7 @@
 		"type": "pet",
 		"path": "egg_small_purple_pink",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2230,6 +2236,7 @@
 		"type": "pet",
 		"path": "egg_small_yellow_green",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2241,6 +2248,7 @@
 		"type": "pet",
 		"path": "egg_small_yellow_pink",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2252,6 +2260,7 @@
 		"type": "pet",
 		"path": "egg_small_black",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2263,6 +2272,7 @@
 		"type": "pet",
 		"path": "egg_small_blue",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2274,6 +2284,7 @@
 		"type": "pet",
 		"path": "egg_small_orange",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2285,6 +2296,7 @@
 		"type": "pet",
 		"path": "chick",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2296,6 +2308,7 @@
 		"type": "pet",
 		"path": "chocklet",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2349,6 +2362,7 @@
 		"type": "pet",
 		"path": "butterfly_vanessa",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
 		"maxIdle": 0
 	},
@@ -2360,6 +2374,7 @@
 		"type": "pet",
 		"path": "butterfly_tiger",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
 		"maxIdle": 0
 	},
@@ -2371,6 +2386,7 @@
 		"type": "pet",
 		"path": "butterfly_purple",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
 		"maxIdle": 0
 	},
@@ -2382,6 +2398,7 @@
 		"type": "pet",
 		"path": "butterfly_pink",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
 		"maxIdle": 0
 	},
@@ -2393,6 +2410,7 @@
 		"type": "pet",
 		"path": "butterfly_orange",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
 		"maxIdle": 0
 	},
@@ -2404,6 +2422,7 @@
 		"type": "pet",
 		"path": "butterfly_morpho",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
 		"maxIdle": 0
 	},
@@ -2415,6 +2434,7 @@
 		"type": "pet",
 		"path": "butterfly_marble",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
 		"maxIdle": 0
 	},
@@ -2426,6 +2446,7 @@
 		"type": "pet",
 		"path": "butterfly_green",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
 		"maxIdle": 0
 	},
@@ -2437,6 +2458,7 @@
 		"type": "pet",
 		"path": "butterfly_blue",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 0,
 		"maxIdle": 0
 	},
@@ -2554,7 +2576,8 @@
 		"theme": "Valentine",
 		"type": "character",
 		"path": "bear",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "girlbear",
@@ -2563,7 +2586,8 @@
 		"theme": "Valentine",
 		"type": "character",
 		"path": "beargirl",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "evilbear",
@@ -2572,7 +2596,8 @@
 		"theme": "Valentine",
 		"type": "character",
 		"path": "evil_bear",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "pet_marble",
@@ -2593,7 +2618,6 @@
 		"type": "pet",
 		"path": "firefly_halloween",
 		"cost": 40,
-		"hidden": true,
 		"minIdle": 0,
 		"maxIdle": 0
 	},
@@ -2783,7 +2807,6 @@
 		"type": "pet",
 		"path": "hedgehog2",
 		"cost": 40,
-		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2795,7 +2818,6 @@
 		"type": "pet",
 		"path": "hedgehog1",
 		"cost": 40,
-		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2818,7 +2840,6 @@
 		"type": "pet",
 		"path": "tortoise2",
 		"cost": 40,
-		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -2830,7 +2851,6 @@
 		"type": "pet",
 		"path": "tortoise",
 		"cost": 40,
-		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},

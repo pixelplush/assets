@@ -475,7 +475,8 @@
 		"type": "accessory",
 		"category": "hats",
 		"path": "party_hat_pink",
-		"cost": 0
+		"cost": 0,
+		"hidden": true
 	},
 	{
 		"id": "outfit_party_hat_purple",
@@ -485,7 +486,8 @@
 		"type": "accessory",
 		"category": "hats",
 		"path": "party_hat_purple",
-		"cost": 0
+		"cost": 0,
+		"hidden": true
 	},
 	{
 		"id": "outfit_onesie_swimsuit",

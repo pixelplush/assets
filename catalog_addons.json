@@ -1,5 +1,15 @@
 [
 	{
+		"id": "addon_giveaway_autumn",
+		"group": "Giveaway",
+		"name": "Autumn (Giveaway)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "giveaway_autumn.png",
+		"cost": 20,
+		"hidden": true
+	},
+	{
 		"id": "addon_parachute_poolfrog",
 		"group": "Parachute Drop",
 		"name": "Frog Pool (Parachute Drop)",

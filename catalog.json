@@ -47,6 +47,16 @@
 		"maxIdle": 800
 	},
 	{
+		"id": "addon_giveaway_autumn",
+		"group": "Giveaway",
+		"name": "Autumn (Giveaway)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "giveaway_autumn.png",
+		"cost": 20,
+		"hidden": true
+	},
+	{
 		"id": "bundle_outfits_normalskins",
 		"group": "Skintones",
 		"name": "Normal Skintones Bundle",

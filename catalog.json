@@ -56,6 +56,24 @@
 		"cost": 20
 	},
 	{
+		"id": "addon_plinko_halloween",
+		"group": "Plinko Bounce",
+		"name": "Halloween Theme (Plinko Bounce)",
+		"theme": "Halloween",
+		"type": "add-on",
+		"path": "plinko_halloween3.png",
+		"cost": 20
+	},
+	{
+		"id": "addon_parachute_cauldron",
+		"group": "Parachute Drop",
+		"name": "Cauldron Theme (Parachute Drop)",
+		"theme": "Halloween",
+		"type": "add-on",
+		"path": "icon_cauldron.gif",
+		"cost": 40
+	},
+	{
 		"id": "bundle_outfits_jackolantern",
 		"group": "Sets",
 		"name": "Jack Lantern Full Set",
@@ -248,6 +266,319 @@
 		"path": "effect_flies",
 		"cost": 20,
 		"hidden": true
+	},
+	{
+		"id": "pet_pumpkin",
+		"group": "Pumpkin",
+		"name": "Plump",
+		"description": "Pumpkin Pet",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "pumpkin",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_pumpkin_white",
+		"group": "Pumpkin",
+		"name": "Casperita",
+		"description": "White Pumpkin Pet",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "pumpkin_white",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_pumpkin_green",
+		"group": "Pumpkin",
+		"name": "Gusto",
+		"description": "Green Pumpkin Pet",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "pumpkin_green",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pumpkin_man",
+		"group": "Jack Lantern",
+		"name": "Jack Lantern",
+		"theme": "Halloween",
+		"type": "character",
+		"path": "pumpkin_man",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "pet_ghost_white",
+		"group": "Pet Ghost",
+		"name": "Spooky Pearl",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "ghost_white",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_ghost_red",
+		"group": "Pet Ghost",
+		"name": "Alerted Rory",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "ghost_red",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_ghost_pink",
+		"group": "Pet Ghost",
+		"name": "Lovely Rosie",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "ghost_pink",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_ghost_orange",
+		"group": "Pet Ghost",
+		"name": "Moonlight Tabby",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "ghost_orange",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_ghost_yellow",
+		"group": "Pet Ghost",
+		"name": "Honey Amber",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "ghost_yellow",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_ghost_green",
+		"group": "Pet Ghost",
+		"name": "Neon Esme",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "ghost_green",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_ghost_blue",
+		"group": "Pet Ghost",
+		"name": "Peaceful Azu",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "ghost_blue",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_ghost_purple",
+		"group": "Pet Ghost",
+		"name": "Wise Violet",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "ghost_purple",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "monster",
+		"group": "Monster",
+		"name": "Sluggs",
+		"theme": "Halloween",
+		"type": "character",
+		"path": "monster",
+		"cost": 20
+	},
+	{
+		"id": "vampire",
+		"group": "Vampire",
+		"name": "Vampire Steven",
+		"theme": "Halloween",
+		"type": "character",
+		"path": "vampire",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "witch",
+		"group": "Witch",
+		"name": "Potion Queen",
+		"theme": "Halloween",
+		"type": "character",
+		"path": "witch",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "zombie",
+		"group": "Zombie",
+		"name": "Zomb",
+		"theme": "Halloween",
+		"type": "character",
+		"path": "zombie",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "pet_firefly_halloween",
+		"group": "Firefly",
+		"name": "Firefly (Halloween)",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "firefly_halloween",
+		"cost": 40,
+		"minIdle": 0,
+		"maxIdle": 0
+	},
+	{
+		"id": "pet_rabbit1",
+		"group": "Rabbit",
+		"name": "Caramel",
+		"theme": "Autumn",
+		"type": "pet",
+		"path": "rabbit1",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "bundle_outfits_mushroom",
+		"group": "Onesie",
+		"name": "Mushroom Onesies Bundle",
+		"theme": "Autumn",
+		"type": "bundle",
+		"path": "icon_onesie_mushroom_bundle.gif",
+		"cost": 60,
+		"items": "outfit_onesie_mushroom_amanita,outfit_onesie_mushroom_lotus,outfit_onesie_mushroom_nova,outfit_onesie_mushroom_tori,outfit_onesie_mushroom_twiglet"
+	},
+	{
+		"id": "outfit_onesie_mushroom_amanita",
+		"group": "Onesie",
+		"name": "Amanita Onesie",
+		"theme": "Autumn",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "onesie_mushroom_amanita",
+		"cost": 20,
+		"character": "amanita"
+	},
+	{
+		"id": "outfit_onesie_mushroom_lotus",
+		"group": "Onesie",
+		"name": "Lotus Onesie",
+		"theme": "Autumn",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "onesie_mushroom_lotus",
+		"cost": 20,
+		"character": "lotus"
+	},
+	{
+		"id": "outfit_onesie_mushroom_nova",
+		"group": "Onesie",
+		"name": "Nova Onesie",
+		"theme": "Autumn",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "onesie_mushroom_nova",
+		"cost": 20,
+		"character": "nova"
+	},
+	{
+		"id": "outfit_onesie_mushroom_tori",
+		"group": "Onesie",
+		"name": "Tori Onesie",
+		"theme": "Autumn",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "onesie_mushroom_tori",
+		"cost": 20,
+		"character": "tori"
+	},
+	{
+		"id": "outfit_onesie_mushroom_twiglet",
+		"group": "Onesie",
+		"name": "Twiglet Onesie",
+		"theme": "Autumn",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "onesie_mushroom_twiglet",
+		"cost": 20,
+		"character": "twiglet"
+	},
+	{
+		"id": "pet_marble",
+		"group": "Rabbit",
+		"name": "Marble",
+		"theme": "Autumn",
+		"type": "pet",
+		"path": "marble",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "amanita",
+		"group": "Mushroom",
+		"name": "Amanita",
+		"theme": "Autumn",
+		"type": "character",
+		"path": "amanita",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "pet_ammy",
+		"group": "Mushroom",
+		"name": "Ammy",
+		"theme": "Autumn",
+		"type": "pet",
+		"path": "ammy",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "twiglet",
+		"group": "Mushroom",
+		"name": "Twiglet",
+		"theme": "Autumn",
+		"type": "character",
+		"path": "twiglet",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "pet_twiggy",
+		"group": "Mushroom",
+		"name": "Twiggy",
+		"theme": "Autumn",
+		"type": "pet",
+		"path": "twiggy",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
 	},
 	{
 		"id": "bundle_outfits_normalskins",
@@ -860,71 +1191,6 @@
 		"path": "onesie_flower_poppy",
 		"cost": 20,
 		"character": "poppy"
-	},
-	{
-		"id": "bundle_outfits_mushroom",
-		"group": "Onesie",
-		"name": "Mushroom Onesies Bundle",
-		"theme": "Autumn",
-		"type": "bundle",
-		"path": "icon_onesie_mushroom_bundle.gif",
-		"cost": 60,
-		"items": "outfit_onesie_mushroom_amanita,outfit_onesie_mushroom_lotus,outfit_onesie_mushroom_nova,outfit_onesie_mushroom_tori,outfit_onesie_mushroom_twiglet"
-	},
-	{
-		"id": "outfit_onesie_mushroom_amanita",
-		"group": "Onesie",
-		"name": "Amanita Onesie",
-		"theme": "Autumn",
-		"type": "outfit",
-		"category": "onesies",
-		"path": "onesie_mushroom_amanita",
-		"cost": 20,
-		"character": "amanita"
-	},
-	{
-		"id": "outfit_onesie_mushroom_lotus",
-		"group": "Onesie",
-		"name": "Lotus Onesie",
-		"theme": "Autumn",
-		"type": "outfit",
-		"category": "onesies",
-		"path": "onesie_mushroom_lotus",
-		"cost": 20,
-		"character": "lotus"
-	},
-	{
-		"id": "outfit_onesie_mushroom_nova",
-		"group": "Onesie",
-		"name": "Nova Onesie",
-		"theme": "Autumn",
-		"type": "outfit",
-		"category": "onesies",
-		"path": "onesie_mushroom_nova",
-		"cost": 20,
-		"character": "nova"
-	},
-	{
-		"id": "outfit_onesie_mushroom_tori",
-		"group": "Onesie",
-		"name": "Tori Onesie",
-		"theme": "Autumn",
-		"type": "outfit",
-		"category": "onesies",
-		"path": "onesie_mushroom_tori",
-		"cost": 20,
-		"character": "tori"
-	},
-	{
-		"id": "outfit_onesie_mushroom_twiglet",
-		"group": "Onesie",
-		"name": "Twiglet Onesie",
-		"theme": "Autumn",
-		"type": "outfit",
-		"category": "onesies",
-		"path": "onesie_mushroom_twiglet",
-		"cost": 20,
-		"character": "twiglet"
 	},
 	{
 		"id": "bundle_parachute_cake",
@@ -1712,139 +1978,6 @@
 		"hidden": true
 	},
 	{
-		"id": "pet_pumpkin",
-		"group": "Pumpkin",
-		"name": "Plump",
-		"description": "Pumpkin Pet",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "pumpkin",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_pumpkin_white",
-		"group": "Pumpkin",
-		"name": "Casperita",
-		"description": "White Pumpkin Pet",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "pumpkin_white",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_pumpkin_green",
-		"group": "Pumpkin",
-		"name": "Gusto",
-		"description": "Green Pumpkin Pet",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "pumpkin_green",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pumpkin_man",
-		"group": "Jack Lantern",
-		"name": "Jack Lantern",
-		"theme": "Halloween",
-		"type": "character",
-		"path": "pumpkin_man",
-		"cost": 20
-	},
-	{
-		"id": "pet_ghost_white",
-		"group": "Pet Ghost",
-		"name": "Spooky Pearl",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "ghost_white",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_ghost_red",
-		"group": "Pet Ghost",
-		"name": "Alerted Rory",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "ghost_red",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_ghost_pink",
-		"group": "Pet Ghost",
-		"name": "Lovely Rosie",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "ghost_pink",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_ghost_orange",
-		"group": "Pet Ghost",
-		"name": "Moonlight Tabby",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "ghost_orange",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_ghost_yellow",
-		"group": "Pet Ghost",
-		"name": "Honey Amber",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "ghost_yellow",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_ghost_green",
-		"group": "Pet Ghost",
-		"name": "Neon Esme",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "ghost_green",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_ghost_blue",
-		"group": "Pet Ghost",
-		"name": "Peaceful Azu",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "ghost_blue",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_ghost_purple",
-		"group": "Pet Ghost",
-		"name": "Wise Violet",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "ghost_purple",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
 		"id": "pet_donut_chocolate",
 		"group": "Donut",
 		"name": "Chocolate Donut",
@@ -1879,24 +2012,6 @@
 		"minIdle": 200,
 		"maxIdle": 800,
 		"oneAnim": true
-	},
-	{
-		"id": "addon_plinko_halloween",
-		"group": "Plinko Bounce",
-		"name": "Halloween Theme (Plinko Bounce)",
-		"theme": "Halloween",
-		"type": "add-on",
-		"path": "plinko_halloween3.png",
-		"cost": 20
-	},
-	{
-		"id": "addon_parachute_cauldron",
-		"group": "Parachute Drop",
-		"name": "Cauldron Theme (Parachute Drop)",
-		"theme": "Halloween",
-		"type": "add-on",
-		"path": "icon_cauldron.gif",
-		"cost": 40
 	},
 	{
 		"id": "addon_chatflakes",
@@ -2042,42 +2157,6 @@
 		"theme": "Magic",
 		"type": "character",
 		"path": "voldemort",
-		"cost": 20
-	},
-	{
-		"id": "monster",
-		"group": "Monster",
-		"name": "Sluggs",
-		"theme": "Halloween",
-		"type": "character",
-		"path": "monster",
-		"cost": 20
-	},
-	{
-		"id": "vampire",
-		"group": "Vampire",
-		"name": "Vampire Steven",
-		"theme": "Halloween",
-		"type": "character",
-		"path": "vampire",
-		"cost": 20
-	},
-	{
-		"id": "witch",
-		"group": "Witch",
-		"name": "Potion Queen",
-		"theme": "Halloween",
-		"type": "character",
-		"path": "witch",
-		"cost": 20
-	},
-	{
-		"id": "zombie",
-		"group": "Zombie",
-		"name": "Zomb",
-		"theme": "Halloween",
-		"type": "character",
-		"path": "zombie",
 		"cost": 20
 	},
 	{
@@ -2518,17 +2597,6 @@
 		"maxIdle": 800
 	},
 	{
-		"id": "pet_rabbit1",
-		"group": "Rabbit",
-		"name": "Caramel",
-		"theme": "Autumn",
-		"type": "pet",
-		"path": "rabbit1",
-		"cost": 40,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
 		"id": "pet_rabbit2",
 		"group": "Rabbit",
 		"name": "Cotton",
@@ -2803,70 +2871,6 @@
 		"path": "evil_bear",
 		"cost": 20,
 		"hidden": true
-	},
-	{
-		"id": "pet_marble",
-		"group": "Rabbit",
-		"name": "Marble",
-		"theme": "Autumn",
-		"type": "pet",
-		"path": "marble",
-		"cost": 40,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_firefly_halloween",
-		"group": "Firefly",
-		"name": "Firefly (Halloween)",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "firefly_halloween",
-		"cost": 40,
-		"minIdle": 0,
-		"maxIdle": 0
-	},
-	{
-		"id": "amanita",
-		"group": "Mushroom",
-		"name": "Amanita",
-		"theme": "Autumn",
-		"type": "character",
-		"path": "amanita",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "pet_ammy",
-		"group": "Mushroom",
-		"name": "Ammy",
-		"theme": "Autumn",
-		"type": "pet",
-		"path": "ammy",
-		"cost": 40,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "twiglet",
-		"group": "Mushroom",
-		"name": "Twiglet",
-		"theme": "Autumn",
-		"type": "character",
-		"path": "twiglet",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "pet_twiggy",
-		"group": "Mushroom",
-		"name": "Twiggy",
-		"theme": "Autumn",
-		"type": "pet",
-		"path": "twiggy",
-		"cost": 40,
-		"minIdle": 200,
-		"maxIdle": 800
 	},
 	{
 		"id": "lotus",

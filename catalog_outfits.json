@@ -659,7 +659,7 @@
 		"type": "bundle",
 		"path": "bundle_jack.png",
 		"cost": 20,
-		"sale": "pumpkin_man",
+		"character": "pumpkin_man",
 		"": "outfit_dress_jackolantern,outfit_mask_jackolantern"
 	},
 	{
@@ -672,7 +672,7 @@
 		"path": "dress_jackolantern",
 		"cost": 20,
 		"hidden": true,
-		"sale": "pumpkin_man"
+		"character": "pumpkin_man"
 	},
 	{
 		"id": "outfit_mask_jackolantern",
@@ -684,7 +684,7 @@
 		"path": "mask_jackolantern",
 		"cost": 20,
 		"hidden": true,
-		"sale": "pumpkin_man"
+		"character": "pumpkin_man"
 	},
 	{
 		"id": "bundle_outfits_witch",
@@ -694,7 +694,7 @@
 		"type": "bundle",
 		"path": "bundle_witch.png",
 		"cost": 40,
-		"sale": "witch",
+		"character": "witch",
 		"": "outfit_skin_f3,outfit_hair_witch,outfit_hat_witch,outfit_dress_witch"
 	},
 	{
@@ -707,7 +707,7 @@
 		"path": "hair_witch",
 		"cost": 20,
 		"hidden": true,
-		"sale": "witch"
+		"character": "witch"
 	},
 	{
 		"id": "outfit_hat_witch",
@@ -719,7 +719,7 @@
 		"path": "hat_witch",
 		"cost": 20,
 		"hidden": true,
-		"sale": "witch"
+		"character": "witch"
 	},
 	{
 		"id": "outfit_dress_witch",
@@ -731,7 +731,7 @@
 		"path": "dress_witch",
 		"cost": 20,
 		"hidden": true,
-		"sale": "witch"
+		"character": "witch"
 	},
 	{
 		"id": "bundle_outfits_vampire",
@@ -741,7 +741,7 @@
 		"type": "bundle",
 		"path": "bundle_vampire.png",
 		"cost": 40,
-		"sale": "vampire",
+		"character": "vampire",
 		"": "outfit_skin_vampire,outfit_hair_vampire,outfit_expr_vampireboy,outfit_expr_vampiregirl,outfit_dress_vampire"
 	},
 	{
@@ -754,7 +754,7 @@
 		"path": "skin_vampire",
 		"cost": 20,
 		"hidden": true,
-		"sale": "vampire"
+		"character": "vampire"
 	},
 	{
 		"id": "outfit_hair_vampire",
@@ -766,7 +766,7 @@
 		"path": "hair_vampire",
 		"cost": 20,
 		"hidden": true,
-		"sale": "vampire"
+		"character": "vampire"
 	},
 	{
 		"id": "outfit_expr_vampireboy",
@@ -778,7 +778,7 @@
 		"path": "expr_vampire",
 		"cost": 20,
 		"hidden": true,
-		"sale": "vampire"
+		"character": "vampire"
 	},
 	{
 		"id": "outfit_expr_vampiregirl",
@@ -790,7 +790,7 @@
 		"path": "expr_vampiregirl",
 		"cost": 20,
 		"hidden": true,
-		"sale": "vampire"
+		"character": "vampire"
 	},
 	{
 		"id": "outfit_dress_vampire",
@@ -802,7 +802,7 @@
 		"path": "dress_vampire",
 		"cost": 20,
 		"hidden": true,
-		"sale": "vampire"
+		"character": "vampire"
 	},
 	{
 		"id": "bundle_outfits_zombie",
@@ -812,7 +812,7 @@
 		"type": "bundle",
 		"path": "bundle_zombie.png",
 		"cost": 40,
-		"sale": "zombie",
+		"character": "zombie",
 		"": "outfit_skin_f3,outfit_hair_zombie,outfit_expr_zombie,outfit_dress_zombie,outfit_effect_flies"
 	},
 	{
@@ -825,7 +825,7 @@
 		"path": "hair_zombie",
 		"cost": 20,
 		"hidden": true,
-		"sale": "zombie"
+		"character": "zombie"
 	},
 	{
 		"id": "outfit_expr_zombie",
@@ -837,7 +837,7 @@
 		"path": "expr_zombie",
 		"cost": 20,
 		"hidden": true,
-		"sale": "zombie"
+		"character": "zombie"
 	},
 	{
 		"id": "outfit_dress_zombie",
@@ -849,7 +849,7 @@
 		"path": "dress_zombie",
 		"cost": 20,
 		"hidden": true,
-		"sale": "zombie"
+		"character": "zombie"
 	},
 	{
 		"id": "outfit_effect_flies",
@@ -861,7 +861,7 @@
 		"path": "effect_flies",
 		"cost": 20,
 		"hidden": true,
-		"sale": "zombie"
+		"character": "zombie"
 	},
 	{
 		"id": "outfit_skin_f3",
@@ -872,7 +872,7 @@
 		"category": "skintones",
 		"path": "skin_f3",
 		"cost": 10,
-		"sale": "witch"
+		"character": "witch"
 	},
 	{
 		"id": "outfit_skin_f3",
@@ -883,6 +883,6 @@
 		"category": "skintones",
 		"path": "skin_f3",
 		"cost": 10,
-		"sale": "zombie"
+		"character": "zombie"
 	}
 ]

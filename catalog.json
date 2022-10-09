@@ -53,8 +53,7 @@
 		"theme": "PixelPlush",
 		"type": "add-on",
 		"path": "giveaway_autumn.png",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "bundle_outfits_jackolantern",
@@ -64,7 +63,6 @@
 		"type": "bundle",
 		"path": "bundle_jack.png",
 		"cost": 20,
-		"hidden": true,
 		"items": "outfit_dress_jackolantern,outfit_mask_jackolantern"
 	},
 	{
@@ -75,7 +73,7 @@
 		"type": "outfit",
 		"category": "dresses",
 		"path": "dress_jackolantern",
-		"cost": 15,
+		"cost": 20,
 		"hidden": true
 	},
 	{
@@ -86,7 +84,7 @@
 		"type": "accessory",
 		"category": "masks",
 		"path": "mask_jackolantern",
-		"cost": 10,
+		"cost": 20,
 		"hidden": true
 	},
 	{
@@ -96,8 +94,7 @@
 		"theme": "Halloween",
 		"type": "bundle",
 		"path": "bundle_witch.png",
-		"cost": 20,
-		"hidden": true,
+		"cost": 40,
 		"items": "outfit_skin_f3,outfit_hair_witch,outfit_hat_witch,outfit_dress_witch"
 	},
 	{
@@ -108,7 +105,7 @@
 		"type": "body",
 		"category": "hair",
 		"path": "hair_witch",
-		"cost": 10,
+		"cost": 20,
 		"hidden": true
 	},
 	{
@@ -119,7 +116,7 @@
 		"type": "accessory",
 		"category": "hats",
 		"path": "hat_witch",
-		"cost": 10,
+		"cost": 20,
 		"hidden": true
 	},
 	{
@@ -130,7 +127,7 @@
 		"type": "outfit",
 		"category": "dresses",
 		"path": "dress_witch",
-		"cost": 10,
+		"cost": 20,
 		"hidden": true
 	},
 	{
@@ -140,8 +137,7 @@
 		"theme": "Halloween",
 		"type": "bundle",
 		"path": "bundle_vampire.png",
-		"cost": 20,
-		"hidden": true,
+		"cost": 40,
 		"items": "outfit_skin_vampire,outfit_hair_vampire,outfit_expr_vampireboy,outfit_expr_vampiregirl,outfit_dress_vampire"
 	},
 	{
@@ -152,7 +148,7 @@
 		"type": "body",
 		"category": "skintones",
 		"path": "skin_vampire",
-		"cost": 10,
+		"cost": 20,
 		"hidden": true
 	},
 	{
@@ -163,7 +159,7 @@
 		"type": "body",
 		"category": "hair",
 		"path": "hair_vampire",
-		"cost": 10,
+		"cost": 20,
 		"hidden": true
 	},
 	{
@@ -174,7 +170,7 @@
 		"type": "body",
 		"category": "expressions",
 		"path": "expr_vampire",
-		"cost": 10,
+		"cost": 20,
 		"hidden": true
 	},
 	{
@@ -185,7 +181,7 @@
 		"type": "body",
 		"category": "expressions",
 		"path": "expr_vampiregirl",
-		"cost": 10,
+		"cost": 20,
 		"hidden": true
 	},
 	{
@@ -196,7 +192,7 @@
 		"type": "outfit",
 		"category": "dresses",
 		"path": "dress_vampire",
-		"cost": 10,
+		"cost": 20,
 		"hidden": true
 	},
 	{
@@ -206,8 +202,7 @@
 		"theme": "Halloween",
 		"type": "bundle",
 		"path": "bundle_zombie.png",
-		"cost": 20,
-		"hidden": true,
+		"cost": 40,
 		"items": "outfit_skin_f3,outfit_hair_zombie,outfit_expr_zombie,outfit_dress_zombie,outfit_effect_flies"
 	},
 	{
@@ -218,7 +213,7 @@
 		"type": "body",
 		"category": "hair",
 		"path": "hair_zombie",
-		"cost": 10,
+		"cost": 20,
 		"hidden": true
 	},
 	{
@@ -229,7 +224,7 @@
 		"type": "body",
 		"category": "expressions",
 		"path": "expr_zombie",
-		"cost": 10,
+		"cost": 20,
 		"hidden": true
 	},
 	{
@@ -240,7 +235,7 @@
 		"type": "outfit",
 		"category": "dresses",
 		"path": "dress_zombie",
-		"cost": 10,
+		"cost": 20,
 		"hidden": true
 	},
 	{
@@ -251,7 +246,7 @@
 		"type": "effect",
 		"category": "effects",
 		"path": "effect_flies",
-		"cost": 10,
+		"cost": 20,
 		"hidden": true
 	},
 	{

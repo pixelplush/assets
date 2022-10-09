@@ -62,6 +62,7 @@
 		"name": "Jack Lantern Full Set",
 		"theme": "Halloween",
 		"type": "bundle",
+		"path": "bundle_jack.png",
 		"cost": 20,
 		"hidden": true,
 		"items": "outfit_dress_jackolantern,outfit_mask_jackolantern"
@@ -94,6 +95,7 @@
 		"name": "Witch Full Set",
 		"theme": "Halloween",
 		"type": "bundle",
+		"path": "bundle_witch.png",
 		"cost": 20,
 		"hidden": true,
 		"items": "outfit_skin_f3,outfit_hair_witch,outfit_hat_witch,outfit_dress_witch"
@@ -137,6 +139,7 @@
 		"name": "Witch Full Set",
 		"theme": "Halloween",
 		"type": "bundle",
+		"path": "bundle_vampire.png",
 		"cost": 20,
 		"hidden": true,
 		"items": "outfit_skin_vampire,outfit_hair_vampire,outfit_expr_vampireboy,outfit_expr_vampiregirl,outfit_dress_vampire"
@@ -199,9 +202,10 @@
 	{
 		"id": "bundle_outfits_zombie",
 		"group": "Sets",
-		"name": "Witch Full Set",
+		"name": "Zombie Full Set",
 		"theme": "Halloween",
 		"type": "bundle",
+		"path": "bundle_zombie.png",
 		"cost": 20,
 		"hidden": true,
 		"items": "outfit_skin_f3,outfit_hair_zombie,outfit_expr_zombie,outfit_dress_zombie,outfit_effect_flies"
@@ -256,7 +260,7 @@
 		"name": "Normal Skintones Bundle",
 		"theme": "PixelPlush",
 		"type": "bundle",
-		"path": "skin_icon_normal.gif",
+		"path": "skin_icon_normal2.png",
 		"cost": 0,
 		"items": "outfit_skin1,outfit_skin2,outfit_skin3,outfit_skin4,outfit_skin5,outfit_skin6,outfit_skin7"
 	},
@@ -336,7 +340,7 @@
 		"name": "Fantasy Skintones Bundle",
 		"theme": "PixelPlush",
 		"type": "bundle",
-		"path": "skin_icon_fantasy.gif",
+		"path": "skin_icon_fantasy2.png",
 		"cost": 50,
 		"items": "outfit_skin_f1,outfit_skin_f2,outfit_skin_f3,outfit_skin_f4,outfit_skin_f5,outfit_skin_f6,outfit_skin_f7"
 	},
@@ -416,7 +420,7 @@
 		"name": "Fun Expressions Bundle",
 		"theme": "PixelPlush",
 		"type": "bundle",
-		"path": "expressions_icon.gif",
+		"path": "expressions_icon2.gif",
 		"cost": 60,
 		"items": "outfit_expr2,outfit_expr3,outfit_expr4,outfit_expr5,outfit_expr6,outfit_expr7,outfit_expr8,outfit_expr9,outfit_expr10"
 	},

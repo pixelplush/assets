@@ -468,7 +468,7 @@
 		"name": "Mushroom Onesies Bundle",
 		"theme": "Autumn",
 		"type": "bundle",
-		"path": "icon_onesie_mushroom_bundle.gif",
+		"path": "icon_onesie_mushroom_bundle2.png",
 		"cost": 60,
 		"items": "outfit_onesie_mushroom_amanita,outfit_onesie_mushroom_lotus,outfit_onesie_mushroom_nova,outfit_onesie_mushroom_tori,outfit_onesie_mushroom_twiglet"
 	},
@@ -1039,7 +1039,7 @@
 		"name": "Rabbit Onesies Bundle",
 		"theme": "Spring",
 		"type": "bundle",
-		"path": "icon_onesie_rabbit_bundle.gif",
+		"path": "icon_onesie_rabbit_bundle2.png",
 		"cost": 60,
 		"items": "outfit_onesie_rabbit_white,outfit_onesie_rabbit_grey,outfit_onesie_rabbit_black,outfit_onesie_rabbit_brown"
 	},
@@ -1114,7 +1114,7 @@
 		"name": "Chick Onesies Bundle",
 		"theme": "Spring",
 		"type": "bundle",
-		"path": "icon_onesie_chick_bundle.gif",
+		"path": "icon_onesie_chick_bundle2.png",
 		"cost": 40,
 		"items": "outfit_onesie_chick_brown,outfit_onesie_chick_yellow,outfit_onesie_chick_white"
 	},
@@ -1155,7 +1155,7 @@
 		"name": "Flower Onesies Bundle",
 		"theme": "Spring",
 		"type": "bundle",
-		"path": "icon_onesie_flower_bundle.gif",
+		"path": "icon_onesie_flower_bundle2.png",
 		"cost": 40,
 		"items": "outfit_onesie_flower_bellflower,outfit_onesie_flower_calendula,outfit_onesie_flower_poppy"
 	},

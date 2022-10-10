@@ -594,7 +594,8 @@
 		"category": "skintones",
 		"path": "skin_f3",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"character": "witch,zombie"
 	},
 	{
 		"id": "outfit_skin_f4",
@@ -861,28 +862,6 @@
 		"path": "effect_flies",
 		"cost": 20,
 		"hidden": true,
-		"character": "zombie"
-	},
-	{
-		"id": "outfit_skin_f3",
-		"group": "Skintones",
-		"name": "Fantasy Body 3",
-		"theme": "PixelPlush",
-		"type": "body",
-		"category": "skintones",
-		"path": "skin_f3",
-		"cost": 10,
-		"character": "witch"
-	},
-	{
-		"id": "outfit_skin_f3",
-		"group": "Skintones",
-		"name": "Fantasy Body 3",
-		"theme": "PixelPlush",
-		"type": "body",
-		"category": "skintones",
-		"path": "skin_f3",
-		"cost": 10,
 		"character": "zombie"
 	}
 ]

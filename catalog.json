@@ -221,16 +221,6 @@
 		"hidden": true
 	},
 	{
-		"id": "monster",
-		"group": "Monster",
-		"name": "Sluggs",
-		"theme": "Halloween",
-		"type": "character",
-		"path": "monster",
-		"cost": 20,
-		"sale": true
-	},
-	{
 		"id": "pet_ghost_white",
 		"group": "Pet Ghost",
 		"name": "Spooky Pearl",
@@ -364,6 +354,16 @@
 		"sale": true,
 		"minIdle": 200,
 		"maxIdle": 800
+	},
+	{
+		"id": "monster",
+		"group": "Monster",
+		"name": "Sluggs",
+		"theme": "Halloween",
+		"type": "character",
+		"path": "monster",
+		"cost": 20,
+		"sale": true
 	},
 	{
 		"id": "bundle_outfits_jackolantern",

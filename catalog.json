@@ -1,5 +1,25 @@
 [
 	{
+		"id": "addon_parachute_cauldron",
+		"group": "Parachute Drop",
+		"name": "Cauldron Theme (Parachute Drop)",
+		"theme": "Halloween",
+		"type": "add-on",
+		"path": "icon_cauldron.gif",
+		"cost": 40,
+		"sale": true
+	},
+	{
+		"id": "addon_plinko_halloween",
+		"group": "Plinko Bounce",
+		"name": "Halloween Theme (Plinko Bounce)",
+		"theme": "Halloween",
+		"type": "add-on",
+		"path": "plinko_halloween3.png",
+		"cost": 20,
+		"sale": true
+	},
+	{
 		"id": "outfit_dress_jackolantern",
 		"group": "Dress",
 		"name": "Jack Lantern Clothes",
@@ -211,16 +231,6 @@
 		"sale": true
 	},
 	{
-		"id": "addon_parachute_cauldron",
-		"group": "Parachute Drop",
-		"name": "Cauldron Theme (Parachute Drop)",
-		"theme": "Halloween",
-		"type": "add-on",
-		"path": "icon_cauldron.gif",
-		"cost": 40,
-		"sale": true
-	},
-	{
 		"id": "pet_ghost_white",
 		"group": "Pet Ghost",
 		"name": "Spooky Pearl",
@@ -315,16 +325,6 @@
 		"sale": true,
 		"minIdle": 200,
 		"maxIdle": 800
-	},
-	{
-		"id": "addon_plinko_halloween",
-		"group": "Plinko Bounce",
-		"name": "Halloween Theme (Plinko Bounce)",
-		"theme": "Halloween",
-		"type": "add-on",
-		"path": "plinko_halloween3.png",
-		"cost": 20,
-		"sale": true
 	},
 	{
 		"id": "pet_pumpkin",

@@ -1,170 +1,63 @@
 [
 	{
-		"id": "boyhunter",
-		"group": "Hunter",
-		"name": "Hunter (M)",
-		"theme": "Adventure",
+		"id": "addon_parachute_christmaseve",
+		"group": "Parachute Drop",
+		"name": "Christmas Eve (Parachute Drop)",
+		"theme": "Christmas",
+		"type": "add-on",
+		"path": "parachutes_christmas_eve.png",
+		"cost": 10,
+		"sale": true
+	},
+	{
+		"id": "grinch",
+		"group": "Grump",
+		"name": "Grump",
+		"theme": "Christmas",
 		"type": "character",
-		"path": "boyhunter",
+		"path": "grinch",
 		"cost": 20,
-		"hidden": true
+		"sale": true
 	},
 	{
-		"id": "girlhunter",
-		"group": "Hunter",
-		"name": "Hunter (F)",
-		"theme": "Adventure",
+		"id": "claus",
+		"group": "Mrs. Claus",
+		"name": "Mrs. Claus",
+		"theme": "Christmas",
 		"type": "character",
-		"path": "girlhunter",
+		"path": "claus",
 		"cost": 20,
-		"hidden": true
+		"sale": true
 	},
 	{
-		"id": "amanita",
-		"group": "Mushroom",
-		"name": "Amanita",
-		"theme": "Autumn",
+		"id": "santa",
+		"group": "Santa Claus",
+		"name": "Santa Claus",
+		"theme": "Christmas",
 		"type": "character",
-		"path": "amanita",
+		"path": "santa",
 		"cost": 20,
-		"hidden": true
+		"sale": true
 	},
 	{
-		"id": "pet_ammy",
-		"group": "Mushroom",
-		"name": "Ammy",
-		"theme": "Autumn",
-		"type": "pet",
-		"path": "ammy",
-		"cost": 40,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "twiglet",
-		"group": "Mushroom",
-		"name": "Twiglet",
-		"theme": "Autumn",
+		"id": "elf",
+		"group": "Christmas Helper",
+		"name": "Christmas Helper (M)",
+		"theme": "Christmas",
 		"type": "character",
-		"path": "twiglet",
+		"path": "elf",
 		"cost": 20,
-		"hidden": true
+		"sale": true
 	},
 	{
-		"id": "pet_twiggy",
-		"group": "Mushroom",
-		"name": "Twiggy",
-		"theme": "Autumn",
-		"type": "pet",
-		"path": "twiggy",
-		"cost": 40,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "bundle_outfits_mushroom",
-		"group": "Onesie",
-		"name": "Mushroom Onesies Bundle",
-		"theme": "Autumn",
-		"type": "bundle",
-		"path": "icon_onesie_mushroom_bundle2.png",
-		"cost": 60,
-		"items": "outfit_onesie_mushroom_amanita,outfit_onesie_mushroom_lotus,outfit_onesie_mushroom_nova,outfit_onesie_mushroom_tori,outfit_onesie_mushroom_twiglet"
-	},
-	{
-		"id": "outfit_onesie_mushroom_amanita",
-		"group": "Onesie",
-		"name": "Amanita Onesie",
-		"theme": "Autumn",
-		"type": "outfit",
-		"category": "onesies",
-		"path": "onesie_mushroom_amanita",
-		"cost": 20,
-		"character": "amanita"
-	},
-	{
-		"id": "outfit_onesie_mushroom_lotus",
-		"group": "Onesie",
-		"name": "Lotus Onesie",
-		"theme": "Autumn",
-		"type": "outfit",
-		"category": "onesies",
-		"path": "onesie_mushroom_lotus",
-		"cost": 20,
-		"character": "lotus"
-	},
-	{
-		"id": "outfit_onesie_mushroom_nova",
-		"group": "Onesie",
-		"name": "Nova Onesie",
-		"theme": "Autumn",
-		"type": "outfit",
-		"category": "onesies",
-		"path": "onesie_mushroom_nova",
-		"cost": 20,
-		"character": "nova"
-	},
-	{
-		"id": "outfit_onesie_mushroom_tori",
-		"group": "Onesie",
-		"name": "Tori Onesie",
-		"theme": "Autumn",
-		"type": "outfit",
-		"category": "onesies",
-		"path": "onesie_mushroom_tori",
-		"cost": 20,
-		"character": "tori"
-	},
-	{
-		"id": "outfit_onesie_mushroom_twiglet",
-		"group": "Onesie",
-		"name": "Twiglet Onesie",
-		"theme": "Autumn",
-		"type": "outfit",
-		"category": "onesies",
-		"path": "onesie_mushroom_twiglet",
-		"cost": 20,
-		"character": "twiglet"
-	},
-	{
-		"id": "pet_rabbit1",
-		"group": "Rabbit",
-		"name": "Caramel",
-		"theme": "Autumn",
-		"type": "pet",
-		"path": "rabbit1",
-		"cost": 40,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_marble",
-		"group": "Rabbit",
-		"name": "Marble",
-		"theme": "Autumn",
-		"type": "pet",
-		"path": "marble",
-		"cost": 40,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "boy",
-		"group": "Normal",
-		"name": "Boy",
-		"theme": "Base",
+		"id": "elfgirl",
+		"group": "Christmas Helper",
+		"name": "Christmas Helper (F)",
+		"theme": "Christmas",
 		"type": "character",
-		"path": "boy",
-		"cost": 0
-	},
-	{
-		"id": "girl",
-		"group": "Normal",
-		"name": "Girl",
-		"theme": "Base",
-		"type": "character",
-		"path": "girl",
-		"cost": 0
+		"path": "elfgirl",
+		"cost": 20,
+		"sale": true
 	},
 	{
 		"id": "pet_candycane_rainbow",
@@ -273,26 +166,6 @@
 		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
-	},
-	{
-		"id": "elf",
-		"group": "Christmas Helper",
-		"name": "Christmas Helper (M)",
-		"theme": "Christmas",
-		"type": "character",
-		"path": "elf",
-		"cost": 20,
-		"sale": true
-	},
-	{
-		"id": "elfgirl",
-		"group": "Christmas Helper",
-		"name": "Christmas Helper (F)",
-		"theme": "Christmas",
-		"type": "character",
-		"path": "elfgirl",
-		"cost": 20,
-		"sale": true
 	},
 	{
 		"id": "pet_gift_pink_yellow",
@@ -619,44 +492,482 @@
 		"maxIdle": 200
 	},
 	{
-		"id": "grinch",
-		"group": "Grump",
-		"name": "Grump",
-		"theme": "Christmas",
+		"id": "pet_penguin",
+		"group": "Penguin",
+		"name": "Flipper",
+		"theme": "Winter",
+		"type": "pet",
+		"path": "penguin",
+		"cost": 40,
+		"sale": true,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_snowball",
+		"group": "Snowball",
+		"name": "Snowchi",
+		"theme": "Winter",
+		"type": "pet",
+		"path": "snowball",
+		"cost": 40,
+		"sale": true,
+		"minIdle": 0,
+		"maxIdle": 200
+	},
+	{
+		"id": "snowman",
+		"group": "Snowman",
+		"name": "McButtons",
+		"theme": "Winter",
 		"type": "character",
-		"path": "grinch",
+		"path": "snowman",
 		"cost": 20,
 		"sale": true
 	},
 	{
-		"id": "claus",
-		"group": "Mrs. Claus",
-		"name": "Mrs. Claus",
-		"theme": "Christmas",
+		"id": "pet_yetchi_blue",
+		"group": "Yetchi",
+		"name": "Szoo",
+		"theme": "Winter",
+		"type": "pet",
+		"path": "yetchi_blue",
+		"cost": 40,
+		"sale": true,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_yetchi_green",
+		"group": "Yetchi",
+		"name": "Aroo",
+		"theme": "Winter",
+		"type": "pet",
+		"path": "yetchi_green",
+		"cost": 40,
+		"sale": true,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_yetchi_orange",
+		"group": "Yetchi",
+		"name": "Roo",
+		"theme": "Winter",
+		"type": "pet",
+		"path": "yetchi_orange",
+		"cost": 40,
+		"sale": true,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_yetchi_pink",
+		"group": "Yetchi",
+		"name": "Mwoo",
+		"theme": "Winter",
+		"type": "pet",
+		"path": "yetchi_pink",
+		"cost": 40,
+		"sale": true,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "yeti_blue",
+		"group": "Yeti",
+		"name": "Szoro",
+		"theme": "Winter",
 		"type": "character",
-		"path": "claus",
+		"path": "yeti_blue",
 		"cost": 20,
 		"sale": true
 	},
 	{
-		"id": "addon_parachute_christmaseve",
-		"group": "Parachute Drop",
-		"name": "Christmas Eve (Parachute Drop)",
-		"theme": "Christmas",
+		"id": "yeti_green",
+		"group": "Yeti",
+		"name": "Anrel",
+		"theme": "Winter",
+		"type": "character",
+		"path": "yeti_green",
+		"cost": 20,
+		"sale": true
+	},
+	{
+		"id": "yeti_orange",
+		"group": "Yeti",
+		"name": "Rogi",
+		"theme": "Winter",
+		"type": "character",
+		"path": "yeti_orange",
+		"cost": 20,
+		"sale": true
+	},
+	{
+		"id": "yeti_pink",
+		"group": "Yeti",
+		"name": "Muwa",
+		"theme": "Winter",
+		"type": "character",
+		"path": "yeti_pink",
+		"cost": 20,
+		"sale": true
+	},
+	{
+		"id": "addon_streamweather",
+		"group": "Stream Weather",
+		"name": "Stream Weather",
+		"theme": "PixelPlush",
 		"type": "add-on",
-		"path": "parachutes_christmas_eve.png",
-		"cost": 10,
-		"sale": true
+		"path": "icon_weather.png",
+		"cost": 20
 	},
 	{
-		"id": "santa",
-		"group": "Santa Claus",
-		"name": "Santa Claus",
-		"theme": "Christmas",
-		"type": "character",
-		"path": "santa",
+		"id": "addon_chatflakes",
+		"group": "Chat Flakes",
+		"name": "Chat Flakes",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "icon_chatflakes.png",
+		"cost": 20
+	},
+	{
+		"id": "pet_fluffington",
+		"group": "Fluffington",
+		"name": "Fluffington",
+		"theme": "PixelPlush",
+		"type": "pet",
+		"path": "fluffington",
+		"cost": 10000,
+		"hidden": true,
+		"subscription": "Instafluff",
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "addon_giveaway_autumn",
+		"group": "Giveaway",
+		"name": "Autumn (Giveaway)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "giveaway_autumn.png",
+		"cost": 20
+	},
+	{
+		"id": "addon_giveaway_blossoms",
+		"group": "Giveaway",
+		"name": "Blossoms (Giveaway)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "giveaway_blossoms.png",
+		"cost": 20
+	},
+	{
+		"id": "addon_parachute_cauldron",
+		"group": "Parachute Drop",
+		"name": "Cauldron Theme (Parachute Drop)",
+		"theme": "Halloween",
+		"type": "add-on",
+		"path": "icon_cauldron.gif",
+		"cost": 40
+	},
+	{
+		"id": "addon_plinko_halloween",
+		"group": "Plinko Bounce",
+		"name": "Halloween Theme (Plinko Bounce)",
+		"theme": "Halloween",
+		"type": "add-on",
+		"path": "plinko_halloween3.png",
+		"cost": 20
+	},
+	{
+		"id": "addon_parachute_easter",
+		"group": "Parachute Drop",
+		"name": "Easter (Parachute Drop)",
+		"theme": "Easter",
+		"type": "add-on",
+		"path": "icon_easter.png",
+		"cost": 20
+	},
+	{
+		"id": "bundle_parachute_cake",
+		"group": "Parachute Drop",
+		"name": "Party Cakes Bundle (Parachute Drop)",
+		"theme": "PixelPlush",
+		"type": "bundle",
+		"path": "icon_cake_bundle.gif",
+		"cost": 30,
+		"items": "addon_parachute_cakeplush,addon_parachute_cakerainbow,addon_parachute_cakefruit,addon_parachute_cakechoco"
+	},
+	{
+		"id": "addon_parachute_cakeplush",
+		"group": "Parachute Drop",
+		"name": "PixelPlush Cake Theme (Parachute Drop)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "icon_cake_pixelplush.png",
+		"cost": 10
+	},
+	{
+		"id": "addon_parachute_cakerainbow",
+		"group": "Parachute Drop",
+		"name": "Rainbow Cake Theme (Parachute Drop)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "icon_cake_rainbow.png",
+		"cost": 10
+	},
+	{
+		"id": "addon_parachute_cakefruit",
+		"group": "Parachute Drop",
+		"name": "Fruit Cake Theme (Parachute Drop)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "icon_cake_fruit.png",
+		"cost": 10
+	},
+	{
+		"id": "addon_parachute_cakechoco",
+		"group": "Parachute Drop",
+		"name": "Chocolate Cake Theme (Parachute Drop)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "icon_cake_choco2.png",
+		"cost": 10
+	},
+	{
+		"id": "addon_parachute_rainbow",
+		"group": "Parachute Drop",
+		"name": "Rainbow Theme (Parachute Drop)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "rainbow.png",
+		"cost": 10
+	},
+	{
+		"id": "addon_parachute_blossoms",
+		"group": "Parachute Drop",
+		"name": "Spring Blossoms Theme (Parachute Drop)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "parachutedrop_spring.png",
+		"cost": 10
+	},
+	{
+		"id": "addon_pixelconfetti",
+		"group": "Pixel Confetti",
+		"name": "Pixel Confetti",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "confetti_icon.png",
+		"cost": 20
+	},
+	{
+		"id": "bundle_outfits_jackolantern",
+		"group": "Sets",
+		"name": "Jack Lantern Full Set",
+		"theme": "Halloween",
+		"type": "bundle",
+		"path": "bundle_jack.png",
 		"cost": 20,
-		"sale": true
+		"items": "outfit_dress_jackolantern,outfit_mask_jackolantern"
+	},
+	{
+		"id": "bundle_outfits_witch",
+		"group": "Sets",
+		"name": "Witch Full Set",
+		"theme": "Halloween",
+		"type": "bundle",
+		"path": "bundle_witch.png",
+		"cost": 40,
+		"items": "outfit_skin_f3,outfit_hair_witch,outfit_hat_witch,outfit_dress_witch"
+	},
+	{
+		"id": "bundle_outfits_vampire",
+		"group": "Sets",
+		"name": "Vampire Full Set",
+		"theme": "Halloween",
+		"type": "bundle",
+		"path": "bundle_vampire.png",
+		"cost": 40,
+		"items": "outfit_skin_vampire,outfit_hair_vampire,outfit_expr_vampireboy,outfit_expr_vampiregirl,outfit_dress_vampire"
+	},
+	{
+		"id": "bundle_outfits_zombie",
+		"group": "Sets",
+		"name": "Zombie Full Set",
+		"theme": "Halloween",
+		"type": "bundle",
+		"path": "bundle_zombie.png",
+		"cost": 40,
+		"items": "outfit_skin_f3,outfit_hair_zombie,outfit_expr_zombie,outfit_dress_zombie,outfit_effect_flies"
+	},
+	{
+		"id": "boyhunter",
+		"group": "Hunter",
+		"name": "Hunter (M)",
+		"theme": "Adventure",
+		"type": "character",
+		"path": "boyhunter",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "girlhunter",
+		"group": "Hunter",
+		"name": "Hunter (F)",
+		"theme": "Adventure",
+		"type": "character",
+		"path": "girlhunter",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "amanita",
+		"group": "Mushroom",
+		"name": "Amanita",
+		"theme": "Autumn",
+		"type": "character",
+		"path": "amanita",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "pet_ammy",
+		"group": "Mushroom",
+		"name": "Ammy",
+		"theme": "Autumn",
+		"type": "pet",
+		"path": "ammy",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "twiglet",
+		"group": "Mushroom",
+		"name": "Twiglet",
+		"theme": "Autumn",
+		"type": "character",
+		"path": "twiglet",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "pet_twiggy",
+		"group": "Mushroom",
+		"name": "Twiggy",
+		"theme": "Autumn",
+		"type": "pet",
+		"path": "twiggy",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "bundle_outfits_mushroom",
+		"group": "Onesie",
+		"name": "Mushroom Onesies Bundle",
+		"theme": "Autumn",
+		"type": "bundle",
+		"path": "icon_onesie_mushroom_bundle2.png",
+		"cost": 60,
+		"items": "outfit_onesie_mushroom_amanita,outfit_onesie_mushroom_lotus,outfit_onesie_mushroom_nova,outfit_onesie_mushroom_tori,outfit_onesie_mushroom_twiglet"
+	},
+	{
+		"id": "outfit_onesie_mushroom_amanita",
+		"group": "Onesie",
+		"name": "Amanita Onesie",
+		"theme": "Autumn",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "onesie_mushroom_amanita",
+		"cost": 20,
+		"character": "amanita"
+	},
+	{
+		"id": "outfit_onesie_mushroom_lotus",
+		"group": "Onesie",
+		"name": "Lotus Onesie",
+		"theme": "Autumn",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "onesie_mushroom_lotus",
+		"cost": 20,
+		"character": "lotus"
+	},
+	{
+		"id": "outfit_onesie_mushroom_nova",
+		"group": "Onesie",
+		"name": "Nova Onesie",
+		"theme": "Autumn",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "onesie_mushroom_nova",
+		"cost": 20,
+		"character": "nova"
+	},
+	{
+		"id": "outfit_onesie_mushroom_tori",
+		"group": "Onesie",
+		"name": "Tori Onesie",
+		"theme": "Autumn",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "onesie_mushroom_tori",
+		"cost": 20,
+		"character": "tori"
+	},
+	{
+		"id": "outfit_onesie_mushroom_twiglet",
+		"group": "Onesie",
+		"name": "Twiglet Onesie",
+		"theme": "Autumn",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "onesie_mushroom_twiglet",
+		"cost": 20,
+		"character": "twiglet"
+	},
+	{
+		"id": "pet_rabbit1",
+		"group": "Rabbit",
+		"name": "Caramel",
+		"theme": "Autumn",
+		"type": "pet",
+		"path": "rabbit1",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_marble",
+		"group": "Rabbit",
+		"name": "Marble",
+		"theme": "Autumn",
+		"type": "pet",
+		"path": "marble",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "boy",
+		"group": "Normal",
+		"name": "Boy",
+		"theme": "Base",
+		"type": "character",
+		"path": "boy",
+		"cost": 0
+	},
+	{
+		"id": "girl",
+		"group": "Normal",
+		"name": "Girl",
+		"theme": "Base",
+		"type": "character",
+		"path": "girl",
+		"cost": 0
 	},
 	{
 		"id": "pet_bee",
@@ -1146,15 +1457,6 @@
 		"cost": 20
 	},
 	{
-		"id": "addon_parachute_easter",
-		"group": "Parachute Drop",
-		"name": "Easter (Parachute Drop)",
-		"theme": "Easter",
-		"type": "add-on",
-		"path": "icon_easter.png",
-		"cost": 20
-	},
-	{
 		"id": "pet_rabbit2",
 		"group": "Rabbit",
 		"name": "Cotton",
@@ -1387,24 +1689,6 @@
 		"cost": 40,
 		"minIdle": 400,
 		"maxIdle": 800
-	},
-	{
-		"id": "addon_parachute_cauldron",
-		"group": "Parachute Drop",
-		"name": "Cauldron Theme (Parachute Drop)",
-		"theme": "Halloween",
-		"type": "add-on",
-		"path": "icon_cauldron.gif",
-		"cost": 40
-	},
-	{
-		"id": "addon_plinko_halloween",
-		"group": "Plinko Bounce",
-		"name": "Halloween Theme (Plinko Bounce)",
-		"theme": "Halloween",
-		"type": "add-on",
-		"path": "plinko_halloween3.png",
-		"cost": 20
 	},
 	{
 		"id": "outfit_dress_jackolantern",
@@ -1704,46 +1988,6 @@
 		"cost": 20
 	},
 	{
-		"id": "bundle_outfits_jackolantern",
-		"group": "Sets",
-		"name": "Jack Lantern Full Set",
-		"theme": "Halloween",
-		"type": "bundle",
-		"path": "bundle_jack.png",
-		"cost": 20,
-		"items": "outfit_dress_jackolantern,outfit_mask_jackolantern"
-	},
-	{
-		"id": "bundle_outfits_witch",
-		"group": "Sets",
-		"name": "Witch Full Set",
-		"theme": "Halloween",
-		"type": "bundle",
-		"path": "bundle_witch.png",
-		"cost": 40,
-		"items": "outfit_skin_f3,outfit_hair_witch,outfit_hat_witch,outfit_dress_witch"
-	},
-	{
-		"id": "bundle_outfits_vampire",
-		"group": "Sets",
-		"name": "Vampire Full Set",
-		"theme": "Halloween",
-		"type": "bundle",
-		"path": "bundle_vampire.png",
-		"cost": 40,
-		"items": "outfit_skin_vampire,outfit_hair_vampire,outfit_expr_vampireboy,outfit_expr_vampiregirl,outfit_dress_vampire"
-	},
-	{
-		"id": "bundle_outfits_zombie",
-		"group": "Sets",
-		"name": "Zombie Full Set",
-		"theme": "Halloween",
-		"type": "bundle",
-		"path": "bundle_zombie.png",
-		"cost": 40,
-		"items": "outfit_skin_f3,outfit_hair_zombie,outfit_expr_zombie,outfit_dress_zombie,outfit_effect_flies"
-	},
-	{
 		"id": "outfit_skin_vampire",
 		"group": "Skintones",
 		"name": "Vampire Body",
@@ -2038,15 +2282,6 @@
 		"maxIdle": 200
 	},
 	{
-		"id": "addon_chatflakes",
-		"group": "Chat Flakes",
-		"name": "Chat Flakes",
-		"theme": "PixelPlush",
-		"type": "add-on",
-		"path": "icon_chatflakes.png",
-		"cost": 20
-	},
-	{
 		"id": "addon_chatflakes_leaf",
 		"group": "Chat Flakes",
 		"name": "Leaves (Chat Flakes)",
@@ -2188,37 +2423,6 @@
 		"cost": 10
 	},
 	{
-		"id": "pet_fluffington",
-		"group": "Fluffington",
-		"name": "Fluffington",
-		"theme": "PixelPlush",
-		"type": "pet",
-		"path": "fluffington",
-		"cost": 10000,
-		"hidden": true,
-		"subscription": "Instafluff",
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "addon_giveaway_autumn",
-		"group": "Giveaway",
-		"name": "Autumn (Giveaway)",
-		"theme": "PixelPlush",
-		"type": "add-on",
-		"path": "giveaway_autumn.png",
-		"cost": 20
-	},
-	{
-		"id": "addon_giveaway_blossoms",
-		"group": "Giveaway",
-		"name": "Blossoms (Giveaway)",
-		"theme": "PixelPlush",
-		"type": "add-on",
-		"path": "giveaway_blossoms.png",
-		"cost": 20
-	},
-	{
 		"id": "outfit_glasses1",
 		"group": "Glasses",
 		"name": "Glasses",
@@ -2348,79 +2552,6 @@
 		"path": "pants1",
 		"cost": 10,
 		"hidden": true
-	},
-	{
-		"id": "bundle_parachute_cake",
-		"group": "Parachute Drop",
-		"name": "Party Cakes Bundle (Parachute Drop)",
-		"theme": "PixelPlush",
-		"type": "bundle",
-		"path": "icon_cake_bundle.gif",
-		"cost": 30,
-		"items": "addon_parachute_cakeplush,addon_parachute_cakerainbow,addon_parachute_cakefruit,addon_parachute_cakechoco"
-	},
-	{
-		"id": "addon_parachute_cakeplush",
-		"group": "Parachute Drop",
-		"name": "PixelPlush Cake Theme (Parachute Drop)",
-		"theme": "PixelPlush",
-		"type": "add-on",
-		"path": "icon_cake_pixelplush.png",
-		"cost": 10
-	},
-	{
-		"id": "addon_parachute_cakerainbow",
-		"group": "Parachute Drop",
-		"name": "Rainbow Cake Theme (Parachute Drop)",
-		"theme": "PixelPlush",
-		"type": "add-on",
-		"path": "icon_cake_rainbow.png",
-		"cost": 10
-	},
-	{
-		"id": "addon_parachute_cakefruit",
-		"group": "Parachute Drop",
-		"name": "Fruit Cake Theme (Parachute Drop)",
-		"theme": "PixelPlush",
-		"type": "add-on",
-		"path": "icon_cake_fruit.png",
-		"cost": 10
-	},
-	{
-		"id": "addon_parachute_cakechoco",
-		"group": "Parachute Drop",
-		"name": "Chocolate Cake Theme (Parachute Drop)",
-		"theme": "PixelPlush",
-		"type": "add-on",
-		"path": "icon_cake_choco2.png",
-		"cost": 10
-	},
-	{
-		"id": "addon_parachute_rainbow",
-		"group": "Parachute Drop",
-		"name": "Rainbow Theme (Parachute Drop)",
-		"theme": "PixelPlush",
-		"type": "add-on",
-		"path": "rainbow.png",
-		"cost": 10
-	},
-	{
-		"id": "addon_parachute_blossoms",
-		"group": "Parachute Drop",
-		"name": "Spring Blossoms Theme (Parachute Drop)",
-		"theme": "PixelPlush",
-		"type": "add-on",
-		"path": "parachutedrop_spring.png",
-		"cost": 10
-	},
-	{
-		"id": "addon_pixelconfetti",
-		"group": "Pixel Confetti",
-		"name": "Pixel Confetti",
-		"theme": "PixelPlush",
-		"type": "add-on",
-		"path": "confetti_icon.png",
-		"cost": 20
 	},
 	{
 		"id": "outfit_shirt1",
@@ -2592,15 +2723,6 @@
 		"category": "skintones",
 		"path": "skin_f7",
 		"cost": 10
-	},
-	{
-		"id": "addon_streamweather",
-		"group": "Stream Weather",
-		"name": "Stream Weather",
-		"theme": "PixelPlush",
-		"type": "add-on",
-		"path": "icon_weather.png",
-		"cost": 20
 	},
 	{
 		"id": "outfit_wheelchair",
@@ -3171,127 +3293,5 @@
 		"type": "add-on",
 		"path": "icon_valentines.png",
 		"cost": 40
-	},
-	{
-		"id": "pet_penguin",
-		"group": "Penguin",
-		"name": "Flipper",
-		"theme": "Winter",
-		"type": "pet",
-		"path": "penguin",
-		"cost": 40,
-		"sale": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_snowball",
-		"group": "Snowball",
-		"name": "Snowchi",
-		"theme": "Winter",
-		"type": "pet",
-		"path": "snowball",
-		"cost": 40,
-		"sale": true,
-		"minIdle": 0,
-		"maxIdle": 200
-	},
-	{
-		"id": "snowman",
-		"group": "Snowman",
-		"name": "McButtons",
-		"theme": "Winter",
-		"type": "character",
-		"path": "snowman",
-		"cost": 20,
-		"sale": true
-	},
-	{
-		"id": "pet_yetchi_blue",
-		"group": "Yetchi",
-		"name": "Szoo",
-		"theme": "Winter",
-		"type": "pet",
-		"path": "yetchi_blue",
-		"cost": 40,
-		"sale": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_yetchi_green",
-		"group": "Yetchi",
-		"name": "Aroo",
-		"theme": "Winter",
-		"type": "pet",
-		"path": "yetchi_green",
-		"cost": 40,
-		"sale": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_yetchi_orange",
-		"group": "Yetchi",
-		"name": "Roo",
-		"theme": "Winter",
-		"type": "pet",
-		"path": "yetchi_orange",
-		"cost": 40,
-		"sale": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_yetchi_pink",
-		"group": "Yetchi",
-		"name": "Mwoo",
-		"theme": "Winter",
-		"type": "pet",
-		"path": "yetchi_pink",
-		"cost": 40,
-		"sale": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "yeti_blue",
-		"group": "Yeti",
-		"name": "Szoro",
-		"theme": "Winter",
-		"type": "character",
-		"path": "yeti_blue",
-		"cost": 20,
-		"sale": true
-	},
-	{
-		"id": "yeti_green",
-		"group": "Yeti",
-		"name": "Anrel",
-		"theme": "Winter",
-		"type": "character",
-		"path": "yeti_green",
-		"cost": 20,
-		"sale": true
-	},
-	{
-		"id": "yeti_orange",
-		"group": "Yeti",
-		"name": "Rogi",
-		"theme": "Winter",
-		"type": "character",
-		"path": "yeti_orange",
-		"cost": 20,
-		"sale": true
-	},
-	{
-		"id": "yeti_pink",
-		"group": "Yeti",
-		"name": "Muwa",
-		"theme": "Winter",
-		"type": "character",
-		"path": "yeti_pink",
-		"cost": 20,
-		"sale": true
 	}
 ]

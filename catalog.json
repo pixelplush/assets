@@ -1,434 +1,5 @@
 [
 	{
-		"id": "addon_parachute_cauldron",
-		"group": "Parachute Drop",
-		"name": "Cauldron Theme (Parachute Drop)",
-		"theme": "Halloween",
-		"type": "add-on",
-		"path": "icon_cauldron.gif",
-		"cost": 40
-	},
-	{
-		"id": "addon_plinko_halloween",
-		"group": "Plinko Bounce",
-		"name": "Halloween Theme (Plinko Bounce)",
-		"theme": "Halloween",
-		"type": "add-on",
-		"path": "plinko_halloween3.png",
-		"cost": 20
-	},
-	{
-		"id": "outfit_dress_jackolantern",
-		"group": "Dress",
-		"name": "Jack Lantern Clothes",
-		"theme": "Halloween",
-		"type": "outfit",
-		"category": "dresses",
-		"path": "dress_jackolantern",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "outfit_dress_witch",
-		"group": "Dress",
-		"name": "Witch Clothes",
-		"theme": "Halloween",
-		"type": "outfit",
-		"category": "dresses",
-		"path": "dress_witch",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "outfit_dress_vampire",
-		"group": "Dress",
-		"name": "Vampire Clothes",
-		"theme": "Halloween",
-		"type": "outfit",
-		"category": "dresses",
-		"path": "dress_vampire",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "outfit_dress_zombie",
-		"group": "Dress",
-		"name": "Zombie Clothes",
-		"theme": "Halloween",
-		"type": "outfit",
-		"category": "dresses",
-		"path": "dress_zombie",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "outfit_effect_flies",
-		"group": "Effect",
-		"name": "Zombie Flies",
-		"theme": "Halloween",
-		"type": "effect",
-		"category": "effects",
-		"path": "effect_flies",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "outfit_expr_vampireboy",
-		"group": "Expressions",
-		"name": "Vampire Expression (Boy)",
-		"theme": "Halloween",
-		"type": "body",
-		"category": "expressions",
-		"path": "expr_vampire",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "outfit_expr_vampiregirl",
-		"group": "Expressions",
-		"name": "Vampire Expression (Girl)",
-		"theme": "Halloween",
-		"type": "body",
-		"category": "expressions",
-		"path": "expr_vampiregirl",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "outfit_expr_zombie",
-		"group": "Expressions",
-		"name": "Zombie Expression",
-		"theme": "Halloween",
-		"type": "body",
-		"category": "expressions",
-		"path": "expr_zombie",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "pet_firefly_halloween",
-		"group": "Firefly",
-		"name": "Firefly (Halloween)",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "firefly_halloween",
-		"cost": 40,
-		"minIdle": 0,
-		"maxIdle": 0
-	},
-	{
-		"id": "pet_firefly_green",
-		"group": "Firefly",
-		"name": "Firefly (Green)",
-		"theme": "Fairy",
-		"type": "pet",
-		"path": "firefly_green",
-		"cost": 40,
-		"minIdle": 0,
-		"maxIdle": 0
-	},
-	{
-		"id": "pet_firefly_pink",
-		"group": "Firefly",
-		"name": "Firefly (Pink)",
-		"theme": "Fairy",
-		"type": "pet",
-		"path": "firefly_pink",
-		"cost": 40,
-		"minIdle": 0,
-		"maxIdle": 0
-	},
-	{
-		"id": "pet_firefly_purple",
-		"group": "Firefly",
-		"name": "Firefly (Purple)",
-		"theme": "Fairy",
-		"type": "pet",
-		"path": "firefly_purple",
-		"cost": 40,
-		"minIdle": 0,
-		"maxIdle": 0
-	},
-	{
-		"id": "outfit_hair_witch",
-		"group": "Hair",
-		"name": "Witch Hair",
-		"theme": "Halloween",
-		"type": "body",
-		"category": "hair",
-		"path": "hair_witch",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "outfit_hair_vampire",
-		"group": "Hair",
-		"name": "Vampire Hair",
-		"theme": "Halloween",
-		"type": "body",
-		"category": "hair",
-		"path": "hair_vampire",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "outfit_hair_zombie",
-		"group": "Hair",
-		"name": "Zombie Hair",
-		"theme": "Halloween",
-		"type": "body",
-		"category": "hair",
-		"path": "hair_zombie",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "outfit_hat_witch",
-		"group": "Hat",
-		"name": "Witch Hat",
-		"theme": "Halloween",
-		"type": "accessory",
-		"category": "hats",
-		"path": "hat_witch",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "pumpkin_man",
-		"group": "Jack Lantern",
-		"name": "Jack Lantern",
-		"theme": "Halloween",
-		"type": "character",
-		"path": "pumpkin_man",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "outfit_mask_jackolantern",
-		"group": "Mask",
-		"name": "Jack Lantern Mask",
-		"theme": "Halloween",
-		"type": "accessory",
-		"category": "masks",
-		"path": "mask_jackolantern",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "pet_ghost_white",
-		"group": "Pet Ghost",
-		"name": "Spooky Pearl",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "ghost_white",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_ghost_red",
-		"group": "Pet Ghost",
-		"name": "Alerted Rory",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "ghost_red",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_ghost_pink",
-		"group": "Pet Ghost",
-		"name": "Lovely Rosie",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "ghost_pink",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_ghost_orange",
-		"group": "Pet Ghost",
-		"name": "Moonlight Tabby",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "ghost_orange",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_ghost_yellow",
-		"group": "Pet Ghost",
-		"name": "Honey Amber",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "ghost_yellow",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_ghost_green",
-		"group": "Pet Ghost",
-		"name": "Neon Esme",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "ghost_green",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_ghost_blue",
-		"group": "Pet Ghost",
-		"name": "Peaceful Azu",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "ghost_blue",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_ghost_purple",
-		"group": "Pet Ghost",
-		"name": "Wise Violet",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "ghost_purple",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_pumpkin",
-		"group": "Pumpkin",
-		"name": "Plump",
-		"description": "Pumpkin Pet",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "pumpkin",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_pumpkin_white",
-		"group": "Pumpkin",
-		"name": "Casperita",
-		"description": "White Pumpkin Pet",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "pumpkin_white",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_pumpkin_green",
-		"group": "Pumpkin",
-		"name": "Gusto",
-		"description": "Green Pumpkin Pet",
-		"theme": "Halloween",
-		"type": "pet",
-		"path": "pumpkin_green",
-		"cost": 20,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "monster",
-		"group": "Monster",
-		"name": "Sluggs",
-		"theme": "Halloween",
-		"type": "character",
-		"path": "monster",
-		"cost": 20
-	},
-	{
-		"id": "bundle_outfits_jackolantern",
-		"group": "Sets",
-		"name": "Jack Lantern Full Set",
-		"theme": "Halloween",
-		"type": "bundle",
-		"path": "bundle_jack.png",
-		"cost": 20,
-		"items": "outfit_dress_jackolantern,outfit_mask_jackolantern"
-	},
-	{
-		"id": "bundle_outfits_witch",
-		"group": "Sets",
-		"name": "Witch Full Set",
-		"theme": "Halloween",
-		"type": "bundle",
-		"path": "bundle_witch.png",
-		"cost": 40,
-		"items": "outfit_skin_f3,outfit_hair_witch,outfit_hat_witch,outfit_dress_witch"
-	},
-	{
-		"id": "bundle_outfits_vampire",
-		"group": "Sets",
-		"name": "Vampire Full Set",
-		"theme": "Halloween",
-		"type": "bundle",
-		"path": "bundle_vampire.png",
-		"cost": 40,
-		"items": "outfit_skin_vampire,outfit_hair_vampire,outfit_expr_vampireboy,outfit_expr_vampiregirl,outfit_dress_vampire"
-	},
-	{
-		"id": "bundle_outfits_zombie",
-		"group": "Sets",
-		"name": "Zombie Full Set",
-		"theme": "Halloween",
-		"type": "bundle",
-		"path": "bundle_zombie.png",
-		"cost": 40,
-		"items": "outfit_skin_f3,outfit_hair_zombie,outfit_expr_zombie,outfit_dress_zombie,outfit_effect_flies"
-	},
-	{
-		"id": "outfit_skin_vampire",
-		"group": "Skintones",
-		"name": "Vampire Body",
-		"theme": "Halloween",
-		"type": "body",
-		"category": "skintones",
-		"path": "skin_vampire",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "vampire",
-		"group": "Vampire",
-		"name": "Vampire Steven",
-		"theme": "Halloween",
-		"type": "character",
-		"path": "vampire",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "witch",
-		"group": "Witch",
-		"name": "Potion Queen",
-		"theme": "Halloween",
-		"type": "character",
-		"path": "witch",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "zombie",
-		"group": "Zombie",
-		"name": "Zomb",
-		"theme": "Halloween",
-		"type": "character",
-		"path": "zombie",
-		"cost": 20,
-		"hidden": true
-	},
-	{
 		"id": "boyhunter",
 		"group": "Hunter",
 		"name": "Hunter (M)",
@@ -603,7 +174,7 @@
 		"type": "pet",
 		"path": "candycane_rainbow",
 		"cost": 40,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -615,7 +186,7 @@
 		"type": "pet",
 		"path": "candycane_blue",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -627,7 +198,7 @@
 		"type": "pet",
 		"path": "candycane_green",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -639,7 +210,7 @@
 		"type": "pet",
 		"path": "candycane_orange",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -651,7 +222,7 @@
 		"type": "pet",
 		"path": "candycane_pink",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -663,7 +234,7 @@
 		"type": "pet",
 		"path": "candycane_purple",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -675,7 +246,7 @@
 		"type": "pet",
 		"path": "candycane_red",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -687,7 +258,7 @@
 		"type": "pet",
 		"path": "candycane_turquoise",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -699,7 +270,7 @@
 		"type": "pet",
 		"path": "candycane_yellow",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -711,7 +282,7 @@
 		"type": "character",
 		"path": "elf",
 		"cost": 20,
-		"hidden": true
+		"sale": true
 	},
 	{
 		"id": "elfgirl",
@@ -721,7 +292,7 @@
 		"type": "character",
 		"path": "elfgirl",
 		"cost": 20,
-		"hidden": true
+		"sale": true
 	},
 	{
 		"id": "pet_gift_pink_yellow",
@@ -731,7 +302,7 @@
 		"type": "pet",
 		"path": "gift_pink_yellow",
 		"cost": 40,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -743,7 +314,7 @@
 		"type": "pet",
 		"path": "gift_yellow_orange",
 		"cost": 40,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -755,7 +326,7 @@
 		"type": "pet",
 		"path": "gift_gold",
 		"cost": 40,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -767,7 +338,7 @@
 		"type": "pet",
 		"path": "gift_silver",
 		"cost": 40,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -779,7 +350,7 @@
 		"type": "pet",
 		"path": "gift_rainbow",
 		"cost": 40,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -791,7 +362,7 @@
 		"type": "pet",
 		"path": "gift_black_gold",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -803,7 +374,7 @@
 		"type": "pet",
 		"path": "gift_black_silver",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -815,7 +386,7 @@
 		"type": "pet",
 		"path": "gift_blue_pink",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -827,7 +398,7 @@
 		"type": "pet",
 		"path": "gift_blue_silver",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -839,7 +410,7 @@
 		"type": "pet",
 		"path": "gift_blue_yellow",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -851,7 +422,7 @@
 		"type": "pet",
 		"path": "gift_brown_red",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -863,7 +434,7 @@
 		"type": "pet",
 		"path": "gift_dark_blue_green",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -875,7 +446,7 @@
 		"type": "pet",
 		"path": "gift_green_blue_yellow",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -887,7 +458,7 @@
 		"type": "pet",
 		"path": "gift_green_green",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -899,7 +470,7 @@
 		"type": "pet",
 		"path": "gift_green_purple",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -911,7 +482,7 @@
 		"type": "pet",
 		"path": "gift_lightbrown_red",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -923,7 +494,7 @@
 		"type": "pet",
 		"path": "gift_pink_silver",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -935,7 +506,7 @@
 		"type": "pet",
 		"path": "gift_purple_pink_teal",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -947,7 +518,7 @@
 		"type": "pet",
 		"path": "gift_purple_red",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -959,7 +530,7 @@
 		"type": "pet",
 		"path": "gift_purple_silver",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -971,7 +542,7 @@
 		"type": "pet",
 		"path": "gift_purple_teal",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -983,7 +554,7 @@
 		"type": "pet",
 		"path": "gift_purple_white",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -995,7 +566,7 @@
 		"type": "pet",
 		"path": "gift_purple_yellow",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -1007,7 +578,7 @@
 		"type": "pet",
 		"path": "gift_red_white",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -1019,7 +590,7 @@
 		"type": "pet",
 		"path": "gift_red_yellow",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -1031,7 +602,7 @@
 		"type": "pet",
 		"path": "gift_teal_pink",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -1043,7 +614,7 @@
 		"type": "pet",
 		"path": "gift_white_black",
 		"cost": 20,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -1055,7 +626,7 @@
 		"type": "character",
 		"path": "grinch",
 		"cost": 20,
-		"hidden": true
+		"sale": true
 	},
 	{
 		"id": "claus",
@@ -1065,7 +636,7 @@
 		"type": "character",
 		"path": "claus",
 		"cost": 20,
-		"hidden": true
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_christmaseve",
@@ -1074,7 +645,8 @@
 		"theme": "Christmas",
 		"type": "add-on",
 		"path": "parachutes_christmas_eve.png",
-		"cost": 10
+		"cost": 10,
+		"sale": true
 	},
 	{
 		"id": "santa",
@@ -1084,7 +656,7 @@
 		"type": "character",
 		"path": "santa",
 		"cost": 20,
-		"hidden": true
+		"sale": true
 	},
 	{
 		"id": "pet_bee",
@@ -1604,6 +1176,39 @@
 		"hidden": true
 	},
 	{
+		"id": "pet_firefly_green",
+		"group": "Firefly",
+		"name": "Firefly (Green)",
+		"theme": "Fairy",
+		"type": "pet",
+		"path": "firefly_green",
+		"cost": 40,
+		"minIdle": 0,
+		"maxIdle": 0
+	},
+	{
+		"id": "pet_firefly_pink",
+		"group": "Firefly",
+		"name": "Firefly (Pink)",
+		"theme": "Fairy",
+		"type": "pet",
+		"path": "firefly_pink",
+		"cost": 40,
+		"minIdle": 0,
+		"maxIdle": 0
+	},
+	{
+		"id": "pet_firefly_purple",
+		"group": "Firefly",
+		"name": "Firefly (Purple)",
+		"theme": "Fairy",
+		"type": "pet",
+		"path": "firefly_purple",
+		"cost": 40,
+		"minIdle": 0,
+		"maxIdle": 0
+	},
+	{
 		"id": "pet_kodo",
 		"group": "Chick",
 		"name": "Kodo",
@@ -1782,6 +1387,402 @@
 		"cost": 40,
 		"minIdle": 400,
 		"maxIdle": 800
+	},
+	{
+		"id": "addon_parachute_cauldron",
+		"group": "Parachute Drop",
+		"name": "Cauldron Theme (Parachute Drop)",
+		"theme": "Halloween",
+		"type": "add-on",
+		"path": "icon_cauldron.gif",
+		"cost": 40
+	},
+	{
+		"id": "addon_plinko_halloween",
+		"group": "Plinko Bounce",
+		"name": "Halloween Theme (Plinko Bounce)",
+		"theme": "Halloween",
+		"type": "add-on",
+		"path": "plinko_halloween3.png",
+		"cost": 20
+	},
+	{
+		"id": "outfit_dress_jackolantern",
+		"group": "Dress",
+		"name": "Jack Lantern Clothes",
+		"theme": "Halloween",
+		"type": "outfit",
+		"category": "dresses",
+		"path": "dress_jackolantern",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "outfit_dress_witch",
+		"group": "Dress",
+		"name": "Witch Clothes",
+		"theme": "Halloween",
+		"type": "outfit",
+		"category": "dresses",
+		"path": "dress_witch",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "outfit_dress_vampire",
+		"group": "Dress",
+		"name": "Vampire Clothes",
+		"theme": "Halloween",
+		"type": "outfit",
+		"category": "dresses",
+		"path": "dress_vampire",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "outfit_dress_zombie",
+		"group": "Dress",
+		"name": "Zombie Clothes",
+		"theme": "Halloween",
+		"type": "outfit",
+		"category": "dresses",
+		"path": "dress_zombie",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "outfit_effect_flies",
+		"group": "Effect",
+		"name": "Zombie Flies",
+		"theme": "Halloween",
+		"type": "effect",
+		"category": "effects",
+		"path": "effect_flies",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "outfit_expr_vampireboy",
+		"group": "Expressions",
+		"name": "Vampire Expression (Boy)",
+		"theme": "Halloween",
+		"type": "body",
+		"category": "expressions",
+		"path": "expr_vampire",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "outfit_expr_vampiregirl",
+		"group": "Expressions",
+		"name": "Vampire Expression (Girl)",
+		"theme": "Halloween",
+		"type": "body",
+		"category": "expressions",
+		"path": "expr_vampiregirl",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "outfit_expr_zombie",
+		"group": "Expressions",
+		"name": "Zombie Expression",
+		"theme": "Halloween",
+		"type": "body",
+		"category": "expressions",
+		"path": "expr_zombie",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "pet_firefly_halloween",
+		"group": "Firefly",
+		"name": "Firefly (Halloween)",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "firefly_halloween",
+		"cost": 40,
+		"minIdle": 0,
+		"maxIdle": 0
+	},
+	{
+		"id": "outfit_hair_witch",
+		"group": "Hair",
+		"name": "Witch Hair",
+		"theme": "Halloween",
+		"type": "body",
+		"category": "hair",
+		"path": "hair_witch",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "outfit_hair_vampire",
+		"group": "Hair",
+		"name": "Vampire Hair",
+		"theme": "Halloween",
+		"type": "body",
+		"category": "hair",
+		"path": "hair_vampire",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "outfit_hair_zombie",
+		"group": "Hair",
+		"name": "Zombie Hair",
+		"theme": "Halloween",
+		"type": "body",
+		"category": "hair",
+		"path": "hair_zombie",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "outfit_hat_witch",
+		"group": "Hat",
+		"name": "Witch Hat",
+		"theme": "Halloween",
+		"type": "accessory",
+		"category": "hats",
+		"path": "hat_witch",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "pumpkin_man",
+		"group": "Jack Lantern",
+		"name": "Jack Lantern",
+		"theme": "Halloween",
+		"type": "character",
+		"path": "pumpkin_man",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "outfit_mask_jackolantern",
+		"group": "Mask",
+		"name": "Jack Lantern Mask",
+		"theme": "Halloween",
+		"type": "accessory",
+		"category": "masks",
+		"path": "mask_jackolantern",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "pet_ghost_white",
+		"group": "Pet Ghost",
+		"name": "Spooky Pearl",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "ghost_white",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_ghost_red",
+		"group": "Pet Ghost",
+		"name": "Alerted Rory",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "ghost_red",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_ghost_pink",
+		"group": "Pet Ghost",
+		"name": "Lovely Rosie",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "ghost_pink",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_ghost_orange",
+		"group": "Pet Ghost",
+		"name": "Moonlight Tabby",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "ghost_orange",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_ghost_yellow",
+		"group": "Pet Ghost",
+		"name": "Honey Amber",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "ghost_yellow",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_ghost_green",
+		"group": "Pet Ghost",
+		"name": "Neon Esme",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "ghost_green",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_ghost_blue",
+		"group": "Pet Ghost",
+		"name": "Peaceful Azu",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "ghost_blue",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_ghost_purple",
+		"group": "Pet Ghost",
+		"name": "Wise Violet",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "ghost_purple",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_pumpkin",
+		"group": "Pumpkin",
+		"name": "Plump",
+		"description": "Pumpkin Pet",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "pumpkin",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_pumpkin_white",
+		"group": "Pumpkin",
+		"name": "Casperita",
+		"description": "White Pumpkin Pet",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "pumpkin_white",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_pumpkin_green",
+		"group": "Pumpkin",
+		"name": "Gusto",
+		"description": "Green Pumpkin Pet",
+		"theme": "Halloween",
+		"type": "pet",
+		"path": "pumpkin_green",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "monster",
+		"group": "Monster",
+		"name": "Sluggs",
+		"theme": "Halloween",
+		"type": "character",
+		"path": "monster",
+		"cost": 20
+	},
+	{
+		"id": "bundle_outfits_jackolantern",
+		"group": "Sets",
+		"name": "Jack Lantern Full Set",
+		"theme": "Halloween",
+		"type": "bundle",
+		"path": "bundle_jack.png",
+		"cost": 20,
+		"items": "outfit_dress_jackolantern,outfit_mask_jackolantern"
+	},
+	{
+		"id": "bundle_outfits_witch",
+		"group": "Sets",
+		"name": "Witch Full Set",
+		"theme": "Halloween",
+		"type": "bundle",
+		"path": "bundle_witch.png",
+		"cost": 40,
+		"items": "outfit_skin_f3,outfit_hair_witch,outfit_hat_witch,outfit_dress_witch"
+	},
+	{
+		"id": "bundle_outfits_vampire",
+		"group": "Sets",
+		"name": "Vampire Full Set",
+		"theme": "Halloween",
+		"type": "bundle",
+		"path": "bundle_vampire.png",
+		"cost": 40,
+		"items": "outfit_skin_vampire,outfit_hair_vampire,outfit_expr_vampireboy,outfit_expr_vampiregirl,outfit_dress_vampire"
+	},
+	{
+		"id": "bundle_outfits_zombie",
+		"group": "Sets",
+		"name": "Zombie Full Set",
+		"theme": "Halloween",
+		"type": "bundle",
+		"path": "bundle_zombie.png",
+		"cost": 40,
+		"items": "outfit_skin_f3,outfit_hair_zombie,outfit_expr_zombie,outfit_dress_zombie,outfit_effect_flies"
+	},
+	{
+		"id": "outfit_skin_vampire",
+		"group": "Skintones",
+		"name": "Vampire Body",
+		"theme": "Halloween",
+		"type": "body",
+		"category": "skintones",
+		"path": "skin_vampire",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "vampire",
+		"group": "Vampire",
+		"name": "Vampire Steven",
+		"theme": "Halloween",
+		"type": "character",
+		"path": "vampire",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "witch",
+		"group": "Witch",
+		"name": "Potion Queen",
+		"theme": "Halloween",
+		"type": "character",
+		"path": "witch",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "zombie",
+		"group": "Zombie",
+		"name": "Zomb",
+		"theme": "Halloween",
+		"type": "character",
+		"path": "zombie",
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "outfit_wizard_robe1",
@@ -3179,7 +3180,7 @@
 		"type": "pet",
 		"path": "penguin",
 		"cost": 40,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -3191,7 +3192,7 @@
 		"type": "pet",
 		"path": "snowball",
 		"cost": 40,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -3203,7 +3204,7 @@
 		"type": "character",
 		"path": "snowman",
 		"cost": 20,
-		"hidden": true
+		"sale": true
 	},
 	{
 		"id": "pet_yetchi_blue",
@@ -3213,7 +3214,7 @@
 		"type": "pet",
 		"path": "yetchi_blue",
 		"cost": 40,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -3225,7 +3226,7 @@
 		"type": "pet",
 		"path": "yetchi_green",
 		"cost": 40,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -3237,7 +3238,7 @@
 		"type": "pet",
 		"path": "yetchi_orange",
 		"cost": 40,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -3249,7 +3250,7 @@
 		"type": "pet",
 		"path": "yetchi_pink",
 		"cost": 40,
-		"hidden": true,
+		"sale": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -3261,7 +3262,7 @@
 		"type": "character",
 		"path": "yeti_blue",
 		"cost": 20,
-		"hidden": true
+		"sale": true
 	},
 	{
 		"id": "yeti_green",
@@ -3271,7 +3272,7 @@
 		"type": "character",
 		"path": "yeti_green",
 		"cost": 20,
-		"hidden": true
+		"sale": true
 	},
 	{
 		"id": "yeti_orange",
@@ -3281,7 +3282,7 @@
 		"type": "character",
 		"path": "yeti_orange",
 		"cost": 20,
-		"hidden": true
+		"sale": true
 	},
 	{
 		"id": "yeti_pink",
@@ -3291,6 +3292,6 @@
 		"type": "character",
 		"path": "yeti_pink",
 		"cost": 20,
-		"hidden": true
+		"sale": true
 	}
 ]

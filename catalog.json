@@ -403,6 +403,7 @@
 		"type": "pet",
 		"path": "gift_purple_silver",
 		"cost": 20,
+		"hidden": true,
 		"sale": true,
 		"minIdle": 0,
 		"maxIdle": 200

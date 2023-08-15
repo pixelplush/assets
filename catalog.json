@@ -2493,6 +2493,17 @@
 		"hidden": true
 	},
 	{
+		"id": "outfit_party_hat_blue_green",
+		"group": "Hat",
+		"name": "PixelPlush 2023 Party Hat (Blue/Green)",
+		"theme": "PixelPlush",
+		"type": "accessory",
+		"category": "hats",
+		"path": "party_hat_blue_green",
+		"cost": 0,
+		"hidden": true
+	},
+	{
 		"id": "outfit_mask1",
 		"group": "Mask",
 		"name": "Mask",

@@ -2504,6 +2504,26 @@
 		"hidden": true
 	},
 	{
+		"id": "outfit_party_hat_pink_item",
+		"group": "Hat",
+		"name": "Party Hat (Pink)",
+		"theme": "PixelPlush",
+		"type": "accessory",
+		"category": "hats",
+		"path": "party_hat_pink",
+		"cost": 10
+	},
+	{
+		"id": "outfit_party_hat_purple_item",
+		"group": "Hat",
+		"name": "Party Hat (Purple)",
+		"theme": "PixelPlush",
+		"type": "accessory",
+		"category": "hats",
+		"path": "party_hat_purple",
+		"cost": 10
+	},
+	{
 		"id": "outfit_mask1",
 		"group": "Mask",
 		"name": "Mask",

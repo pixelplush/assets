@@ -1,12 +1,66 @@
 [
 	{
+		"id": "outfit_party_hat_pink",
+		"group": "Hat",
+		"name": "PixelPlush 2022 Party Hat (Pink)",
+		"theme": "PixelPlush",
+		"type": "accessory",
+		"category": "hats",
+		"path": "party_hat_pink",
+		"cost": 0,
+		"hidden": true
+	},
+	{
+		"id": "outfit_party_hat_purple",
+		"group": "Hat",
+		"name": "PixelPlush 2022 Party Hat (Purple)",
+		"theme": "PixelPlush",
+		"type": "accessory",
+		"category": "hats",
+		"path": "party_hat_purple",
+		"cost": 0,
+		"hidden": true
+	},
+	{
+		"id": "outfit_party_hat_blue_green",
+		"group": "Hat",
+		"name": "PixelPlush 2023 Party Hat (Blue/Green)",
+		"theme": "PixelPlush",
+		"type": "accessory",
+		"category": "hats",
+		"path": "party_hat_blue_green",
+		"cost": 0,
+		"hidden": true
+	},
+	{
+		"id": "outfit_party_hat_pink_item",
+		"group": "Hat",
+		"name": "Party Hat (Pink)",
+		"theme": "PixelPlush",
+		"type": "accessory",
+		"category": "hats",
+		"path": "party_hat_pink",
+		"cost": 10
+	},
+	{
+		"id": "outfit_party_hat_purple_item",
+		"group": "Hat",
+		"name": "Party Hat (Purple)",
+		"theme": "PixelPlush",
+		"type": "accessory",
+		"category": "hats",
+		"path": "party_hat_purple",
+		"cost": 10
+	},
+	{
 		"id": "addon_parachute_easter",
 		"group": "Parachute Drop",
 		"name": "Easter (Parachute Drop)",
 		"theme": "Easter",
 		"type": "add-on",
 		"path": "icon_easter.png",
-		"cost": 20
+		"cost": 20,
+		"sale": true
 	},
 	{
 		"id": "outfit_onesie_rabbit_white",
@@ -465,7 +519,8 @@
 		"theme": "Halloween",
 		"type": "add-on",
 		"path": "icon_cauldron.gif",
-		"cost": 40
+		"cost": 40,
+		"sale": true
 	},
 	{
 		"id": "addon_plinko_halloween",
@@ -484,6 +539,7 @@
 		"type": "bundle",
 		"path": "icon_cake_bundle.gif",
 		"cost": 30,
+		"sale": true,
 		"items": "addon_parachute_cakeplush,addon_parachute_cakerainbow,addon_parachute_cakefruit,addon_parachute_cakechoco"
 	},
 	{
@@ -493,7 +549,8 @@
 		"theme": "PixelPlush",
 		"type": "add-on",
 		"path": "icon_cake_pixelplush.png",
-		"cost": 10
+		"cost": 10,
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_cakerainbow",
@@ -502,7 +559,8 @@
 		"theme": "PixelPlush",
 		"type": "add-on",
 		"path": "icon_cake_rainbow.png",
-		"cost": 10
+		"cost": 10,
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_cakefruit",
@@ -511,7 +569,8 @@
 		"theme": "PixelPlush",
 		"type": "add-on",
 		"path": "icon_cake_fruit.png",
-		"cost": 10
+		"cost": 10,
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_cakechoco",
@@ -520,7 +579,8 @@
 		"theme": "PixelPlush",
 		"type": "add-on",
 		"path": "icon_cake_choco2.png",
-		"cost": 10
+		"cost": 10,
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_rainbow",
@@ -529,7 +589,8 @@
 		"theme": "PixelPlush",
 		"type": "add-on",
 		"path": "rainbow.png",
-		"cost": 10
+		"cost": 10,
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_blossoms",
@@ -538,7 +599,8 @@
 		"theme": "PixelPlush",
 		"type": "add-on",
 		"path": "parachutedrop_spring.png",
-		"cost": 10
+		"cost": 10,
+		"sale": true
 	},
 	{
 		"id": "addon_pixelconfetti",
@@ -556,7 +618,8 @@
 		"theme": "Christmas",
 		"type": "add-on",
 		"path": "parachutes_christmas_eve.png",
-		"cost": 10
+		"cost": 10,
+		"sale": true
 	},
 	{
 		"id": "grinch",
@@ -2132,6 +2195,17 @@
 		"maxIdle": 0
 	},
 	{
+		"id": "pet_balloon_black",
+		"group": "Balloon",
+		"name": "Black Balloon",
+		"theme": "PixelPlush",
+		"type": "pet",
+		"path": "balloon_black",
+		"cost": 20,
+		"minIdle": 0,
+		"maxIdle": 200
+	},
+	{
 		"id": "pet_balloon_blue",
 		"group": "Balloon",
 		"name": "Blue Balloon",
@@ -2143,12 +2217,56 @@
 		"maxIdle": 200
 	},
 	{
+		"id": "pet_balloon_blue_heart",
+		"group": "Balloon",
+		"name": "Blue Heart Balloon",
+		"theme": "PixelPlush",
+		"type": "pet",
+		"path": "balloon_blue_heart",
+		"cost": 40,
+		"minIdle": 0,
+		"maxIdle": 200
+	},
+	{
+		"id": "pet_balloon_blue_green",
+		"group": "Balloon",
+		"name": "Blue Green Balloon",
+		"theme": "PixelPlush",
+		"type": "pet",
+		"path": "balloon_blue_green",
+		"cost": 20,
+		"minIdle": 0,
+		"maxIdle": 200
+	},
+	{
 		"id": "pet_balloon_blue_light",
 		"group": "Balloon",
 		"name": "Sky Balloon",
 		"theme": "PixelPlush",
 		"type": "pet",
 		"path": "balloon_blue_light",
+		"cost": 20,
+		"minIdle": 0,
+		"maxIdle": 200
+	},
+	{
+		"id": "pet_balloon_blue_yellow",
+		"group": "Balloon",
+		"name": "Blue Yellow Balloon",
+		"theme": "PixelPlush",
+		"type": "pet",
+		"path": "balloon_blue_yellow",
+		"cost": 20,
+		"minIdle": 0,
+		"maxIdle": 200
+	},
+	{
+		"id": "pet_balloon_emerald",
+		"group": "Balloon",
+		"name": "Emerald Balloon",
+		"theme": "PixelPlush",
+		"type": "pet",
+		"path": "balloon_emerald",
 		"cost": 20,
 		"minIdle": 0,
 		"maxIdle": 200
@@ -2176,6 +2294,28 @@
 		"maxIdle": 200
 	},
 	{
+		"id": "pet_balloon_green_heart",
+		"group": "Balloon",
+		"name": "Green Heart Balloon",
+		"theme": "PixelPlush",
+		"type": "pet",
+		"path": "balloon_green_heart",
+		"cost": 40,
+		"minIdle": 0,
+		"maxIdle": 200
+	},
+	{
+		"id": "pet_balloon_green_red",
+		"group": "Balloon",
+		"name": "Green Red Balloon",
+		"theme": "PixelPlush",
+		"type": "pet",
+		"path": "balloon_green_red",
+		"cost": 20,
+		"minIdle": 0,
+		"maxIdle": 200
+	},
+	{
 		"id": "pet_balloon_orange",
 		"group": "Balloon",
 		"name": "Orange Balloon",
@@ -2187,12 +2327,56 @@
 		"maxIdle": 200
 	},
 	{
+		"id": "pet_balloon_orange_heart",
+		"group": "Balloon",
+		"name": "Orange Heart Balloon",
+		"theme": "PixelPlush",
+		"type": "pet",
+		"path": "balloon_orange_heart",
+		"cost": 40,
+		"minIdle": 0,
+		"maxIdle": 200
+	},
+	{
+		"id": "pet_balloon_orange_purple",
+		"group": "Balloon",
+		"name": "Orange Purple Balloon",
+		"theme": "PixelPlush",
+		"type": "pet",
+		"path": "balloon_orange_purple",
+		"cost": 20,
+		"minIdle": 0,
+		"maxIdle": 200
+	},
+	{
 		"id": "pet_balloon_pink",
 		"group": "Balloon",
 		"name": "Hot Pink Balloon",
 		"theme": "PixelPlush",
 		"type": "pet",
 		"path": "balloon_pink",
+		"cost": 20,
+		"minIdle": 0,
+		"maxIdle": 200
+	},
+	{
+		"id": "pet_balloon_pink_heart",
+		"group": "Balloon",
+		"name": "Pink Heart Balloon",
+		"theme": "PixelPlush",
+		"type": "pet",
+		"path": "balloon_pink_heart",
+		"cost": 40,
+		"minIdle": 0,
+		"maxIdle": 200
+	},
+	{
+		"id": "pet_balloon_pink_blue",
+		"group": "Balloon",
+		"name": "Pink Blue Balloon",
+		"theme": "PixelPlush",
+		"type": "pet",
+		"path": "balloon_pink_blue",
 		"cost": 20,
 		"minIdle": 0,
 		"maxIdle": 200
@@ -2215,8 +2399,29 @@
 		"theme": "PixelPlush",
 		"type": "pet",
 		"path": "balloon_purple",
+		"cost": 20,
+		"minIdle": 0,
+		"maxIdle": 200
+	},
+	{
+		"id": "pet_balloon_purple_heart",
+		"group": "Balloon",
+		"name": "Purple Heart Balloon",
+		"theme": "PixelPlush",
+		"type": "pet",
+		"path": "balloon_purple_heart",
 		"cost": 40,
-		"hidden": true,
+		"minIdle": 0,
+		"maxIdle": 200
+	},
+	{
+		"id": "pet_balloon_purple_light",
+		"group": "Balloon",
+		"name": "Lavender Balloon",
+		"theme": "PixelPlush",
+		"type": "pet",
+		"path": "balloon_purple_light",
+		"cost": 20,
 		"minIdle": 0,
 		"maxIdle": 200
 	},
@@ -2243,6 +2448,28 @@
 		"maxIdle": 200
 	},
 	{
+		"id": "pet_balloon_red_heart",
+		"group": "Balloon",
+		"name": "Red Heart Balloon",
+		"theme": "PixelPlush",
+		"type": "pet",
+		"path": "balloon_red_heart",
+		"cost": 40,
+		"minIdle": 0,
+		"maxIdle": 200
+	},
+	{
+		"id": "pet_balloon_red_deep",
+		"group": "Balloon",
+		"name": "Deep Red Balloon",
+		"theme": "PixelPlush",
+		"type": "pet",
+		"path": "balloon_red_deep",
+		"cost": 20,
+		"minIdle": 0,
+		"maxIdle": 200
+	},
+	{
 		"id": "pet_balloon_silver",
 		"group": "Balloon",
 		"name": "Silver Balloon",
@@ -2254,12 +2481,45 @@
 		"maxIdle": 200
 	},
 	{
+		"id": "pet_balloon_white",
+		"group": "Balloon",
+		"name": "White Balloon",
+		"theme": "PixelPlush",
+		"type": "pet",
+		"path": "balloon_white",
+		"cost": 20,
+		"minIdle": 0,
+		"maxIdle": 200
+	},
+	{
 		"id": "pet_balloon_yellow",
 		"group": "Balloon",
 		"name": "Yellow Balloon",
 		"theme": "PixelPlush",
 		"type": "pet",
 		"path": "balloon_yellow",
+		"cost": 20,
+		"minIdle": 0,
+		"maxIdle": 200
+	},
+	{
+		"id": "pet_balloon_yellow_heart",
+		"group": "Balloon",
+		"name": "Yellow Heart Balloon",
+		"theme": "PixelPlush",
+		"type": "pet",
+		"path": "balloon_yellow_heart",
+		"cost": 40,
+		"minIdle": 0,
+		"maxIdle": 200
+	},
+	{
+		"id": "pet_balloon_yellow_purple",
+		"group": "Balloon",
+		"name": "Yellow Purple Balloon",
+		"theme": "PixelPlush",
+		"type": "pet",
+		"path": "balloon_yellow_purple",
 		"cost": 20,
 		"minIdle": 0,
 		"maxIdle": 200
@@ -2469,59 +2729,6 @@
 		"path": "hair5",
 		"cost": 5,
 		"hidden": true
-	},
-	{
-		"id": "outfit_party_hat_pink",
-		"group": "Hat",
-		"name": "PixelPlush 2022 Party Hat (Pink)",
-		"theme": "PixelPlush",
-		"type": "accessory",
-		"category": "hats",
-		"path": "party_hat_pink",
-		"cost": 0,
-		"hidden": true
-	},
-	{
-		"id": "outfit_party_hat_purple",
-		"group": "Hat",
-		"name": "PixelPlush 2022 Party Hat (Purple)",
-		"theme": "PixelPlush",
-		"type": "accessory",
-		"category": "hats",
-		"path": "party_hat_purple",
-		"cost": 0,
-		"hidden": true
-	},
-	{
-		"id": "outfit_party_hat_blue_green",
-		"group": "Hat",
-		"name": "PixelPlush 2023 Party Hat (Blue/Green)",
-		"theme": "PixelPlush",
-		"type": "accessory",
-		"category": "hats",
-		"path": "party_hat_blue_green",
-		"cost": 0,
-		"hidden": true
-	},
-	{
-		"id": "outfit_party_hat_pink_item",
-		"group": "Hat",
-		"name": "Party Hat (Pink)",
-		"theme": "PixelPlush",
-		"type": "accessory",
-		"category": "hats",
-		"path": "party_hat_pink",
-		"cost": 10
-	},
-	{
-		"id": "outfit_party_hat_purple_item",
-		"group": "Hat",
-		"name": "Party Hat (Purple)",
-		"theme": "PixelPlush",
-		"type": "accessory",
-		"category": "hats",
-		"path": "party_hat_purple",
-		"cost": 10
 	},
 	{
 		"id": "outfit_mask1",
@@ -3133,6 +3340,7 @@
 		"type": "bundle",
 		"path": "pool_icon_market.gif",
 		"cost": 60,
+		"sale": true,
 		"items": "addon_parachute_poolfrog,addon_parachute_poolmelon,addon_parachute_poolrainbow,addon_parachute_pooldots,addon_parachute_poolsparklypink,addon_parachute_poolsparklypurple,addon_parachute_poolyellow"
 	},
 	{
@@ -3142,7 +3350,8 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_frog.png",
-		"cost": 20
+		"cost": 20,
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_poolmelon",
@@ -3151,7 +3360,8 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_melon.png",
-		"cost": 20
+		"cost": 20,
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_poolrainbow",
@@ -3160,7 +3370,8 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_rainbow.png",
-		"cost": 10
+		"cost": 10,
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_pooldots",
@@ -3169,7 +3380,8 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_rainbowdots.png",
-		"cost": 10
+		"cost": 10,
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_poolsparklypink",
@@ -3178,7 +3390,8 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_pink.png",
-		"cost": 10
+		"cost": 10,
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_poolsparklypurple",
@@ -3187,7 +3400,8 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_purple.png",
-		"cost": 10
+		"cost": 10,
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_poolred",
@@ -3197,7 +3411,8 @@
 		"type": "add-on",
 		"path": "pool_icon_market_red.png",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_poolblue",
@@ -3207,7 +3422,8 @@
 		"type": "add-on",
 		"path": "pool_icon_market_blue.png",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_poolyellow",
@@ -3216,7 +3432,8 @@
 		"theme": "Summer",
 		"type": "add-on",
 		"path": "pool_icon_market_yellow.png",
-		"cost": 10
+		"cost": 10,
+		"sale": true
 	},
 	{
 		"id": "pet_donut_chocolate",
@@ -3288,6 +3505,7 @@
 		"theme": "Valentine",
 		"type": "add-on",
 		"path": "icon_valentines.png",
-		"cost": 40
+		"cost": 40,
+		"sale": true
 	}
 ]

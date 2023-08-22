@@ -198,6 +198,7 @@
 		"type": "pet",
 		"path": "egg_maaya",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -209,6 +210,7 @@
 		"type": "pet",
 		"path": "egg_instafluff",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -220,6 +222,7 @@
 		"type": "pet",
 		"path": "egg_cui",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -231,6 +234,7 @@
 		"type": "pet",
 		"path": "egg_big_blue_pink",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -242,6 +246,7 @@
 		"type": "pet",
 		"path": "egg_big_blue_white",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -253,6 +258,7 @@
 		"type": "pet",
 		"path": "egg_big_darkblue_white",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -264,6 +270,7 @@
 		"type": "pet",
 		"path": "egg_big_darkpink_white",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -275,6 +282,7 @@
 		"type": "pet",
 		"path": "egg_big_lime_green",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -286,6 +294,7 @@
 		"type": "pet",
 		"path": "egg_big_pink_pink",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -297,6 +306,7 @@
 		"type": "pet",
 		"path": "egg_big_pink_white",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -308,6 +318,7 @@
 		"type": "pet",
 		"path": "egg_big_purple_blue",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -319,6 +330,7 @@
 		"type": "pet",
 		"path": "egg_big_purple_white",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -330,6 +342,7 @@
 		"type": "pet",
 		"path": "egg_big_yellow_orange",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -341,6 +354,7 @@
 		"type": "pet",
 		"path": "egg_big_yellow_red",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -352,6 +366,7 @@
 		"type": "pet",
 		"path": "egg_big_black_white",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -363,6 +378,7 @@
 		"type": "pet",
 		"path": "egg_big_blue_blue",
 		"cost": 40,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -374,6 +390,7 @@
 		"type": "pet",
 		"path": "egg_small_green_blue",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -385,6 +402,7 @@
 		"type": "pet",
 		"path": "egg_small_green_yellow",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -396,6 +414,7 @@
 		"type": "pet",
 		"path": "egg_small_pink_red",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -407,6 +426,7 @@
 		"type": "pet",
 		"path": "egg_small_purple_blue",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -418,6 +438,7 @@
 		"type": "pet",
 		"path": "egg_small_purple_pink",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -429,6 +450,7 @@
 		"type": "pet",
 		"path": "egg_small_yellow_green",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -440,6 +462,7 @@
 		"type": "pet",
 		"path": "egg_small_yellow_pink",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -451,6 +474,7 @@
 		"type": "pet",
 		"path": "egg_small_black",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -462,6 +486,7 @@
 		"type": "pet",
 		"path": "egg_small_blue",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},
@@ -473,6 +498,7 @@
 		"type": "pet",
 		"path": "egg_small_orange",
 		"cost": 20,
+		"hidden": true,
 		"minIdle": 200,
 		"maxIdle": 800
 	},

@@ -29,8 +29,7 @@
 		"type": "accessory",
 		"category": "hats",
 		"path": "party_hat_blue_green",
-		"cost": 0,
-		"hidden": true
+		"cost": 0
 	},
 	{
 		"id": "outfit_party_hat_pink_item",

@@ -3478,6 +3478,33 @@
 		"oneAnim": true
 	},
 	{
+		"id": "chibi_bear_jimmy",
+		"group": "Bear",
+		"name": "Chibi Jimmy",
+		"theme": "Valentine",
+		"type": "character",
+		"path": "chibi_bear_jimmy",
+		"cost": 20
+	},
+	{
+		"id": "chibi_bear_pammy",
+		"group": "Bear",
+		"name": "Chibi Pammy",
+		"theme": "Valentine",
+		"type": "character",
+		"path": "chibi_bear_pammy",
+		"cost": 20
+	},
+	{
+		"id": "chibi_bear_grizzly",
+		"group": "Bear",
+		"name": "Chibi Grizzly",
+		"theme": "Valentine",
+		"type": "character",
+		"path": "chibi_bear_grizzly",
+		"cost": 20
+	},
+	{
 		"id": "boybear",
 		"group": "Bear",
 		"name": "Jimmy",

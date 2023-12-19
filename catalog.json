@@ -3480,7 +3480,7 @@
 	{
 		"id": "chibi_bear_jimmy",
 		"group": "Bear",
-		"name": "Chibi Jimmy",
+		"name": "Jimmy",
 		"theme": "Valentine",
 		"type": "character",
 		"path": "chibi_bear_jimmy",
@@ -3489,7 +3489,7 @@
 	{
 		"id": "chibi_bear_pammy",
 		"group": "Bear",
-		"name": "Chibi Pammy",
+		"name": "Pammy",
 		"theme": "Valentine",
 		"type": "character",
 		"path": "chibi_bear_pammy",
@@ -3498,7 +3498,7 @@
 	{
 		"id": "chibi_bear_grizzly",
 		"group": "Bear",
-		"name": "Chibi Grizzly",
+		"name": "Grizzly",
 		"theme": "Valentine",
 		"type": "character",
 		"path": "chibi_bear_grizzly",
@@ -3507,7 +3507,7 @@
 	{
 		"id": "boybear",
 		"group": "Bear",
-		"name": "Jimmy",
+		"name": "Jimmy (Classic)",
 		"theme": "Valentine",
 		"type": "character",
 		"path": "bear",
@@ -3516,7 +3516,7 @@
 	{
 		"id": "girlbear",
 		"group": "Bear",
-		"name": "Pammy",
+		"name": "Pammy (Classic)",
 		"theme": "Valentine",
 		"type": "character",
 		"path": "beargirl",
@@ -3525,7 +3525,7 @@
 	{
 		"id": "evilbear",
 		"group": "Bear",
-		"name": "Grizzly",
+		"name": "Grizzly (Classic)",
 		"theme": "Valentine",
 		"type": "character",
 		"path": "evil_bear",

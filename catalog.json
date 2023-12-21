@@ -3577,8 +3577,7 @@
 		"theme": "Valentine",
 		"type": "character",
 		"path": "chibi_bear_jimmy",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "chibi_bear_pammy",
@@ -3587,8 +3586,7 @@
 		"theme": "Valentine",
 		"type": "character",
 		"path": "chibi_bear_pammy",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "chibi_bear_grizzly",
@@ -3597,8 +3595,7 @@
 		"theme": "Valentine",
 		"type": "character",
 		"path": "chibi_bear_grizzly",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "boybear",
@@ -3607,8 +3604,7 @@
 		"theme": "Valentine",
 		"type": "character",
 		"path": "bear",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "girlbear",
@@ -3617,8 +3613,7 @@
 		"theme": "Valentine",
 		"type": "character",
 		"path": "beargirl",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "evilbear",
@@ -3627,8 +3622,7 @@
 		"theme": "Valentine",
 		"type": "character",
 		"path": "evil_bear",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "addon_parachute_valentines",

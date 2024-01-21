@@ -3710,6 +3710,7 @@
 		"path": "bow_black",
 		"cost": 10,
 		"hidden": true,
+		"sale": true,
 		"beta": true
 	},
 	{
@@ -3722,6 +3723,7 @@
 		"path": "bow_blue",
 		"cost": 10,
 		"hidden": true,
+		"sale": true,
 		"beta": true
 	},
 	{
@@ -3734,6 +3736,7 @@
 		"path": "bow_green",
 		"cost": 10,
 		"hidden": true,
+		"sale": true,
 		"beta": true
 	},
 	{
@@ -3746,6 +3749,7 @@
 		"path": "bow_orange",
 		"cost": 10,
 		"hidden": true,
+		"sale": true,
 		"beta": true
 	},
 	{
@@ -3758,6 +3762,7 @@
 		"path": "bow_pink",
 		"cost": 10,
 		"hidden": true,
+		"sale": true,
 		"beta": true
 	},
 	{
@@ -3770,6 +3775,7 @@
 		"path": "bow_purple",
 		"cost": 10,
 		"hidden": true,
+		"sale": true,
 		"beta": true
 	},
 	{
@@ -3782,6 +3788,7 @@
 		"path": "bow_rainbow",
 		"cost": 10,
 		"hidden": true,
+		"sale": true,
 		"beta": true
 	},
 	{
@@ -3794,6 +3801,7 @@
 		"path": "bow_red",
 		"cost": 10,
 		"hidden": true,
+		"sale": true,
 		"beta": true
 	},
 	{
@@ -3806,6 +3814,7 @@
 		"path": "bow_white",
 		"cost": 10,
 		"hidden": true,
+		"sale": true,
 		"beta": true
 	},
 	{
@@ -3818,6 +3827,7 @@
 		"path": "bow_yellow",
 		"cost": 10,
 		"hidden": true,
+		"sale": true,
 		"beta": true
 	},
 	{
@@ -3830,6 +3840,8 @@
 		"path": "ears_bear_jimmy",
 		"cost": 10,
 		"hidden": true,
+		"sale": true,
+		"character": "chibi_bear_jimmy",
 		"beta": true
 	},
 	{
@@ -3842,6 +3854,8 @@
 		"path": "ears_bear_pammy",
 		"cost": 10,
 		"hidden": true,
+		"sale": true,
+		"character": "chibi_bear_pammy",
 		"beta": true
 	},
 	{
@@ -3854,6 +3868,8 @@
 		"path": "ears_bear_grizzly",
 		"cost": 10,
 		"hidden": true,
+		"sale": true,
+		"character": "chibi_bear_grizzly",
 		"beta": true
 	},
 	{
@@ -3866,6 +3882,8 @@
 		"path": "mask_bear_jimmy",
 		"cost": 10,
 		"hidden": true,
+		"sale": true,
+		"character": "chibi_bear_jimmy",
 		"beta": true
 	},
 	{
@@ -3878,6 +3896,8 @@
 		"path": "mask_bear_pammy",
 		"cost": 10,
 		"hidden": true,
+		"sale": true,
+		"character": "chibi_bear_pammy",
 		"beta": true
 	},
 	{
@@ -3890,6 +3910,8 @@
 		"path": "mask_bear_grizzly",
 		"cost": 10,
 		"hidden": true,
+		"sale": true,
+		"character": "chibi_bear_grizzly",
 		"beta": true
 	},
 	{
@@ -3902,6 +3924,7 @@
 		"path": "onesie_bear_jimmy",
 		"cost": 20,
 		"hidden": true,
+		"sale": true,
 		"character": "chibi_bear_jimmy",
 		"beta": true
 	},
@@ -3915,6 +3938,7 @@
 		"path": "onesie_bear_pammy",
 		"cost": 20,
 		"hidden": true,
+		"sale": true,
 		"character": "chibi_bear_pammy",
 		"beta": true
 	},
@@ -3928,6 +3952,7 @@
 		"path": "onesie_bear_grizzly",
 		"cost": 20,
 		"hidden": true,
+		"sale": true,
 		"character": "chibi_bear_grizzly",
 		"beta": true
 	}

@@ -3631,7 +3631,8 @@
 		"path": "icon_valentines.png",
 		"cost": 40,
 		"hidden": true,
-		"items": "addon_parachute_valentines_brown_gold,addon_parachute_valentines_brown_pink,addon_parachute_valentines_brown_red,addon_parachute_valentines_white_gold,addon_parachute_valentines_white_pink,addon_parachute_valentines_white_red"
+		"items": "addon_parachute_valentines_brown_gold,addon_parachute_valentines_brown_pink,addon_parachute_valentines_brown_red,addon_parachute_valentines_white_gold,addon_parachute_valentines_white_pink,addon_parachute_valentines_white_red",
+		"beta": true
 	},
 	{
 		"id": "addon_parachute_valentines_brown_gold",
@@ -3641,7 +3642,8 @@
 		"type": "add-on",
 		"path": "bunny_brown_gold.png",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "addon_parachute_valentines_brown_pink",
@@ -3651,7 +3653,8 @@
 		"type": "add-on",
 		"path": "bunny_brown_pink.png",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "addon_parachute_valentines_brown_red",
@@ -3661,7 +3664,8 @@
 		"type": "add-on",
 		"path": "bunny_brown_red.png",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "addon_parachute_valentines_white_gold",
@@ -3671,7 +3675,8 @@
 		"type": "add-on",
 		"path": "bunny_white_gold.png",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "addon_parachute_valentines_white_pink",
@@ -3681,7 +3686,8 @@
 		"type": "add-on",
 		"path": "bunny_white_pink.png",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "addon_parachute_valentines_white_red",
@@ -3691,7 +3697,8 @@
 		"type": "add-on",
 		"path": "bunny_white_red.png",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_bow_black",
@@ -3702,7 +3709,8 @@
 		"category": "hats",
 		"path": "bow_black",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_bow_blue",
@@ -3713,7 +3721,8 @@
 		"category": "hats",
 		"path": "bow_blue",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_bow_green",
@@ -3724,7 +3733,8 @@
 		"category": "hats",
 		"path": "bow_green",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_bow_orange",
@@ -3735,7 +3745,8 @@
 		"category": "hats",
 		"path": "bow_orange",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_bow_pink",
@@ -3746,7 +3757,8 @@
 		"category": "hats",
 		"path": "bow_pink",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_bow_purple",
@@ -3757,7 +3769,8 @@
 		"category": "hats",
 		"path": "bow_purple",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_bow_rainbow",
@@ -3768,7 +3781,8 @@
 		"category": "hats",
 		"path": "bow_rainbow",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_bow_red",
@@ -3779,7 +3793,8 @@
 		"category": "hats",
 		"path": "bow_red",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_bow_white",
@@ -3790,7 +3805,8 @@
 		"category": "hats",
 		"path": "bow_white",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_bow_yellow",
@@ -3801,7 +3817,8 @@
 		"category": "hats",
 		"path": "bow_yellow",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_ears_bear_jimmy",
@@ -3812,7 +3829,8 @@
 		"category": "hats",
 		"path": "ears_bear_jimmy",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_ears_bear_pammy",
@@ -3823,7 +3841,8 @@
 		"category": "hats",
 		"path": "ears_bear_pammy",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_ears_bear_grizzly",
@@ -3834,7 +3853,8 @@
 		"category": "hats",
 		"path": "ears_bear_grizzly",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_mask_bear_jimmy",
@@ -3845,7 +3865,8 @@
 		"category": "masks",
 		"path": "mask_bear_jimmy",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_mask_bear_pammy",
@@ -3856,7 +3877,8 @@
 		"category": "masks",
 		"path": "mask_bear_pammy",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_mask_bear_grizzly",
@@ -3867,7 +3889,8 @@
 		"category": "masks",
 		"path": "mask_bear_grizzly",
 		"cost": 10,
-		"hidden": true
+		"hidden": true,
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_bear_jimmy",
@@ -3879,7 +3902,8 @@
 		"path": "onesie_bear_jimmy",
 		"cost": 20,
 		"hidden": true,
-		"character": "chibi_bear_jimmy"
+		"character": "chibi_bear_jimmy",
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_bear_pammy",
@@ -3891,7 +3915,8 @@
 		"path": "onesie_bear_pammy",
 		"cost": 20,
 		"hidden": true,
-		"character": "chibi_bear_pammy"
+		"character": "chibi_bear_pammy",
+		"beta": true
 	},
 	{
 		"id": "outfit_onesie_bear_grizzly",
@@ -3903,6 +3928,7 @@
 		"path": "onesie_bear_grizzly",
 		"cost": 20,
 		"hidden": true,
-		"character": "chibi_bear_grizzly"
+		"character": "chibi_bear_grizzly",
+		"beta": true
 	}
 ]

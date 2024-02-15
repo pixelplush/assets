@@ -1,5 +1,426 @@
 [
 	{
+		"id": "addon_parachute_easter",
+		"group": "Parachute Drop",
+		"name": "Easter (Parachute Drop)",
+		"theme": "Easter",
+		"type": "add-on",
+		"path": "icon_easter.png",
+		"cost": 20
+	},
+	{
+		"id": "outfit_onesie_rabbit_white",
+		"group": "Onesie",
+		"name": "Snowy Onesie",
+		"theme": "Easter",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "onesie_rabbit_white",
+		"cost": 20,
+		"character": "rabbit_onesie_white"
+	},
+	{
+		"id": "outfit_onesie_rabbit_grey",
+		"group": "Onesie",
+		"name": "Chevy Onesie",
+		"theme": "Easter",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "onesie_rabbit_grey",
+		"cost": 20,
+		"character": "rabbit_onesie_grey"
+	},
+	{
+		"id": "outfit_onesie_rabbit_black",
+		"group": "Onesie",
+		"name": "Buzz Onesie",
+		"theme": "Easter",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "onesie_rabbit_black",
+		"cost": 20,
+		"character": "rabbit_onesie_black"
+	},
+	{
+		"id": "outfit_onesie_rabbit_brown",
+		"group": "Onesie",
+		"name": "Whisky Onesie",
+		"theme": "Easter",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "onesie_rabbit_brown",
+		"cost": 20,
+		"character": "rabbit"
+	},
+	{
+		"id": "outfit_onesie_chick_brown",
+		"group": "Onesie",
+		"name": "Amilia Onesie",
+		"theme": "Easter",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "onesie_chick_brown",
+		"cost": 20
+	},
+	{
+		"id": "outfit_onesie_chick_yellow",
+		"group": "Onesie",
+		"name": "Cleo Onesie",
+		"theme": "Easter",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "onesie_chick_yellow",
+		"cost": 20,
+		"character": "chick"
+	},
+	{
+		"id": "outfit_onesie_chick_white",
+		"group": "Onesie",
+		"name": "Ethel Onesie",
+		"theme": "Easter",
+		"type": "outfit",
+		"category": "onesies",
+		"path": "onesie_chick_white",
+		"cost": 20
+	},
+	{
+		"id": "pet_rabbit2",
+		"group": "Rabbit",
+		"name": "Cotton",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "rabbit2",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "rabbit",
+		"group": "Rabbit",
+		"name": "Rabbit Outfit",
+		"theme": "Easter",
+		"type": "character",
+		"path": "rabbit",
+		"cost": 20
+	},
+	{
+		"id": "pet_chick",
+		"group": "Chick",
+		"name": "Chicklet",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "chick",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_chocklet",
+		"group": "Chick",
+		"name": "Chocklet",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "chocklet",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "chick",
+		"group": "Chick",
+		"name": "Chick Outfit",
+		"theme": "Easter",
+		"type": "character",
+		"path": "chick",
+		"cost": 20
+	},
+	{
+		"id": "pet_egg_maaya",
+		"group": "Egg",
+		"name": "Eggya",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_maaya",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_instafluff",
+		"group": "Egg",
+		"name": "Eggsta",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_instafluff",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_cui",
+		"group": "Egg",
+		"name": "Eggcui",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_cui",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_big_blue_pink",
+		"group": "Egg",
+		"name": "Big Blue Pink",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_big_blue_pink",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_big_blue_white",
+		"group": "Egg",
+		"name": "Big Blue White",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_big_blue_white",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_big_darkblue_white",
+		"group": "Egg",
+		"name": "Big Dark Blue White",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_big_darkblue_white",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_big_darkpink_white",
+		"group": "Egg",
+		"name": "Big Dark Pink White",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_big_darkpink_white",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_big_lime_green",
+		"group": "Egg",
+		"name": "Big Lime Green",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_big_lime_green",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_big_pink_pink",
+		"group": "Egg",
+		"name": "Big Pink",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_big_pink_pink",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_big_pink_white",
+		"group": "Egg",
+		"name": "Big Pink White",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_big_pink_white",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_big_purple_blue",
+		"group": "Egg",
+		"name": "Big Purple Blue",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_big_purple_blue",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_big_purple_white",
+		"group": "Egg",
+		"name": "Big Purple White",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_big_purple_white",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_big_yellow_orange",
+		"group": "Egg",
+		"name": "Big Yellow Orange",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_big_yellow_orange",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_big_yellow_red",
+		"group": "Egg",
+		"name": "Big Yellow Red",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_big_yellow_red",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_big_black_white",
+		"group": "Egg",
+		"name": "Big Black White",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_big_black_white",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_big_blue_blue",
+		"group": "Egg",
+		"name": "Big Blue Blue",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_big_blue_blue",
+		"cost": 40,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_small_green_blue",
+		"group": "Egg",
+		"name": "Small Green Blue",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_small_green_blue",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_small_green_yellow",
+		"group": "Egg",
+		"name": "Small Green Yellow",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_small_green_yellow",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_small_pink_red",
+		"group": "Egg",
+		"name": "Small Pink Red",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_small_pink_red",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_small_purple_blue",
+		"group": "Egg",
+		"name": "Small Purple Blue",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_small_purple_blue",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_small_purple_pink",
+		"group": "Egg",
+		"name": "Small Purple Pink",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_small_purple_pink",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_small_yellow_green",
+		"group": "Egg",
+		"name": "Small Yellow Green",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_small_yellow_green",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_small_yellow_pink",
+		"group": "Egg",
+		"name": "Small Yellow Pink",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_small_yellow_pink",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_small_black",
+		"group": "Egg",
+		"name": "Small Black",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_small_black",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_small_blue",
+		"group": "Egg",
+		"name": "Small Blue",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_small_blue",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
+		"id": "pet_egg_small_orange",
+		"group": "Egg",
+		"name": "Small Orange",
+		"theme": "Easter",
+		"type": "pet",
+		"path": "egg_small_orange",
+		"cost": 20,
+		"minIdle": 200,
+		"maxIdle": 800
+	},
+	{
 		"id": "chibi_bear_jimmy",
 		"group": "Bear",
 		"name": "Jimmy",
@@ -71,7 +492,6 @@
 		"type": "bundle",
 		"path": "icon_valentines.png",
 		"cost": 40,
-		"sale": true,
 		"items": "addon_parachute_valentines_brown_gold,addon_parachute_valentines_brown_pink,addon_parachute_valentines_brown_red,addon_parachute_valentines_white_gold,addon_parachute_valentines_white_pink,addon_parachute_valentines_white_red"
 	},
 	{
@@ -81,8 +501,7 @@
 		"theme": "Valentine",
 		"type": "add-on",
 		"path": "bunny_brown_gold.png",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "addon_parachute_valentines_brown_pink",
@@ -91,8 +510,7 @@
 		"theme": "Valentine",
 		"type": "add-on",
 		"path": "bunny_brown_pink.png",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "addon_parachute_valentines_brown_red",
@@ -101,8 +519,7 @@
 		"theme": "Valentine",
 		"type": "add-on",
 		"path": "bunny_brown_red.png",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "addon_parachute_valentines_white_gold",
@@ -111,8 +528,7 @@
 		"theme": "Valentine",
 		"type": "add-on",
 		"path": "bunny_white_gold.png",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "addon_parachute_valentines_white_pink",
@@ -121,8 +537,7 @@
 		"theme": "Valentine",
 		"type": "add-on",
 		"path": "bunny_white_pink.png",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "addon_parachute_valentines_white_red",
@@ -131,8 +546,7 @@
 		"theme": "Valentine",
 		"type": "add-on",
 		"path": "bunny_white_red.png",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_bow_black",
@@ -142,8 +556,7 @@
 		"type": "accessory",
 		"category": "hats",
 		"path": "bow_black",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_bow_blue",
@@ -153,8 +566,7 @@
 		"type": "accessory",
 		"category": "hats",
 		"path": "bow_blue",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_bow_green",
@@ -164,8 +576,7 @@
 		"type": "accessory",
 		"category": "hats",
 		"path": "bow_green",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_bow_orange",
@@ -175,8 +586,7 @@
 		"type": "accessory",
 		"category": "hats",
 		"path": "bow_orange",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_bow_pink",
@@ -186,8 +596,7 @@
 		"type": "accessory",
 		"category": "hats",
 		"path": "bow_pink",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_bow_purple",
@@ -197,8 +606,7 @@
 		"type": "accessory",
 		"category": "hats",
 		"path": "bow_purple",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_bow_rainbow",
@@ -208,8 +616,7 @@
 		"type": "accessory",
 		"category": "hats",
 		"path": "bow_rainbow",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_bow_red",
@@ -219,8 +626,7 @@
 		"type": "accessory",
 		"category": "hats",
 		"path": "bow_red",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_bow_white",
@@ -230,8 +636,7 @@
 		"type": "accessory",
 		"category": "hats",
 		"path": "bow_white",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_bow_yellow",
@@ -241,8 +646,7 @@
 		"type": "accessory",
 		"category": "hats",
 		"path": "bow_yellow",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "outfit_ears_bear_jimmy",
@@ -253,7 +657,6 @@
 		"category": "hats",
 		"path": "ears_bear_jimmy",
 		"cost": 10,
-		"sale": true,
 		"character": "chibi_bear_jimmy"
 	},
 	{
@@ -265,7 +668,6 @@
 		"category": "hats",
 		"path": "ears_bear_pammy",
 		"cost": 10,
-		"sale": true,
 		"character": "chibi_bear_pammy"
 	},
 	{
@@ -277,7 +679,6 @@
 		"category": "hats",
 		"path": "ears_bear_grizzly",
 		"cost": 10,
-		"sale": true,
 		"character": "chibi_bear_grizzly"
 	},
 	{
@@ -289,7 +690,6 @@
 		"category": "masks",
 		"path": "mask_bear_jimmy",
 		"cost": 10,
-		"sale": true,
 		"character": "chibi_bear_jimmy"
 	},
 	{
@@ -301,7 +701,6 @@
 		"category": "masks",
 		"path": "mask_bear_pammy",
 		"cost": 10,
-		"sale": true,
 		"character": "chibi_bear_pammy"
 	},
 	{
@@ -313,7 +712,6 @@
 		"category": "masks",
 		"path": "mask_bear_grizzly",
 		"cost": 10,
-		"sale": true,
 		"character": "chibi_bear_grizzly"
 	},
 	{
@@ -325,7 +723,6 @@
 		"category": "onesies",
 		"path": "onesie_bear_jimmy",
 		"cost": 20,
-		"sale": true,
 		"character": "chibi_bear_jimmy"
 	},
 	{
@@ -337,7 +734,6 @@
 		"category": "onesies",
 		"path": "onesie_bear_pammy",
 		"cost": 20,
-		"sale": true,
 		"character": "chibi_bear_pammy"
 	},
 	{
@@ -349,7 +745,6 @@
 		"category": "onesies",
 		"path": "onesie_bear_grizzly",
 		"cost": 20,
-		"sale": true,
 		"character": "chibi_bear_grizzly"
 	},
 	{
@@ -1008,457 +1403,6 @@
 		"cost": 10
 	},
 	{
-		"id": "addon_parachute_easter",
-		"group": "Parachute Drop",
-		"name": "Easter (Parachute Drop)",
-		"theme": "Easter",
-		"type": "add-on",
-		"path": "icon_easter.png",
-		"cost": 20
-	},
-	{
-		"id": "outfit_onesie_rabbit_white",
-		"group": "Onesie",
-		"name": "Snowy Onesie",
-		"theme": "Easter",
-		"type": "outfit",
-		"category": "onesies",
-		"path": "onesie_rabbit_white",
-		"cost": 20,
-		"character": "rabbit_onesie_white"
-	},
-	{
-		"id": "outfit_onesie_rabbit_grey",
-		"group": "Onesie",
-		"name": "Chevy Onesie",
-		"theme": "Easter",
-		"type": "outfit",
-		"category": "onesies",
-		"path": "onesie_rabbit_grey",
-		"cost": 20,
-		"character": "rabbit_onesie_grey"
-	},
-	{
-		"id": "outfit_onesie_rabbit_black",
-		"group": "Onesie",
-		"name": "Buzz Onesie",
-		"theme": "Easter",
-		"type": "outfit",
-		"category": "onesies",
-		"path": "onesie_rabbit_black",
-		"cost": 20,
-		"character": "rabbit_onesie_black"
-	},
-	{
-		"id": "outfit_onesie_rabbit_brown",
-		"group": "Onesie",
-		"name": "Whisky Onesie",
-		"theme": "Easter",
-		"type": "outfit",
-		"category": "onesies",
-		"path": "onesie_rabbit_brown",
-		"cost": 20,
-		"character": "rabbit"
-	},
-	{
-		"id": "outfit_onesie_chick_brown",
-		"group": "Onesie",
-		"name": "Amilia Onesie",
-		"theme": "Easter",
-		"type": "outfit",
-		"category": "onesies",
-		"path": "onesie_chick_brown",
-		"cost": 20
-	},
-	{
-		"id": "outfit_onesie_chick_yellow",
-		"group": "Onesie",
-		"name": "Cleo Onesie",
-		"theme": "Easter",
-		"type": "outfit",
-		"category": "onesies",
-		"path": "onesie_chick_yellow",
-		"cost": 20,
-		"character": "chick"
-	},
-	{
-		"id": "outfit_onesie_chick_white",
-		"group": "Onesie",
-		"name": "Ethel Onesie",
-		"theme": "Easter",
-		"type": "outfit",
-		"category": "onesies",
-		"path": "onesie_chick_white",
-		"cost": 20
-	},
-	{
-		"id": "pet_rabbit2",
-		"group": "Rabbit",
-		"name": "Cotton",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "rabbit2",
-		"cost": 40,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "rabbit",
-		"group": "Rabbit",
-		"name": "Rabbit Outfit",
-		"theme": "Easter",
-		"type": "character",
-		"path": "rabbit",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "pet_chick",
-		"group": "Chick",
-		"name": "Chicklet",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "chick",
-		"cost": 40,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_chocklet",
-		"group": "Chick",
-		"name": "Chocklet",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "chocklet",
-		"cost": 40,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "chick",
-		"group": "Chick",
-		"name": "Chick Outfit",
-		"theme": "Easter",
-		"type": "character",
-		"path": "chick",
-		"cost": 20,
-		"hidden": true
-	},
-	{
-		"id": "pet_egg_maaya",
-		"group": "Egg",
-		"name": "Eggya",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_maaya",
-		"cost": 40,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_instafluff",
-		"group": "Egg",
-		"name": "Eggsta",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_instafluff",
-		"cost": 40,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_cui",
-		"group": "Egg",
-		"name": "Eggcui",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_cui",
-		"cost": 40,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_big_blue_pink",
-		"group": "Egg",
-		"name": "Big Blue Pink",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_big_blue_pink",
-		"cost": 40,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_big_blue_white",
-		"group": "Egg",
-		"name": "Big Blue White",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_big_blue_white",
-		"cost": 40,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_big_darkblue_white",
-		"group": "Egg",
-		"name": "Big Dark Blue White",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_big_darkblue_white",
-		"cost": 40,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_big_darkpink_white",
-		"group": "Egg",
-		"name": "Big Dark Pink White",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_big_darkpink_white",
-		"cost": 40,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_big_lime_green",
-		"group": "Egg",
-		"name": "Big Lime Green",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_big_lime_green",
-		"cost": 40,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_big_pink_pink",
-		"group": "Egg",
-		"name": "Big Pink",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_big_pink_pink",
-		"cost": 40,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_big_pink_white",
-		"group": "Egg",
-		"name": "Big Pink White",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_big_pink_white",
-		"cost": 40,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_big_purple_blue",
-		"group": "Egg",
-		"name": "Big Purple Blue",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_big_purple_blue",
-		"cost": 40,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_big_purple_white",
-		"group": "Egg",
-		"name": "Big Purple White",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_big_purple_white",
-		"cost": 40,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_big_yellow_orange",
-		"group": "Egg",
-		"name": "Big Yellow Orange",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_big_yellow_orange",
-		"cost": 40,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_big_yellow_red",
-		"group": "Egg",
-		"name": "Big Yellow Red",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_big_yellow_red",
-		"cost": 40,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_big_black_white",
-		"group": "Egg",
-		"name": "Big Black White",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_big_black_white",
-		"cost": 40,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_big_blue_blue",
-		"group": "Egg",
-		"name": "Big Blue Blue",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_big_blue_blue",
-		"cost": 40,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_small_green_blue",
-		"group": "Egg",
-		"name": "Small Green Blue",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_small_green_blue",
-		"cost": 20,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_small_green_yellow",
-		"group": "Egg",
-		"name": "Small Green Yellow",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_small_green_yellow",
-		"cost": 20,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_small_pink_red",
-		"group": "Egg",
-		"name": "Small Pink Red",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_small_pink_red",
-		"cost": 20,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_small_purple_blue",
-		"group": "Egg",
-		"name": "Small Purple Blue",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_small_purple_blue",
-		"cost": 20,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_small_purple_pink",
-		"group": "Egg",
-		"name": "Small Purple Pink",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_small_purple_pink",
-		"cost": 20,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_small_yellow_green",
-		"group": "Egg",
-		"name": "Small Yellow Green",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_small_yellow_green",
-		"cost": 20,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_small_yellow_pink",
-		"group": "Egg",
-		"name": "Small Yellow Pink",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_small_yellow_pink",
-		"cost": 20,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_small_black",
-		"group": "Egg",
-		"name": "Small Black",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_small_black",
-		"cost": 20,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_small_blue",
-		"group": "Egg",
-		"name": "Small Blue",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_small_blue",
-		"cost": 20,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
-		"id": "pet_egg_small_orange",
-		"group": "Egg",
-		"name": "Small Orange",
-		"theme": "Easter",
-		"type": "pet",
-		"path": "egg_small_orange",
-		"cost": 20,
-		"hidden": true,
-		"minIdle": 200,
-		"maxIdle": 800
-	},
-	{
 		"id": "addon_streamweather",
 		"group": "Stream Weather",
 		"name": "Stream Weather",
@@ -2035,7 +1979,6 @@
 		"type": "pet",
 		"path": "poop_brown",
 		"cost": 40,
-		"hidden": true,
 		"minIdle": 400,
 		"maxIdle": 800
 	},
@@ -2047,7 +1990,6 @@
 		"type": "pet",
 		"path": "poop_green",
 		"cost": 40,
-		"hidden": true,
 		"minIdle": 400,
 		"maxIdle": 800
 	},
@@ -2059,7 +2001,6 @@
 		"type": "pet",
 		"path": "poop_purple",
 		"cost": 40,
-		"hidden": true,
 		"minIdle": 400,
 		"maxIdle": 800
 	},
@@ -2071,7 +2012,6 @@
 		"type": "pet",
 		"path": "poop_yellow",
 		"cost": 40,
-		"hidden": true,
 		"minIdle": 400,
 		"maxIdle": 800
 	},
@@ -2083,7 +2023,6 @@
 		"type": "pet",
 		"path": "poop_rainbow",
 		"cost": 40,
-		"hidden": true,
 		"minIdle": 400,
 		"maxIdle": 800
 	},
@@ -2095,7 +2034,6 @@
 		"type": "pet",
 		"path": "poop_pink",
 		"cost": 40,
-		"hidden": true,
 		"minIdle": 400,
 		"maxIdle": 800
 	},
@@ -2107,7 +2045,6 @@
 		"type": "pet",
 		"path": "poop_blue",
 		"cost": 40,
-		"hidden": true,
 		"minIdle": 400,
 		"maxIdle": 800
 	},

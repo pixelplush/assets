@@ -1,5 +1,76 @@
 [
 	{
+		"id": "bundle_parachute_easter",
+		"group": "Parachute Drop",
+		"name": "Easter Bundle (Parachute Drop)",
+		"theme": "Easter",
+		"type": "bundle",
+		"path": "icon_easter.png",
+		"cost": 40,
+		"hidden": true,
+		"items": "addon_parachute_poolfrog,addon_parachute_poolmelon,addon_parachute_poolrainbow,addon_parachute_pooldots,addon_parachute_poolsparklypink,addon_parachute_poolsparklypurple,addon_parachute_poolyellow"
+	},
+	{
+		"id": "addon_parachute_eastercandy",
+		"group": "Parachute Drop",
+		"name": "Easter Candy (Parachute Drop)",
+		"theme": "Easter",
+		"type": "add-on",
+		"path": "easter_icon_1.png",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "addon_parachute_easterchoco",
+		"group": "Parachute Drop",
+		"name": "Easter Chocolate (Parachute Drop)",
+		"theme": "Easter",
+		"type": "add-on",
+		"path": "easter_icon_2.png",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "addon_parachute_eastersweets",
+		"group": "Parachute Drop",
+		"name": "Easter Sweets (Parachute Drop)",
+		"theme": "Easter",
+		"type": "add-on",
+		"path": "easter_icon_3.png",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "addon_parachute_eastermarshmallow",
+		"group": "Parachute Drop",
+		"name": "Easter Marshmallow (Parachute Drop)",
+		"theme": "Easter",
+		"type": "add-on",
+		"path": "easter_icon_4.png",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "addon_parachute_eastercotton",
+		"group": "Parachute Drop",
+		"name": "Easter Cotton (Parachute Drop)",
+		"theme": "Easter",
+		"type": "add-on",
+		"path": "easter_icon_5.png",
+		"cost": 10,
+		"hidden": true
+	},
+	{
+		"id": "addon_parachute_easterdots",
+		"group": "Parachute Drop",
+		"name": "Easter Dots (Parachute Drop)",
+		"theme": "Easter",
+		"type": "add-on",
+		"path": "easter_icon_6.png",
+		"cost": 10,
+		"hidden": true
+	},
+	{
 		"id": "addon_parachute_easter",
 		"group": "Parachute Drop",
 		"name": "Easter (Parachute Drop)",

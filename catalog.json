@@ -7,7 +7,7 @@
 		"type": "bundle",
 		"path": "icon_easter.png",
 		"cost": 40,
-		"hidden": true,
+		"sale": true,
 		"items": "addon_parachute_eastercandy,addon_parachute_easterchoco,addon_parachute_eastersweets,addon_parachute_eastermarshmallow,addon_parachute_eastercotton,addon_parachute_easterdots"
 	},
 	{
@@ -18,7 +18,7 @@
 		"type": "add-on",
 		"path": "easter_icon_1.png",
 		"cost": 10,
-		"hidden": true
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_easterchoco",
@@ -28,7 +28,7 @@
 		"type": "add-on",
 		"path": "easter_icon_2.png",
 		"cost": 10,
-		"hidden": true
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_eastersweets",
@@ -38,7 +38,7 @@
 		"type": "add-on",
 		"path": "easter_icon_3.png",
 		"cost": 10,
-		"hidden": true
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_eastermarshmallow",
@@ -48,7 +48,7 @@
 		"type": "add-on",
 		"path": "easter_icon_4.png",
 		"cost": 10,
-		"hidden": true
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_eastercotton",
@@ -58,7 +58,7 @@
 		"type": "add-on",
 		"path": "easter_icon_5.png",
 		"cost": 10,
-		"hidden": true
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_easterdots",
@@ -68,7 +68,7 @@
 		"type": "add-on",
 		"path": "easter_icon_6.png",
 		"cost": 10,
-		"hidden": true
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_easter",
@@ -77,7 +77,8 @@
 		"theme": "Easter",
 		"type": "add-on",
 		"path": "icon_easter.png",
-		"cost": 20
+		"cost": 20,
+		"hidden": true
 	},
 	{
 		"id": "outfit_onesie_rabbit_white",

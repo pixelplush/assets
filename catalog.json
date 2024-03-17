@@ -8,7 +8,7 @@
 		"path": "icon_easter.png",
 		"cost": 40,
 		"hidden": true,
-		"items": "addon_parachute_poolfrog,addon_parachute_poolmelon,addon_parachute_poolrainbow,addon_parachute_pooldots,addon_parachute_poolsparklypink,addon_parachute_poolsparklypurple,addon_parachute_poolyellow"
+		"items": "addon_parachute_eastercandy,addon_parachute_easterchoco,addon_parachute_eastersweets,addon_parachute_eastermarshmallow,addon_parachute_eastercotton,addon_parachute_easterdots"
 	},
 	{
 		"id": "addon_parachute_eastercandy",

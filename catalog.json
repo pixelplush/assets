@@ -1,5 +1,87 @@
 [
 	{
+		"id": "bundle_giveaway_colors",
+		"group": "Giveaway",
+		"name": "Colors Bundle (Giveaway)",
+		"theme": "PixelPlush",
+		"type": "bundle",
+		"path": "icon_giveaway_bundle.gif",
+		"cost": 50,
+		"items": "addon_giveaway_blue,addon_giveaway_bw,addon_giveaway_green,addon_giveaway_orange,addon_giveaway_pink,addon_giveaway_purple,addon_giveaway_red,addon_giveaway_yellow"
+	},
+	{
+		"id": "addon_giveaway_blue",
+		"group": "Giveaway",
+		"name": "Blue (Giveaway)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "icon_giveaway_blue.png",
+		"cost": 10
+	},
+	{
+		"id": "addon_giveaway_bw",
+		"group": "Giveaway",
+		"name": "Black & White (Giveaway)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "icon_giveaway_bw.png",
+		"cost": 10
+	},
+	{
+		"id": "addon_giveaway_green",
+		"group": "Giveaway",
+		"name": "Green (Giveaway)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "icon_giveaway_green.png",
+		"cost": 10
+	},
+	{
+		"id": "addon_giveaway_orange",
+		"group": "Giveaway",
+		"name": "Orange (Giveaway)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "icon_giveaway_orange.png",
+		"cost": 10
+	},
+	{
+		"id": "addon_giveaway_pink",
+		"group": "Giveaway",
+		"name": "Pink (Giveaway)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "icon_giveaway_pink.png",
+		"cost": 10
+	},
+	{
+		"id": "addon_giveaway_purple",
+		"group": "Giveaway",
+		"name": "Purple (Giveaway)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "icon_giveaway_purple.png",
+		"cost": 10
+	},
+	{
+		"id": "addon_giveaway_red",
+		"group": "Giveaway",
+		"name": "Red (Giveaway)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "icon_giveaway_red.png",
+		"cost": 10
+	},
+	{
+		"id": "addon_giveaway_yellow",
+		"group": "Giveaway",
+		"name": "Yellow (Giveaway)",
+		"theme": "PixelPlush",
+		"type": "add-on",
+		"path": "icon_giveaway_yellow.png",
+		"cost": 10
+	},
+	{
 		"id": "bundle_parachute_easter",
 		"group": "Parachute Drop",
 		"name": "Easter Bundle (Parachute Drop)",
@@ -3912,96 +3994,5 @@
 		"minIdle": 200,
 		"maxIdle": 800,
 		"oneAnim": true
-	},
-	{
-		"id": "addon_giveaway_blue",
-		"group": "Giveaway",
-		"name": "Blue (Giveaway)",
-		"theme": "PixelPlush",
-		"type": "add-on",
-		"path": "icon_giveaway_blue.png",
-		"cost": 10,
-		"hidden": true
-	},
-	{
-		"id": "addon_giveaway_bw",
-		"group": "Giveaway",
-		"name": "Black & White (Giveaway)",
-		"theme": "PixelPlush",
-		"type": "add-on",
-		"path": "icon_giveaway_bw.png",
-		"cost": 10,
-		"hidden": true
-	},
-	{
-		"id": "addon_giveaway_green",
-		"group": "Giveaway",
-		"name": "Green (Giveaway)",
-		"theme": "PixelPlush",
-		"type": "add-on",
-		"path": "icon_giveaway_green.png",
-		"cost": 10,
-		"hidden": true
-	},
-	{
-		"id": "addon_giveaway_orange",
-		"group": "Giveaway",
-		"name": "Orange (Giveaway)",
-		"theme": "PixelPlush",
-		"type": "add-on",
-		"path": "icon_giveaway_orange.png",
-		"cost": 10,
-		"hidden": true
-	},
-	{
-		"id": "addon_giveaway_pink",
-		"group": "Giveaway",
-		"name": "Pink (Giveaway)",
-		"theme": "PixelPlush",
-		"type": "add-on",
-		"path": "icon_giveaway_pink.png",
-		"cost": 10,
-		"hidden": true
-	},
-	{
-		"id": "addon_giveaway_purple",
-		"group": "Giveaway",
-		"name": "Purple (Giveaway)",
-		"theme": "PixelPlush",
-		"type": "add-on",
-		"path": "icon_giveaway_purple.png",
-		"cost": 10,
-		"hidden": true
-	},
-	{
-		"id": "addon_giveaway_red",
-		"group": "Giveaway",
-		"name": "Red (Giveaway)",
-		"theme": "PixelPlush",
-		"type": "add-on",
-		"path": "icon_giveaway_red.png",
-		"cost": 10,
-		"hidden": true
-	},
-	{
-		"id": "addon_giveaway_yellow",
-		"group": "Giveaway",
-		"name": "Yellow (Giveaway)",
-		"theme": "PixelPlush",
-		"type": "add-on",
-		"path": "icon_giveaway_yellow.png",
-		"cost": 10,
-		"hidden": true
-	},
-	{
-		"id": "bundle_giveaway_colors",
-		"group": "Giveaway",
-		"name": "Colors Bundle (Giveaway)",
-		"theme": "PixelPlush",
-		"type": "bundle",
-		"path": "icon_giveaway_bundle.gif",
-		"cost": 40,
-		"hidden": true,
-		"items": "addon_giveaway_blue,addon_giveaway_bw,addon_giveaway_green,addon_giveaway_orange,addon_giveaway_pink,addon_giveaway_purple,addon_giveaway_red,addon_giveaway_yellow"
 	}
 ]

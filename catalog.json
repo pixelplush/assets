@@ -89,7 +89,6 @@
 		"type": "bundle",
 		"path": "easter_market_icon.png",
 		"cost": 40,
-		"sale": true,
 		"items": "addon_parachute_eastercandy,addon_parachute_easterchoco,addon_parachute_eastersweets,addon_parachute_eastermarshmallow,addon_parachute_eastercotton,addon_parachute_easterdots"
 	},
 	{
@@ -99,8 +98,7 @@
 		"theme": "Easter",
 		"type": "add-on",
 		"path": "easter_icon_1.png",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "addon_parachute_easterchoco",
@@ -109,8 +107,7 @@
 		"theme": "Easter",
 		"type": "add-on",
 		"path": "easter_icon_2.png",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "addon_parachute_eastersweets",
@@ -119,8 +116,7 @@
 		"theme": "Easter",
 		"type": "add-on",
 		"path": "easter_icon_3.png",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "addon_parachute_eastermarshmallow",
@@ -129,8 +125,7 @@
 		"theme": "Easter",
 		"type": "add-on",
 		"path": "easter_icon_4.png",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "addon_parachute_eastercotton",
@@ -139,8 +134,7 @@
 		"theme": "Easter",
 		"type": "add-on",
 		"path": "easter_icon_5.png",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "addon_parachute_easterdots",
@@ -149,8 +143,7 @@
 		"theme": "Easter",
 		"type": "add-on",
 		"path": "easter_icon_6.png",
-		"cost": 10,
-		"sale": true
+		"cost": 10
 	},
 	{
 		"id": "addon_parachute_easter",

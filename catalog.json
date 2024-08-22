@@ -1970,6 +1970,7 @@
 		"type": "bundle",
 		"path": "icon_cake_bundle.gif",
 		"cost": 30,
+		"sale": true,
 		"items": "addon_parachute_cakeplush,addon_parachute_cakerainbow,addon_parachute_cakefruit,addon_parachute_cakechoco"
 	},
 	{
@@ -1979,7 +1980,8 @@
 		"theme": "PixelPlush",
 		"type": "add-on",
 		"path": "icon_cake_pixelplush.png",
-		"cost": 10
+		"cost": 10,
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_cakerainbow",
@@ -1988,7 +1990,8 @@
 		"theme": "PixelPlush",
 		"type": "add-on",
 		"path": "icon_cake_rainbow.png",
-		"cost": 10
+		"cost": 10,
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_cakefruit",
@@ -1997,7 +2000,8 @@
 		"theme": "PixelPlush",
 		"type": "add-on",
 		"path": "icon_cake_fruit.png",
-		"cost": 10
+		"cost": 10,
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_cakechoco",
@@ -2006,7 +2010,8 @@
 		"theme": "PixelPlush",
 		"type": "add-on",
 		"path": "icon_cake_choco2.png",
-		"cost": 10
+		"cost": 10,
+		"sale": true
 	},
 	{
 		"id": "addon_parachute_rainbow",

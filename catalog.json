@@ -1,5 +1,15 @@
 [
 	{
+		"id": "addon_parachute_campchaos",
+		"group": "Parachute Drop",
+		"name": "Camp Chaos (Parachute Drop)",
+		"theme": "Special",
+		"type": "add-on",
+		"path": "pool_icon_market_frog.png",
+		"cost": 40,
+		"hidden": true
+	},
+	{
 		"id": "outfit_party_hat_red_turq",
 		"group": "Hat",
 		"name": "PixelPlush 2024 Party Hat (Red/Turquoise)",

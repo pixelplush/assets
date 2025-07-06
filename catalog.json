@@ -1,5 +1,35 @@
 [
 	{
+		"id": "blurple",
+		"group": "Special",
+		"name": "Blurple",
+		"theme": "Special",
+		"type": "character",
+		"path": "blurple",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "gwape",
+		"group": "Special",
+		"name": "Gwape",
+		"theme": "Special",
+		"type": "character",
+		"path": "gwape",
+		"cost": 20,
+		"hidden": true
+	},
+	{
+		"id": "jelly",
+		"group": "Special",
+		"name": "Jelly",
+		"theme": "Special",
+		"type": "character",
+		"path": "jelly",
+		"cost": 20,
+		"hidden": true
+	},
+	{
 		"id": "addon_maze_campchaos",
 		"group": "Maze",
 		"name": "Camp Chaos (Maze)",

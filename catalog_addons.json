@@ -1,11 +1,21 @@
 [
 	{
+		"id": "addon_maze_campchaos",
+		"group": "Maze",
+		"name": "Camp Chaos (Maze)",
+		"theme": "Special",
+		"type": "add-on",
+		"path": "icon_camp_chaos_maze.png",
+		"cost": 40,
+		"hidden": true
+	},
+	{
 		"id": "addon_parachute_campchaos",
 		"group": "Parachute Drop",
 		"name": "Camp Chaos (Parachute Drop)",
 		"theme": "Special",
 		"type": "add-on",
-		"path": "pool_icon_market_frog.png",
+		"path": "icon_camp_chaos_chutes.png",
 		"cost": 40,
 		"hidden": true
 	},

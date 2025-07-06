@@ -1,5 +1,16 @@
 [
 	{
+		"id": "bundle_campchaos",
+		"group": "Special",
+		"name": "Camp Chaos Bundle",
+		"theme": "Special",
+		"type": "bundle",
+		"path": "icon_camp_chaos_chutes.png",
+		"cost": 60,
+		"hidden": true,
+		"items": "addon_parachute_campchaos,addon_maze_campchaos,blurple,gwape,jelly"
+	},
+	{
 		"id": "blurple",
 		"group": "Special",
 		"name": "Blurple",

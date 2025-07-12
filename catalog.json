@@ -8,7 +8,7 @@
 		"path": "icon_camp_chaos_chutes.png",
 		"cost": 60,
 		"hidden": true,
-		"items": "addon_parachute_campchaos,addon_maze_campchaos,blurple,gwape,jelly"
+		"items": "addon_parachute_campchaos,addon_maze_campchaos"
 	},
 	{
 		"id": "blurple",

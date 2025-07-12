@@ -17,8 +17,7 @@
 		"theme": "Special",
 		"type": "character",
 		"path": "blurple",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "gwape",
@@ -27,8 +26,7 @@
 		"theme": "Special",
 		"type": "character",
 		"path": "gwape",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "jelly",
@@ -37,8 +35,7 @@
 		"theme": "Special",
 		"type": "character",
 		"path": "jelly",
-		"cost": 20,
-		"hidden": true
+		"cost": 20
 	},
 	{
 		"id": "addon_maze_campchaos",

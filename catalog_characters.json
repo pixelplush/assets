@@ -251,7 +251,7 @@
 		"name": "Lotus",
 		"theme": "Fairy",
 		"type": "character",
-		"path": "mushroom_man_pink",
+		"path": "lotus",
 		"cost": 20
 	},
 	{
@@ -260,7 +260,7 @@
 		"name": "Tori",
 		"theme": "Fairy",
 		"type": "character",
-		"path": "mushroom_man_green",
+		"path": "tori",
 		"cost": 20
 	},
 	{
@@ -269,7 +269,7 @@
 		"name": "Koral",
 		"theme": "Fairy",
 		"type": "character",
-		"path": "fairy_girl",
+		"path": "koral",
 		"cost": 20
 	},
 	{
@@ -278,7 +278,7 @@
 		"name": "Kiro",
 		"theme": "Fairy",
 		"type": "character",
-		"path": "fairy_boy",
+		"path": "kiro",
 		"cost": 20
 	},
 	{
@@ -287,7 +287,7 @@
 		"name": "Nova",
 		"theme": "Fairy",
 		"type": "character",
-		"path": "mushroom_man_purple",
+		"path": "nova",
 		"cost": 20
 	},
 	{
@@ -296,7 +296,7 @@
 		"name": "Instafluff",
 		"theme": "Streamer",
 		"type": "character",
-		"path": "insta",
+		"path": "instafluff",
 		"cost": 0
 	},
 	{
@@ -314,7 +314,7 @@
 		"name": "Avellana",
 		"theme": "Streamer",
 		"type": "character",
-		"path": "avelana",
+		"path": "avellana",
 		"cost": 0,
 		"hidden": true
 	},

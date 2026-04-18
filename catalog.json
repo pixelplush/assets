@@ -1633,7 +1633,7 @@
 		"name": "Jimmy (Classic)",
 		"theme": "Valentine",
 		"type": "character",
-		"path": "bear",
+		"path": "boybear",
 		"cost": 20
 	},
 	{
@@ -1642,7 +1642,7 @@
 		"name": "Pammy (Classic)",
 		"theme": "Valentine",
 		"type": "character",
-		"path": "beargirl",
+		"path": "girlbear",
 		"cost": 20
 	},
 	{
@@ -1651,7 +1651,7 @@
 		"name": "Grizzly (Classic)",
 		"theme": "Valentine",
 		"type": "character",
-		"path": "evil_bear",
+		"path": "evilbear",
 		"cost": 20
 	},
 	{

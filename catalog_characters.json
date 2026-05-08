@@ -164,7 +164,7 @@
 		"name": "Jimmy",
 		"theme": "Valentine",
 		"type": "character",
-		"path": "boybear",
+		"path": "bear",
 		"cost": 20
 	},
 	{
@@ -173,7 +173,7 @@
 		"name": "Pammy",
 		"theme": "Valentine",
 		"type": "character",
-		"path": "girlbear",
+		"path": "beargirl",
 		"cost": 20
 	},
 	{
@@ -182,7 +182,7 @@
 		"name": "Grizzly",
 		"theme": "Valentine",
 		"type": "character",
-		"path": "evilbear",
+		"path": "evil_bear",
 		"cost": 20
 	},
 	{
@@ -251,7 +251,7 @@
 		"name": "Lotus",
 		"theme": "Fairy",
 		"type": "character",
-		"path": "lotus",
+		"path": "mushroom_man_pink",
 		"cost": 20
 	},
 	{
@@ -260,7 +260,7 @@
 		"name": "Tori",
 		"theme": "Fairy",
 		"type": "character",
-		"path": "tori",
+		"path": "mushroom_man_green",
 		"cost": 20
 	},
 	{
@@ -269,7 +269,7 @@
 		"name": "Koral",
 		"theme": "Fairy",
 		"type": "character",
-		"path": "koral",
+		"path": "fairy_girl",
 		"cost": 20
 	},
 	{
@@ -278,7 +278,7 @@
 		"name": "Kiro",
 		"theme": "Fairy",
 		"type": "character",
-		"path": "kiro",
+		"path": "fairy_boy",
 		"cost": 20
 	},
 	{
@@ -287,7 +287,7 @@
 		"name": "Nova",
 		"theme": "Fairy",
 		"type": "character",
-		"path": "nova",
+		"path": "mushroom_man_purple",
 		"cost": 20
 	},
 	{
@@ -296,7 +296,7 @@
 		"name": "Instafluff",
 		"theme": "Streamer",
 		"type": "character",
-		"path": "instafluff",
+		"path": "insta",
 		"cost": 0
 	},
 	{
@@ -314,7 +314,7 @@
 		"name": "Avellana",
 		"theme": "Streamer",
 		"type": "character",
-		"path": "avellana",
+		"path": "avelana",
 		"cost": 0,
 		"hidden": true
 	},
